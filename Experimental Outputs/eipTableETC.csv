@@ -1,0 +1,945 @@
+Number,Title,Author,Status
+1,EIP Purpose and Guidelines,"Martin Becze, Hudson Jameson, et al.",Living
+5069,EIP Editor Handbook,"Pooja Ranjan, Gavin John, Sam Wilson, et al.",Living
+2,Homestead Hard-fork Changes,Vitalik Buterin,Final
+4,EIP Classification,Joseph Chow,Final
+5,Gas Usage for `RETURN` and `CALL*`,Christian Reitwiessner,Final
+6,Renaming SUICIDE opcode,Hudson Jameson,Final
+7,DELEGATECALL,Vitalik Buterin,Final
+8,devp2p Forward Compatibility Requirements for Homestead,Felix Lange,Final
+20,Token Standard,"Fabian Vogelsteller, Vitalik Buterin",Final
+55,Mixed-case checksum address encoding,"Vitalik Buterin, Alex Van de Sande",Final
+100,Change difficulty adjustment to target mean block time including uncles,Vitalik Buterin,Final
+137,Ethereum Domain Name Service - Specification,Nick Johnson,Final
+140,REVERT instruction,"Alex Beregszaszi, Nikolai Mushegian",Final
+141,Designated invalid EVM instruction,Alex Beregszaszi,Final
+145,Bitwise shifting instructions in EVM,"Alex Beregszaszi, PaweÅ Bylica",Final
+150,Gas cost changes for IO-heavy operations,Vitalik Buterin,Final
+152,Add BLAKE2 compression function `F` precompile,"Tjaden Hess, Matt Luongo, Piotr Dyraga, James Hancock",Final
+155,Simple replay attack protection,Vitalik Buterin,Final
+158,State clearing,Vitalik Buterin,Final
+160,EXP cost increase,Vitalik Buterin,Final
+161,State trie clearing (invariant-preserving alternative),Gavin Wood,Final
+162,Initial ENS Hash Registrar,"Maurelian, Nick Johnson, Alex Van de Sande",Final
+165,Standard Interface Detection,"Christian Reitwieíner, Nick Johnson, Fabian Vogelsteller, Jordi Baylina, Konrad Feldmeier, William Entriken",Final
+170,Contract code size limit,Vitalik Buterin,Final
+173,Contract Ownership Standard,"Nick Mudge, Dan Finlay",Final
+181,ENS support for reverse resolution of Ethereum addresses,Nick Johnson,Final
+190,Ethereum Smart Contract Packaging Standard,"Piper Merriam, Tim Coulter, Denis Erfurt, RJ Catalano, Iuri Matias",Final
+191,Signed Data Standard,"Martin Holst Swende, Nick Johnson",Final
+196,Precompiled contracts for addition and scalar multiplication on the elliptic curve alt_bn128,Christian Reitwiessner,Final
+197,Precompiled contracts for optimal ate pairing check on the elliptic curve alt_bn128,"Vitalik Buterin, Christian Reitwiessner",Final
+198,Big integer modular exponentiation,Vitalik Buterin,Final
+211,New opcodes: RETURNDATASIZE and RETURNDATACOPY,Christian Reitwiessner,Final
+214,New opcode STATICCALL,"Vitalik Buterin, Christian Reitwiessner",Final
+223,Token with transaction handling model,Dexaran ,Final
+225,Clique proof-of-authority consensus protocol,Péter Szilágyi,Final
+234,Add `blockHash` to JSON-RPC filter options.,Micah Zoltu,Final
+600,Ethereum purpose allocation for Deterministic Wallets,"Nick Johnson, Micah Zoltu",Final
+601,Ethereum hierarchy for deterministic wallets,"Nick Johnson, Micah Zoltu",Final
+606,Hardfork Meta: Homestead,Alex Beregszaszi,Final
+607,Hardfork Meta: Spurious Dragon,Alex Beregszaszi,Final
+608,Hardfork Meta: Tangerine Whistle,Alex Beregszaszi,Final
+609,Hardfork Meta: Byzantium,Alex Beregszaszi,Final
+627,Whisper Specification,Vlad Gluhovsky,Final
+649,Metropolis Difficulty Bomb Delay and Block Reward Reduction,"Afri Schoedon, Vitalik Buterin",Final
+658,Embedding transaction status code in receipts,Nick Johnson,Final
+681,URL Format for Transaction Requests,Daniel A. Nagy,Final
+684,Revert creation in case of collision,"Vitalik Buterin, Renan Rodrigues de Souza",Final
+695,Create `eth_chainId` method for JSON-RPC,"Isaac Ardis, Wei Tang, Fan Torchz, Erik Marks",Final
+706,DEVp2p snappy compression,Péter Szilágyi,Final
+712,Typed structured data hashing and signing,"Remco Bloemen, Leonid Logvinov, Jacob Evans",Final
+721,Non-Fungible Token Standard,"William Entriken, Dieter Shirley, Jacob Evans, Nastassia Sachs",Final
+747,wallet_watchAsset RPC Method,"Dan Finlay, Esteban Mino, Gavin John",Final
+777,Token Standard,"Jacques Dafflon, Jordi Baylina, Thomas Shababi",Final
+778,Ethereum Node Records (ENR),Felix Lange,Final
+779,Hardfork Meta: DAO Fork,Casey Detrio,Final
+820,Pseudo-introspection Registry Contract,"Jordi Baylina, Jacques Dafflon",Final
+868,Node Discovery v4 ENR Extension,Felix Lange,Final
+1013,Hardfork Meta: Constantinople,Nick Savers,Final
+1014,Skinny CREATE2,Vitalik Buterin,Final
+1046,tokenURI Interoperability,"Tommy Nicholas, Matt Russo, John Zettler, Matt Condon, Gavin John",Final
+1052,EXTCODEHASH opcode,"Nick Johnson, PaweÅ Bylica",Final
+1108,Reduce alt_bn128 precompile gas costs,"Antonio Salazar Cardozo, Zachary Williamson",Final
+1153,Transient storage opcodes,"Alexey Akhunov, Moody Salem",Final
+1155,Multi Token Standard,"Witek Radomski, Andrew Cooke, Philippe Castonguay , James Therien, Eric Binet, Ronan Sandford ",Final
+1167,Minimal Proxy Contract,"Peter Murray, Nate Welch, Joe Messerman",Final
+1193,Ethereum Provider JavaScript API,"Fabian Vogelsteller, Ryan Ghods, Victor Maia, Marc Garreau, Erik Marks",Final
+1234,Constantinople Difficulty Bomb Delay and Block Reward Adjustment,Afri Schoedon,Final
+1271,Standard Signature Validation Method for Contracts,"Francisco Giordano, Matt Condon, Philippe Castonguay, Amir Bandeali, Jorge Izquierdo, Bertrand Masius",Final
+1283,Net gas metering for SSTORE without dirty maps,Wei Tang,Final
+1328,WalletConnect URI Format,"ligi, Pedro Gomes",Final
+1344,ChainID opcode,"Richard Meissner, Bryant Eisenbach",Final
+1363,Payable Token,Vittorio Minacori,Final
+1559,Fee market change for ETH 1.0 chain,"Vitalik Buterin, Eric Conner, Rick Dudley, Matthew Slipper, Ian Norden, Abdelhamid Bakhta",Final
+1679,Hardfork Meta: Istanbul,"Alex Beregszaszi, Afri Schoedon",Final
+1716,Hardfork Meta: Petersburg,"Afri Schoedon, Marius van der Wijden",Final
+1820,Pseudo-introspection Registry Contract,"Jordi Baylina, Jacques Dafflon",Final
+1884,Repricing for trie-size-dependent opcodes,Martin Holst Swende,Final
+1967,Proxy Storage Slots,"Santiago Palladino, Francisco Giordano, Hadrien Croubois",Final
+2028,Transaction data gas cost reduction,"Alexey Akhunov, Eli Ben Sasson, Tom Brand, Louis Guthmann, Avihu Levy",Final
+2098,Compact Signature Representation,"Richard Moore, Nick Johnson",Final
+2124,Fork identifier for chain compatibility checks,"Péter Szilágyi, Felix Lange",Final
+2135,"Consumable Interface (Tickets, etc)",Zainan Victor Zhou,Final
+2159,Common Prometheus Metrics Names for Clients,Adrian Sutton,Final
+2200,Structured Definitions for Net Gas Metering,Wei Tang,Final
+2228,Canonicalize the name of network ID 1 and chain ID 1,William Entriken,Final
+2255,Wallet Permissions System,"Dan Finlay, Erik Marks, Gavin John",Final
+2309,ERC-721 Consecutive Transfer Extension,Sean Papanikolas,Final
+2364,eth/64: forkid-extended protocol handshake,"Péter Szilágyi, Péter Szilágyi, Tim Beiko",Final
+2384,Muir Glacier Difficulty Bomb Delay,Eric Conner,Final
+2387,Hardfork Meta: Muir Glacier,James Hancock,Final
+2464,eth/65: transaction announcements and retrievals,"Péter Szilágyi, Péter Szilágyi, Gary Rong, Tim Beiko",Final
+2481,eth/66 request identifier,Christoph Burgdorf,Final
+2535,"Diamonds, Multi-Facet Proxy",Nick Mudge,Final
+2565,ModExp Gas Cost,"Kelly Olson, Sean Gulley, Simon Peffers, Justin Drake, Dankrad Feist",Final
+2612,Permit Extension for EIP-20 Signed Approvals,Martin Lundfall,Final
+2678,Revised Ethereum Smart Contract Packaging Standard (EthPM v3),"g. nicholas dâandrea, Piper Merriam, Nick Gheorghita, Christian Reitwiessner, Ben Hauser, Bryant Eisenbach",Final
+2681,Limit account nonce to 2^64-1,Alex Beregszaszi,Final
+2696,JavaScript `request` method RPC transport,"Micah Zoltu, Erik Marks",Final
+2700,JavaScript Provider Event Emitter,"Micah Zoltu, Erik Marks",Final
+2718,Typed Transaction Envelope,Micah Zoltu,Final
+2771,Secure Protocol for Native Meta Transactions,"Ronan Sandford, Liraz Siri, Dror Tirosh, Yoav Weiss, Alex Forshtat, Hadrien Croubois, Sachin Tomar, Patrick McCorry, Nicolas Venturo, Fabian Vogelsteller, Gavin John",Final
+2929,Gas cost increases for state access opcodes,"Vitalik Buterin, Martin Swende",Final
+2930,Optional access lists,"Vitalik Buterin, Martin Swende",Final
+2976,Typed Transactions over Gossip,Micah Zoltu,Final
+2981,NFT Royalty Standard,"Zach Burks, James Morgan, Blaine Malone, James Seibel",Final
+2982,Serenity Phase 0,"Danny Ryan, Vitalik Buterin",Final
+3156,Flash Loans,"Alberto Cuesta Caí±ada, Fiona Kobayashi, fubuloubu, Austin Williams",Final
+3198,BASEFEE opcode,"Abdelhamid Bakhta, Vitalik Buterin",Final
+3448,MetaProxy Standard,pinkiebell,Final
+3475,Abstract Storage Bonds,"Yu Liu, Varun Deshpande, Cedric Ngakam, Dhruv Malik, Samuel Gwlanold Edoumou, Toufic Batrice",Final
+3525,Semi-Fungible Token,"Will Wang, Mike Meng, Yi Cai , Ryan Chow, Zhongxin Wu, AlvisDu",Final
+3529,Reduction in refunds,"Vitalik Buterin, Martin Swende",Final
+3541,Reject new contract code starting with the 0xEF byte,"Alex Beregszaszi, PaweÅ Bylica, Andrei Maiboroda, Alexey Akhunov, Christian Reitwiessner, Martin Swende",Final
+3554,Difficulty Bomb Delay to December 2021,James Hancock,Final
+3607,Reject transactions from senders with deployed code,"Dankrad Feist, Dmitry Khovratovich, Marius van der Wijden",Final
+3643,T-REX - Token for Regulated EXchanges,"Joachim Lebrun, Tony Malghem, Kevin Thizy, Luc Falempin, Adam Boudjemaa",Final
+3651,Warm COINBASE,William Morriss,Final
+3668,CCIP ReadâSecure offchain data retrieval,Nick Johnson,Final
+3675,Upgrade consensus to Proof-of-Stake,"Mikhail Kalinin, Danny Ryan, Vitalik Buterin",Final
+3855,PUSH0 instruction,"Alex Beregszaszi, Hugo De la cruz, PaweÅ Bylica",Final
+3860,Limit and meter initcode,"Martin Holst Swende, PaweÅ Bylica, Alex Beregszaszi, Andrei Maiboroda",Final
+4345,Difficulty Bomb Delay to June 2022,"Tim Beiko, James Hancock, Thomas Jay Rush",Final
+4399,Supplant DIFFICULTY opcode with PREVRANDAO,"Mikhail Kalinin, Danny Ryan",Final
+4400,EIP-721 Consumable Extension,"Daniel Ivanov, George Spasov",Final
+4519,Non-Fungible Tokens Tied to Physical Assets,"Javier Arcenegui, Rosario Arjona, Roberto Román, Iluminada Baturone",Final
+4626,Tokenized Vaults,"Joey Santoro, t11s, Jet Jadeja, Alberto Cuesta Caí±ada, Seí±or Doggo",Final
+4736,Consensus Layer Withdrawal Protection,"Benjamin Chodroff, Jim McDonald",Final
+4788,Beacon block root in the EVM,"Alex Stokes, Ansgar Dietrichs, Danny Ryan, Martin Holst Swende, lightclient",Final
+4804,Web3 URL to EVM Call Message Translation,"Qi Zhou, Chao Pi, Sam Wilson",Final
+4834,Hierarchical Domains,Gavin John,Final
+4844,Shard Blob Transactions,"Vitalik Buterin, Dankrad Feist, Diederik Loerakker, George Kadianakis, Matt Garnett, Mofi Taiwo, Ansgar Dietrichs",Final
+4881,Deposit Contract Snapshot Interface,Mark Mackey,Final
+4895,Beacon chain push withdrawals as operations,"Alex Stokes, Danny Ryan",Final
+4906,EIP-721 Metadata Update Extension,"Anders, Lance, Shrug, Nathan",Final
+4907,"Rental NFT, an Extension of EIP-721","Anders, Lance, Shrug",Final
+4910,Royalty Bearing NFTs,Andreas Freund,Final
+4938,eth/67 - Removal of GetNodeData,"Marius van der Wijden, Felix Lange, Gary Rong",Final
+4955,Vendor Metadata Extension for NFTs,Ignacio Mazzara,Final
+5006,"Rental NFT, NFT User Extension","Lance, Anders, Shrug",Final
+5007,"Time NFT, ERC-721 Time Extension","Anders, Lance, Shrug",Final
+5023,Shareable Non-Fungible Token,"Jarno Marttila, Martin Moravek",Final
+5133,Delaying Difficulty Bomb to mid-September 2022,"Tomasz Kajetan Stanczak, Eric Marti Haynes, Josh Klopfenstein, Abhimanyu Nag",Final
+5169,Client Script URI for Token Contracts,"James, Weiwu",Final
+5192,Minimal Soulbound NFTs,"Tim Daubenschütz, Anders",Final
+5202,Blueprint contract format,"Charles Cooper, Edward Amor",Final
+5219,Contract Resource Requests,Gavin John,Final
+5267,Retrieval of EIP-712 domain,Francisco Giordano,Final
+5313,Light Contract Ownership,William Entriken,Final
+5375,NFT Author Information and Consent,"Samuele Marro, Luca Donno",Final
+5380,ERC-721 Entitlement Extension,"Gavin John, Tim Daubenschütz",Final
+5484,Consensual Soulbound Tokens,Buzz Cai,Final
+5489,NFT Hyperlink Extension,IronMan_CH,Final
+5507,Refundable Tokens,"elie222, Gavin John",Final
+5521,Referable NFT,"Saber Yu, Qin Wang, Shange Fu, Yilin Sai, Shiping Chen, Sherry Xu, Jiangshan Yu",Final
+5528,Refundable Fungible Token,StartfundInc,Final
+5564,Stealth Addresses,"Toni Wahrstí¤tter, Matt Solomon, Ben DiFrancesco, Vitalik Buterin",Final
+5570,Digital Receipt Non-Fungible Tokens,Sean Darcy,Final
+5585,ERC-721 NFT Authorization,"Veega Labs, Sean NG, Tiger, Fred, Fov Cao",Final
+5606,Multiverse NFTs,"Gaurang Torvekar, Khemraj Adhawade, Nikhil Asrani",Final
+5615,ERC-1155 Supply Extension,Gavin John,Final
+5625,NFT Metadata JSON Schema dStorage Extension,"Gavin Fu, Leo Wang, Bova Chen, Guang Han, Brian Wu",Final
+5646,Token State Fingerprint,Naim Ashhab,Final
+5656,MCOPY - Memory copying instruction,"Alex Beregszaszi, Paul Dworzanski, Jared Wasinger, Casey Detrio, Pawel Bylica, Charles Cooper",Final
+5679,Token Minting and Burning,Zainan Victor Zhou,Final
+5725,Transferable Vesting NFT,"Apeguru, Marco De Vries, Mario, DeFiFoFum, Elliott Green",Final
+5732,Commit Interface,"Zainan Victor Zhou, Matt Stam",Final
+5749,The 'window.evmproviders' object,Kosala Hemachandra,Final
+5750,General Extensibility for Method Behaviors,Zainan Victor Zhou,Final
+5757,Process for Approving External Resources,Sam Wilson,Final
+5773,Context-Dependent Multi-Asset Tokens,"Bruno Å kvorc, Cicada, Steven Pineda, Stevan Bogosavljevic, Jan Turk",Final
+5793,eth/68 - Add tx type to tx announcement,Marius van der Wijden,Final
+6049,Deprecate SELFDESTRUCT,William Entriken,Final
+6059,Parent-Governed Nestable Non-Fungible Tokens,"Bruno Å kvorc, Cicada, Steven Pineda, Stevan Bogosavljevic, Jan Turk",Final
+6066,Signature Validation Method for NFTs,Jack Boyuan Xu,Final
+6105,No Intermediary NFT Trading Protocol,"5660-eth, Silvere Heraudeau, Martin McConnell, Abu, Wizard Wang",Final
+6122,Forkid checks based on timestamps,Marius van der Wijden,Final
+6147,"Guard of NFT/SBT, an Extension of ERC-721","5660-eth, Wizard Wang",Final
+6150,Hierarchical NFTs,"Keegan Lee, msfew, Kartin, qizhou",Final
+6220,Composable NFTs utilizing Equippable Parts,"Bruno Å kvorc, Cicada, Steven Pineda, Stevan Bogosavljevic, Jan Turk",Final
+6239,Semantic Soulbound Tokens,Jessica Chang,Final
+6381,Public Non-Fungible Token Emote Repository,"Bruno Å kvorc, Steven Pineda, Stevan Bogosavljevic, Jan Turk",Final
+6454,Minimal Transferable NFT detection interface,"Bruno Å kvorc, Francesco Sullo, Steven Pineda, Stevan Bogosavljevic, Jan Turk",Final
+6492,Signature Validation for Predeploy Contracts,"Ivo Georgiev, Agustin Aguilar",Final
+6538,Stealth Meta-Address Registry,"Matt Solomon, Toni Wahrstí¤tter, Ben DiFrancesco, Vitalik Buterin, Gary Ghayrat",Final
+6672,Multi-redeemable NFTs,"RE:DREAMER Lab, Archie Chang , Kai Yu , Yonathan Randyanto , Boyu Chu , Boxi Li , Jason Cheng ",Final
+6780,SELFDESTRUCT only in same transaction,"Guillaume Ballet, Vitalik Buterin, Dankrad Feist",Final
+6808,Fungible Key Bound Token,"Mihai Onila, Nick Zeman, Narcis Cotaie",Final
+6809,Non-Fungible Key Bound Token,"Mihai Onila, Nick Zeman, Narcis Cotaie",Final
+6953,Network Upgrade Activation Triggers,Tim Beiko,Final
+6963,Multi Injected Provider Discovery,"Pedro Gomes, Kosala Hemachandra, Richard Moore, Gregory Markou, Kyle Den Hartog, Glitch, Jake Moxey, Pierre Bertet, Darryl Yeo, Yaroslav Sergievsky",Final
+6982,Efficient Default Lockable Tokens,"Francesco Sullo, Alexe Spataru",Final
+7007,Verifiable AI-Generated Content Token,"Cathie So, Xiaohang Yu, Conway, Lee Ting Ting, Kartin",Final
+7044,Perpetually Valid Signed Voluntary Exits,Lion,Final
+7045,Increase max attestation inclusion slot,Danny Ryan,Final
+7053,Interoperable Digital Media Indexing,"Bofu Chen, Tammy Yang",Final
+7066,Lockable Extension for ERC-721,"Piyush Chittara, StreamNFT, Srinivas Joshi",Final
+7092,Financial Bonds,Samuel Gwlanold Edoumou,Final
+7160,ERC-721 Multi-Metadata Extension,"0xG, Marco Peyfuss",Final
+7201,Namespaced Storage Layout,"Francisco Giordano, Hadrien Croubois, Ernesto Garcí­a, Eric Lau",Final
+7208,On-Chain Data Containers,"Rachid Ajaja, Matthijs de Vries, Alexandros Athanasopulos, Pavel Rubin, Sebastian Galimberti Romano, Daniel Berbesi, Apostolos Mavropoulos, Barbara Marcano, Daniel Ortega",Final
+7231,Identity-aggregated NFT,"Chloe Gu, Navid X., Victor Yu, Archer H.",Final
+7329,ERC/EIP Repository split,"Lightclient, Danno Ferrin",Final
+7401,Parent-Governed Non-Fungible Tokens Nesting,"Bruno Å kvorc, Cicada, Steven Pineda, Stevan Bogosavljevic, Jan Turk",Final
+7409,Public Non-Fungible Tokens Emote Repository,"Bruno Å kvorc, Steven Pineda, Stevan Bogosavljevic, Jan Turk",Final
+7432,Non-Fungible Token Roles,"Ernani Sí£o Thiago, Daniel Lima",Final
+7439,Prevent ticket touting,"LeadBest Consulting Group, Sandy Sung, Mars Peng, Taien Wang",Final
+7514,Add Max Epoch Churn Limit,"dapplion, Tim Beiko",Final
+7516,BLOBBASEFEE instruction,Carl Beekhuizen,Final
+7528,ETH (Native Asset) Address Convention,Joey Santoro,Final
+7535,Native Asset ERC-4626 Tokenized Vault,Joey Santoro,Final
+7540,Asynchronous ERC-4626 Tokenized Vaults,"Jeroen Offerijns, Alina Sinelnikova, Vikram Arun, Joey Santoro, Farhaan Ali, Joí£o Martins",Final
+7568,Hardfork Meta Backfill - Berlin to Shapella,Tim Beiko,Final
+7569,Hardfork Meta - Dencun,Tim Beiko,Final
+7575,Multi-Asset ERC-4626 Vaults,"Jeroen Offerijns, Alina Sinelnikova, Vikram Arun, Joey Santoro, Farhaan Ali",Final
+7578,Physical Asset Redemption,"Lee Vidor, David Tan, Lee Smith, Gabriel Stoica",Final
+7587,Reserve Precompile Address Range for RIPs,"Carl Beekhuizen, Ansgar Dietrichs, Danny Ryan, Tim Beiko",Final
+7588,Blob Transactions Metadata JSON Schema,"Gavin Fu, Leo Wang, Bova Chen, Aiden X",Final
+7636,"Extension of EIP-778 for ""client"" ENR Entry",James Kempton,Final
+7734,Decentralized Identity Verification (DID),Anushka Yadav ,Final
+7751,Wrapping of bubbled up reverts,"Daniel Gretzke, Sara Reynolds, Alice Henshaw, Marko Veniger, Hadrien Croubois",Final
+7818,Expirable ERC-20,"sirawt, ADISAKBOONMARK",Final
+7820,Access Control Registry,"Shubham Khandelwal, Anushka Yadav",Final
+1191,Add chain id to mixed-case checksum address encoding,Juliano Rizzo,Last Call
+1898,Add `blockHash` to defaultBlock methods,Charles Cooper,Last Call
+2266,Atomic Swap-based American Call Option Contract Standard,"Runchao Han, Haoyu Lin, Jiangshan Yu",Last Call
+2537,Precompile for BLS12-381 curve operations,"Alex Vlasov, Kelly Olson, Alex Stokes, Antonio Sanso",Last Call
+2935,Serve historical block hashes from state,"Vitalik Buterin, Tomasz Stanczak, Guillaume Ballet, Gajinder Singh, Tanishq Jasoria, Ignacio Hagopian, Jochem Brouwer, Sina Mahmoodi",Last Call
+3076,Slashing Protection Interchange Format,"Michael Sproul, Sacha Saint-Leger, Danny Ryan",Last Call
+3155,EVM trace specification,"Martin Holst Swende, Marius van der Wijden",Last Call
+5008,ERC-721 Nonce Extension,"Anders, Lance, Shrug",Last Call
+5114,Soulbound Badge,Micah Zoltu,Last Call
+5164,Cross-Chain Execution,"Brendan Asselstine, Pierrick Turelier, Chris Whinfrey",Last Call
+5216,ERC-1155 Allowance Extension,"Iván Mañús, Juan Carlos Cantó",Last Call
+5453,Endorsement - Permit for Any Functions,Zainan Victor Zhou,Last Call
+5496,Multi-privilege Management NFT Extension,Jeremy Z,Last Call
+6093,Custom errors for commonly-used tokens,"Ernesto García, Francisco Giordano, Hadrien Croubois",Last Call
+6110,Supply validator deposits on chain,"Mikhail Kalinin, Danny Ryan, Peter Davies",Last Call
+6357,Single-contract Multi-delegatecall,Gavin John,Last Call
+6916,Automatically Reset Testnet,"Mário Havel, pk910, Rémy Roy, Holly Atkinson, Tereza Burianova",Last Call
+7002,Execution layer triggerable withdrawals,"Danny Ryan, Mikhail Kalinin, Ansgar Dietrichs, Hsiao-Wei Wang, lightclient, Felix Lange",Last Call
+7251,Increase the MAX_EFFECTIVE_BALANCE,"mike, Francesco, dapplion, Mikhail, Aditya, Justin, lightclient, Felix Lange",Last Call
+7523,Empty accounts deprecation,Peter Davies,Last Call
+7549,Move committee index outside Attestation,"dapplion, Mikhail Kalinin",Last Call
+7600,Hardfork Meta - Pectra,Tim Beiko,Last Call
+7610,Revert creation in case of non-empty storage,"Gary Rong, Martin Holst Swende",Last Call
+7623,Increase calldata cost,"Toni Wahrstätter, Vitalik Buterin",Last Call
+7627,Secure Messaging Protocol,Chen Liaoyuan,Last Call
+7685,General purpose execution layer requests,"lightclient, Felix Lange",Last Call
+7691,Blob throughput increase,"Parithosh Jayanthi, Toni Wahrstätter, Sam Calder-Mason, Andrew Davis, Ansgar Dietrichs",Last Call
+7702,Set EOA account code,"Vitalik Buterin, Sam Wilson, Ansgar Dietrichs, lightclient",Last Call
+7723,Network Upgrade Inclusion Stages,Tim Beiko,Last Call
+7840,Add blob schedule to EL config files,lightclient,Last Call
+663,"SWAPN, DUPN and EXCHANGE instructions","Alex Beregszaszi, Charles Cooper, Danno Ferrin",Review
+1185,Storage of DNS Records in ENS,Jim McDonald,Review
+2294,Explicit bound to Chain ID size,"Zainan Victor Zhou, Alex Beregszaszi, Bryant Eisenbach",Review
+3540,EOF - EVM Object Format v1,"Alex Beregszaszi, PaweÅ Bylica, Andrei Maiboroda, Matt Garnett, Piotr Dobaczewski",Review
+3670,EOF - Code Validation,"Alex Beregszaszi, Andrei Maiboroda, PaweÅ Bylica",Review
+4200,EOF - Static relative jumps,"Alex Beregszaszi, Andrei Maiboroda, PaweÅ Bylica",Review
+4361,Sign-In with Ethereum,"Wayne Chang, Gregory Rocco, Brantly Millegan, Nick Johnson, Oliver Terbu",Review
+4750,EOF - Functions,"Andrei Maiboroda, Alex Beregszaszi, PaweÅ Bylica",Review
+4803,Limit transaction gas to a maximum of 2^63-1,Alex Beregszaszi,Review
+4824,Common Interfaces for DAOs,"Joshua Tan, Isaac Patka, Ido Gershtein, Eyal Eithcowich, Michael Zargham, Sam Furter",Review
+4973,Account-bound Tokens,Tim Daubenschütz,Review
+5247,Smart Contract Executable Proposal Interface,Zainan Victor Zhou,Review
+5269,ERC Detection and Discovery,Zainan Victor Zhou,Review
+5289,Ethereum Notary Interface,Gavin John,Review
+5450,EOF - Stack Validation,"Andrei Maiboroda, PaweÅ Bylica, Alex Beregszaszi, Danno Ferrin",Review
+5568,Well-Known Format for Required Actions,Gavin John,Review
+5639,Delegation Registry,"foobar, Wilkins Chung , ryley-o, Jake Rockland, andy8052",Review
+5792,Wallet Call API,"Moody Salem, Lukas Rosario, Wilson Cusack, Dror Tirosh, Jake Moxey, Derek Rein, Alex Forshtat, Sam Wilson , Borislav Itskov, Joao Tavares",Review
+5982,Role-based Access Control,Zainan Victor Zhou,Review
+6065,Real Estate Token,"Alex, Ben Fusek, Daniel Fallon-Cyr",Review
+6120,Universal Token Router,"Derion, Zergity, Ngo Quang Anh, BerlinP, Khanh Pham, Hal Blackburn",Review
+6206,EOF - JUMPF and non-returning functions,"Andrei Maiboroda, Alex Beregszaszi, PaweÅ Bylica, Matt Garnett",Review
+6224,Contracts Dependencies Registry,Artem Chystiakov,Review
+6315,ERC-2771 Namespaced Account Abstraction,Gavin John,Review
+6358,Cross-Chain Token States Synchronization,"Shawn Zheng, Jason Cheng, George Huang, Kay Lin",Review
+6366,Permission Token,"Chiro, Victor Dusart",Review
+6372,Contract clock,"Hadrien Croubois, Francisco Giordano",Review
+6551,Non-fungible Token Bound Accounts,"Jayden Windle, Benny Giang, Steve Jang, Druzy Downs, Raymond Huynh, Alanah Lam, Wilkins Chung , Paul Sullivan , Auryn Macmillan, Jan-Felix Schwarz, Anton Bukov, Mikhail Melnik, Josh Weintraub , Rob Montgomery , vectorized, Ví­ctor Martí­nez, Adrián Pajares",Review
+6596,Cultural and Historical Asset Token,"Phillip Pon, Gary Liu, Henry Chan, Joey Liu, Lauren Ho, Jeff Leung, Brian Liang, Joyce Li, Avir Mahtani, Antoine Cote, David Leung",Review
+6617,Bit Based Permission,"Chiro, Victor Dusart",Review
+6734,L2 Token List,"Kelvin Fichter, Andreas Freund, Pavel Sinelnikov",Review
+6735,L2 Aliasing of EVM-based Addresses,"Kelvin Fichter, Andreas Freund",Review
+6909,Minimal Multi-Token Interface,"JT Riley, Dillon, Sara, Vectorized, Neodaoist",Review
+6956,Asset-bound Non-Fungible Tokens,"Thomas Bergmueller, Lukas Meyer",Review
+6997,ERC-721 with transaction validation step.,Eduard López i Fina,Review
+7015,NFT Creator Attribution,indreams,Review
+7069,Revamped CALL instructions,"Alex Beregszaszi, PaweÅ Bylica, Danno Ferrin, Andrei Maiboroda, Charles Cooper",Review
+7144,ERC-20 with transaction validation step.,Eduard López i Fina,Review
+7417,Token Converter,Dexaran ,Review
+7480,EOF - Data section access instructions,"Andrei Maiboroda, Alex Beregszaszi, PaweÅ Bylica",Review
+7495,SSZ StableContainer,"Etan Kissling, Cayman",Review
+7531,Staked ERC-721 Ownership Recognition,Francesco Sullo,Review
+7586,Interest Rate Swaps,Samuel Gwlanold Edoumou,Review
+7590,ERC-20 Holder Extension for NFTs,"Steven Pineda, Jan Turk",Review
+7594,PeerDAS - Peer Data Availability Sampling,"Danny Ryan, Dankrad Feist, Francesco D'Amato, Hsiao-Wei Wang",Review
+7620,EOF Contract Creation,"Alex Beregszaszi, PaweÅ Bylica, Andrei Maiboroda, Piotr Dobaczewski",Review
+7628,ERC-721 Ownership Shares Extension,Chen Liaoyuan ,Review
+7631,Dual Nature Token Pair,"vectorized, Thomas, Quit, Michael Amadi, cygaar, Harrison",Review
+7656,Generalized Contract-Linked Services,Francesco Sullo,Review
+7677,Paymaster Web Service Capability,"Lukas Rosario, Dror Tirosh, Wilson Cusack, Kristof Gazso, Hazim Jumali",Review
+7688,Forward compatible consensus data structures,"Etan Kissling, Cayman",Review
+7692,EVM Object Format (EOFv1) Meta,"Alex Beregszaszi, PaweÅ Bylica, Andrei Maiboroda, Piotr Dobaczewski, Danno Ferrin",Review
+7698,EOF - Creation transaction,"Piotr Dobaczewski, Andrei Maiboroda, PaweÅ Bylica, Alex Beregszaszi",Review
+7742,Uncouple blob count between CL and EL,Alex Stokes,Review
+7743,Multi-Owner Non-Fungible Tokens (MO-NFT),James Savechives,Review
+7744,Code Index,Tim Pechersky ,Review
+7746,Composable Security Middleware Hooks,Tim Pechersky,Review
+7750,Decentralized Employment System,James Savechives ,Review
+7758,Transfer With Authorization,"Peter Jihoon Kim, Kevin Britz, David Knott, Dongri Jin",Review
+7762,Increase MIN_BASE_FEE_PER_BLOB_GAS,"Max Resnick, Davide Crapis, Ansgar Dietrichs",Review
+7777,Governance for Human Robot Societies,"OpenMind, Jan Liphardt, Shaohong Zhong, Boyuan Chen, Paige Xu, James Ball, Thamer Dridi",Review
+7784,GETCONTRACT opcode,Tim Pechersky,Review
+7808,Reserve Tx-Type Range for RIPs,"Carl Beekhuizen, Yoav Weiss, Ansgar Dietrichs",Review
+7823,Set upper bounds for MODEXP,"Alex Beregszaszi, Radoslaw Zagorowicz",Review
+7830,Contract size limit increase for EOF,"Alex Beregszaszi, Danno Ferrin",Review
+7837,Diffusive Tokens,James Savechives,Review
+7870,Hardware and Bandwidth Recommendations,"Parithosh Jayanthi, Kevaundray Wedderburn, Josh Rudolf, Dankrad Feist, Justin Traglia, Ignacio Hagopian, George Kadianakis, Fredrik Svantes, Carl Beekhuizen, Toni Wahrstí¤tter",Review
+725,General data key/value store and execution,"Fabian Vogelsteller, Tyler Yasaka",Draft
+838,ABI specification for REVERT reason string,"Federico Bond, Renan Rodrigues de Souza",Draft
+998,Composable Non-Fungible Token,"Matt Lockyer, Nick Mudge, Jordan Schalm, sebastian echeverry, Zainan Victor Zhou",Draft
+1202,Voting Interface,"Zainan Victor Zhou, Evan, Yin Xu",Draft
+3770,Chain-specific addresses,"Lukas Schor, Richard Meissner, Pedro Gomes, ligi",Draft
+4337,Account Abstraction Using Alt Mempool,"Vitalik Buterin, Yoav Weiss, Dror Tirosh, Shahaf Nacson, Alex Forshtat, Kristof Gazso, Tjaden Hess",Draft
+4762,Statelessness gas cost changes,"Guillaume Ballet, Vitalik Buterin, Dankrad Feist, Ignacio Hagopian, Tanishq Jasoria, Gajinder Singh",Draft
+4883,Composable SVG NFT,"Andrew B Coathup, Alex, Damian Martinelli, blockdev, Austin Griffith",Draft
+4972,Name-Owned Account,"Shu Dong, Qi Zhou, Zihao Chen",Draft
+5115,SY Token,"Vu Nguyen, Long Vuong, Anton Buenavista",Draft
+5173,NFT Future Rewards (nFR),"Yale ReiSoleil, dRadiant, D Wang, PhD",Draft
+5189,Account Abstraction via Endorsed Operations,"Agustí­n Aguilar, Philippe Castonguay, Michael Standen",Draft
+5485,"Legitimacy, Jurisdiction and Sovereignty",Zainan Victor Zhou,Draft
+5573,"Sign-In with Ethereum Capabilities, ReCaps","Oliver Terbu, Jacob Ward, Charles Lehner, Sam Gbafa, Wayne Chang, Charles Cunningham",Draft
+5604,NFT Lien,"Zainan Victor Zhou, Allen Zhou, Alex Qin",Draft
+5630,New approach for encryption / decryption,"Firn Protocol, Fried L. Trout, Weiji Guo",Draft
+5700,Bindable Token Interface,Leeren,Draft
+5727,Semi-Fungible Soulbound Token,"Austin Zhu, Terry Chen",Draft
+5791,Physical Backed Tokens,"2pmflow, locationtba, Cameron Robertson, cygaar, Brian Weick, vectorized, djdabs",Draft
+5920,PAY opcode,"Gavin John, Zainan Victor Zhou, Sam Wilson",Draft
+6123,Smart Derivative Contract,"Christian Fries, Peter Kohl-Landgraf, Alexandros Korpis",Draft
+6170,Cross-Chain Messaging Interface,Sujith Somraaj,Draft
+6229,Tokenized Vaults with Lock-in Period,"Anderson Chen, Martinet Lee, Anton Cheng",Draft
+6327,Elastic Signature,George,Draft
+6404,SSZ transactions,"Etan Kissling, Gajinder Singh, Vitalik Buterin",Draft
+6465,SSZ withdrawals root,"Etan Kissling, Mikhail Kalinin",Draft
+6466,SSZ receipts,"Etan Kissling, Gajinder Singh, Vitalik Buterin",Draft
+6493,SSZ transaction signature scheme,"Etan Kissling, Gajinder Singh, Matt Garnett, Vitalik Buterin",Draft
+6604,Abstract Token,Chris Walker ,Draft
+6662,AA Account Metadata For Authentication,"Shu Dong, Zihao Chen, Peter Chen",Draft
+6682,NFT Flashloans,out.eth,Draft
+6690,EVM Modular Arithmetic Extensions,"Jared Wasinger, Alex Beregszaszi, Vitalik Buterin, RadosÅaw Zagórowicz, PaweÅ Bylica",Draft
+6785,ERC-721 Utilities Information Extension,"Otniel Nicola, Bogdan Popa",Draft
+6786,Registry for royalties payment for NFTs,"Otniel Nicola, Bogdan Popa",Draft
+6787,Order Book DEX with Two Phase Withdrawal,"Jessica, Roy, Jun",Draft
+6800,Ethereum state using a unified verkle tree,"Vitalik Buterin, Dankrad Feist, Kevaundray Wedderburn, Guillaume Ballet, Piper Merriam, Gottfried Herold, Ignacio Hagopian, Tanishq Jasoria, Gajinder Singh, Danno Ferrin",Draft
+6806,ERC-721 Holding Time Tracking,"Saitama, Combo, Luigi",Draft
+6821,Support ENS Name for Web3 URL,"Qi Zhou, Qiang Zhu",Draft
+6823,Token Mapping Slot Retrieval Extension,qdqd ,Draft
+6860,Web3 URL to EVM Call Message Translation,"Qi Zhou, Chao Pi, Sam Wilson, Nicolas Deschildre",Draft
+6864,Upgradable Fungible Token,Jeff Huang,Draft
+6865,On-Chain EIP-712 Visualization,Abderrahmen Hanafi,Draft
+6888,Arithmetic verification at EVM level,Renan Rodrigues de Souza,Draft
+6900,Modular Smart Contract Accounts,"Adam Egyed, Fangting Liu, Jay Paik, Yoav Weiss, Huawei Gu, Daniel Lim, Ruben Koch, David Philipson, Howy Ho, Nikita Belenkov, zer0dot, David Kim",Draft
+6932,Subscription-Based Token,"360 Core, Robin Rajput",Draft
+6944,ERC-5219 Resolve Mode,"Gavin John, Qi Zhou",Draft
+6960,Dual Layer Token,"Adam Boudjemaa, Mohamad Hammoud, Nawar Hisso, Khawla Hassan, Mohammad Zakeri Rad, Ashish Sood",Draft
+6981,Reserved Ownership Accounts,"Paul Sullivan , Wilkins Chung , Kartik Patel ",Draft
+7085,NFT Relationship Enhancement,Guang,Draft
+7087,MIME type for Web3 URL in Auto Mode,"Qi Zhou, Nicolas Deschildre",Draft
+7093,Social Recovery Interface,"John Zhang, Davis Xiang, Kyle Xu, George Zhang",Draft
+7196,"Simple token, Simplified ERC-20","Xiang, Ben77, Mingshi S.",Draft
+7204,Contract wallet management token,"Xiang, Ben77, Mingshi S.",Draft
+7246,Encumber - Splitting Ownership & Guarantees,"Coburn Berry, Mykel Pereira, Scott Silver",Draft
+7254,Token Revenue Sharing,"Quy Phan, Quy Phan",Draft
+7272,Ethereum Access Token,"Chris Chung, Raphael Roullet",Draft
+7280,NFT Metadata Extension like JSON-LD,Yohei Nishikubo,Draft
+7291,Purpose bound money,"Orchid-Dev, Victor Liew, Wong Tse Jian, Jacob Shan, Chin Sin Ong",Draft
+7303,Token-Controlled Token Circulation,Ko Fujimura,Draft
+7390,Vanilla Options for ERC-20 Tokens,"Ewan Humbert , Lassi Maksimainen ",Draft
+7399,â¡ Flash Loans â¡,"Alberto Cuesta Caí±ada, Michael Amadi, Devtooligan, Ultrasecr.eth, Sam Bacha",Draft
+7405,Portable Smart Contract Accounts,Aaron Yee,Draft
+7406,Multi-Namespace Onchain Registry,"Mengshi Zhang, Zihao Chen",Draft
+7410,ERC-20 Update Allowance By Spender,"Mohammad Zakeri Rad, Adam Boudjemaa, Mohamad Hammoud",Draft
+7412,On-Demand Off-Chain Data Retrieval,"Noah Litvin, db",Draft
+7425,Tokenized Reserve,Jimmy Debe,Draft
+7444,Time Locks Maturity,"Thanh Trinh , Joshua Weintraub , Rob Montgomery ",Draft
+7484,Registry Extension for ERC-7579,"Konrad Kopp, zeroknots",Draft
+7496,NFT Dynamic Traits,"Adam Montgomery, Ryan Ghods, 0age, James Wenzel, Stephan Min",Draft
+7498,NFT Redeemables,"Ryan Ghods, 0age, Adam Montgomery, Stephan Min",Draft
+7503,Zero-Knowledge Wormholes,"Keyvan Kambakhsh, Hamid Bateni, Amir Kahoori, Nobitex Labs, 0xwormhole",Draft
+7506,Trusted Hint Registry,"Philipp Bolte, Dennis von der Bey, Lauritz Leifermann",Draft
+7507,Multi-User NFT Extension,"Ming Jiang, Zheng Han, Fan Yang",Draft
+7508,Dynamic On-Chain Token Attributes Repository,"Steven Pineda, Jan Turk",Draft
+7509,Entity Component System,Rickey,Draft
+7510,Cross-Contract Hierarchical NFT,"Ming Jiang, Zheng Han, Fan Yang",Draft
+7511,Minimal Proxy Contract with PUSH0,"0xAA, vectorized, 0age",Draft
+7512,Onchain Representation for Audits,"Richard Meissner - Safe, Robert Chen - OtterSec, Matthias Egli - ChainSecurity, Jan Kalivoda - Ackee Blockchain, Michael Lewellen - OpenZeppelin, Shay Zluf - Hats Finance, Alex Papageorgiou - Omniscia",Draft
+7513,Smart NFT - A Component for Intent-Centric,"MJ Tseng , Clay , Jeffery.c, Johnny.c",Draft
+7517,Content Consent for AI/ML Data Mining,"Bofu Chen, Tammy Yang",Draft
+7518,Dynamic Compliant Interop Security Token,"Abhinav , Prithvish Baidya , Rajat Kumar , Prasanth Kalangi",Draft
+7519,Atomic Storage Operations SCREDIT and SDEBIT,Danno Ferrin,Draft
+7521,General Intents for Smart Contract Wallets,"Stephen Monn, Bikem Bengisu",Draft
+7522,OIDC ZK Verifier for AA Account,"Shu Dong , Yudao Yan, Song Z, Kai Chen",Draft
+7524,PLUME Signature in Wallets,"Yush G , Kobi Gurkan, Richard Liu, Vivek Bhupatiraju, Barry Whitehat",Draft
+7527,Token Bound Function Oracle AMM,"Elaine Zhang , Jerry, Amandafanny, Shouhao Wong , 0xPoet",Draft
+7529,Contract Discovery and eTLD+1 Association,"Todd Chapman, Charlie Sibbach, Sean Sing",Draft
+7533,Public Cross Port,"George, Zisu",Draft
+7538,Multiplicative Tokens,Gavin John,Draft
+7546,Upgradeable Clone for Scalable Contracts,"Shogo Ochiai , Kai Hiroi ",Draft
+7548,Open IP Protocol built on NFTs,"Combo, Saitama, CT29, Luigi",Draft
+7555,Single Sign-On for Account Discovery,"Alexander Müller, Gregory Markou, Willem Olding, Belma Gutlic, Marin PetruniÄ, Pedro Gomes",Draft
+7557,Block-level Warming with fair cost savings,"Yoav Weiss, Alex Forshtat, Dror Tirosh, Shahaf Nacson",Draft
+7561,"Simple NFT, Simplified ERC-721","Xiang, Ben77, Mingshi S.",Draft
+7562,Account Abstraction Validation Scope Rules,"Yoav Weiss, Dror Tirosh, Alex Forshtat, Shahaf Nacson",Draft
+7564,Contract wallet management NFT,"Xiang, Ben77, Mingshi S.",Draft
+7565,Perpetual Contract NFTs as Collateral,"Hyoungsung Kim , Yong-Suk Park, Hyun-Sik Kim",Draft
+7566,Multiplayer Game Communication,Rickey,Draft
+7572,Contract-level metadata via `contractURI()`,"Devin Finzer, Alex Atallah, Ryan Ghods",Draft
+7573,Conditional-upon-Transfer-Decryption for DvP,"Christian Fries, Peter Kohl-Landgraf",Draft
+7579,Minimal Modular Smart Accounts,"zeroknots, Konrad Kopp, Taek Lee, Fil Makarov, Elim Poon, Lyu Min",Draft
+7580,Advertisement Tracking Interface,wart,Draft
+7582,Modular Accounts with Delegated Validation,"Shivanshi Tyagi, Ross Campbell",Draft
+7585,MixHash and Public Data Storage Proofs,"Liu Zhicong, William Entriken, Wei Qiushi, Si Changjun",Draft
+7589,Semi-Fungible Token Roles,"Ernani Sí£o Thiago, Daniel Lima",Draft
+7595,Collateralized NFT,"571nKY, Cosmos, f4t50, Harpocrates",Draft
+7597,Signature Validation Extension for Permit,"Yvonne Zhang, Aloysius Chan",Draft
+7598,Use contract signature for signed transfer,"Yvonne Zhang, Aloysius Chan",Draft
+7603,ERC-1155 Multi-Asset extension,Haru,Draft
+7604,ERC-1155 Permit Approvals,"calvbore, emiliolanzalaco",Draft
+7607,Hardfork Meta - Fusaka,Tim Beiko,Draft
+7612,Verkle state transition via an overlay tree,"Guillaume Ballet, Ansgar Dietrichs, Ignacio Hagopian, Gottfried Herold, Jamie Lokier, Tanishq Jasoria, Parithosh Jayanthi, Gabriel Rocheleau, Karim Taam",Draft
+7613,Puppet Proxy Contract,Igor Å»uk,Draft
+7615,Atomic Push-based Data Feed Among Contracts,"Elaine Zhang , Jerry, Amandafanny, Shouhao Wong , Doris Che , Henry Yuan ",Draft
+7617,Chunk support for ERC-5219 mode in Web3 URL,"Qi Zhou, Nicolas Deschildre",Draft
+7618,Content encoding in ERC-5219 mode Web3 URL,"Qi Zhou, Nicolas Deschildre",Draft
+7621,Basket Token,"Dominic Ryder, Callum Mitchell-Clark , Joey van Etten, Michael Ryder",Draft
+7629,ERC-20/ERC-721 Unified Token Interface,"0xZeus1111, Nvuwa",Draft
+7632,Interfaces for Named Token,Zainan Victor Zhou,Draft
+7634,Limited Transfer Count NFT,"Qin Wang, Saber Yu, Shiping Chen",Draft
+7638,Batch Calls Encoding in SCA,"George, Zisu",Draft
+7639,eth/70 - Cease serving history before PoS,lightclient,Draft
+7641,Intrinsic RevShare Token,"Conway, Cathie So, Xiaohang Yu, Suning Yao, Kartin",Draft
+7644,ERC-721 Name Registry Extension,Chen Liaoyuan,Draft
+7649,Bonding curve-embedded liquidity for NFTs,"Arif Khan, Ahmad Matyana, Basil Gorin, Vijay Bhayani",Draft
+7651,Fractionally Represented Non-Fungible Token,"Acme, Calder",Draft
+7654,Request Method Types,Rickey,Draft
+7662,AI Agent NFTs,Greg Marlin,Draft
+7667,Raise gas costs of hash functions,Vitalik Buterin,Draft
+7673,Distinguishable base256emoji Addresses,William Morriss,Draft
+7674,Temporary Approval Extension for ERC-20,"Xenia Shape, Mikhail Melnik, Hadrien Croubois",Draft
+7679,UserOperation Builder,"Derek Chiang, Garvit Khatri, Fil Makarov, Kristof Gazso, Derek Rein, Tomas Rocchi, bumblefudge",Draft
+7681,Dual Nature Multi Token Protocol,Sennett Lau,Draft
+7682,Auxiliary Funds Capability,"Lukas Rosario, Wilson Cusack",Draft
+7683,Cross Chain Intents,"Mark Toda, Matt Rice, Nick Pai",Draft
+7694,Solana Storage Router,"Avneet Singh, 0xc0de4c0ffee",Draft
+7695,Ownership Delegation and Context for ERC-721,Duc Tho Tran,Draft
+7699,ERC-20 Transfer Reference Extension,Radek Svarz,Draft
+7700,Cross-chain Storage Router Protocol,"Avneet Singh, 0xc0de4c0ffee, Nick Johnson, Makoto Inoue",Draft
+7701,Native Account Abstraction with EOF,"Vitalik Buterin, Yoav Weiss, Alex Forshtat, Dror Tirosh, Shahaf Nacson",Draft
+7703,Increase calldata cost,William Morriss,Draft
+7708,ETH transfers emit a log,"Vitalik Buterin, Peter Davies",Draft
+7709,Read BLOCKHASH from storage and update cost,"Vitalik Buterin, Tomasz Stanczak, Guillaume Ballet, Gajinder Singh, Tanishq Jasoria, Ignacio Hagopian, Jochem Brouwer, Gabriel Rocheleau",Draft
+7710,Smart Contract Delegation,"Ryan McPeck, Dan Finlay, Rob Dawson, Derek Chiang",Draft
+7715,Grant Permissions from Wallets,"Luka Isailovic, Derek Rein, Dan Finlay, Derek Chiang, Fil Makarov, Pedro Gomes, Conner Swenberg, Lukas Rosario",Draft
+7720,Deferred Token Transfer,Chen Liaoyuan ,Draft
+7721,Lockable Extension for ERC-1155,Piyush Chittara,Draft
+7722,Opaque Token,"Ivica AraÄiÄ, Ante BeÅ¡liÄ, Mirko KataniÄ, SWIAT",Draft
+7726,Common Quote Oracle,"alcueca, ruvaag, totomanov, r0ohafza",Draft
+7729,Token with Metadata,msfew,Draft
+7730,Structured Data Clear Signing Format,Laurent Castillo,Draft
+7732,Enshrined Proposer-Builder Separation,"Francesco D'Amato, Barnabé Monnot, Michael Neuder, Potuz, Terence Tsao",Draft
+7738,Permissionless Script Registry,"Victor Zhang, James Brown",Draft
+7739,Readable Typed Signatures for Smart Accounts,"vectorized, Sihoon Lee, Francisco Giordano, Hadrien Croubois, Ernesto Garcí­a, Im Juno, howydev, Atarpara, 0xcuriousapple",Draft
+7741,Authorize Operator,"Jeroen Offerijns, Joí£o Martins",Draft
+7745,Light client and DHT friendly log index,Zsolt Felföldi,Draft
+7748,State conversion to Verkle Tree,"Guillaume Ballet, Ignacio Hagopian, Gajinder Singh, Ansgar Dietrichs, Gottfried Herold, Jamie Lokier, Tanishq Jasoria, Parithosh Jayanthi, Gabriel Rocheleau, Karim Taam",Draft
+7749,Add wallet_signIntendedValidatorData method,"Yamen Merhi, Patronum Labs",Draft
+7754,Tamperproof Web Immutable Transaction (TWIT),"Erik Marks, Guillaume Grosbois",Draft
+7756,EOF/EVM Trace Specification,"Martin Holst Swende, Marius van der Wijden, Danno Ferrin",Draft
+7760,Minimal Upgradeable Proxies,"Atarpara, JT Riley, Thomas, xiaobaiskill, Vectorized",Draft
+7761,EXTCODETYPE instruction,"Andrei Maiboroda, Piotr Dobaczewski, Danno Ferrin",Draft
+7765,Privileged Non-Fungible Tokens Tied To RWA,frank ,Draft
+7766,Signature Aggregation for ERC-4337,"Vitalik Buterin, Yoav Weiss, Dror Tirosh, Shahaf Nacson, Alex Forshtat",Draft
+7768,No-Ether transactions with free-for-all tips,William Entriken,Draft
+7769,JSON-RPC API for ERC-4337,"Vitalik Buterin, Yoav Weiss, Dror Tirosh, Shahaf Nacson, Alex Forshtat",Draft
+7773,Hardfork Meta - Amsterdam,Tim Beiko,Draft
+7774,Cache invalidation in ERC-5219 mode Web3 URL,"Nicolas Deschildre, Sam Wilson",Draft
+7775,BURN opcode,Dev Bear,Draft
+7776,Transparent Financial Statements,Ignacio Ceaglio ,Draft
+7778,Prevent Block Gas Smuggling,Ben Adams,Draft
+7779,Interoperable Delegated Accounts,"David Kim, Richard Meissner, Akshay Patel, Joshua Kim, Fangting, Yoav Weiss",Draft
+7780,Validation Module Extension for ERC-7579,"zeroknots, Konrad Kopp, Taek Lee, Fil Makarov",Draft
+7782,Reduce Slot Time for Lower Peak Bandwidth,Ben Adams,Draft
+7783,Add Controlled Gas Limit Increase Strategy,Giulio Rebuffo,Draft
+7785,Onchain registration of chain identifiers,"Marco Stronati, Jeff Lau",Draft
+7786,Cross-Chain Messaging Gateway,"Francisco Giordano, Hadrien Croubois, Ernesto Garcia, CJ Cobb, Sergey Gorbunov",Draft
+7787,Soulbound Degradable Governance,"Guilherme Neves, Rafael Castaneda",Draft
+7788,Dynamic target blob count,Marc Harvey-Hill,Draft
+7790,Controlled Gas Limit Increase Guidelines,"Giulio Rebuffo, Ben Adams",Draft
+7791,GAS2ETH opcode,"Charles Cooper, Pascal Caversaccio",Draft
+7792,Verifiable logs,"Etan Kissling, Gajinder Singh, Vitalik Buterin",Draft
+7793,TXINDEX precompile,"Marc Harvey-Hill, Ahmad Bitar",Draft
+7794,Grant Registry,Guilherme Neves,Draft
+7795,Wallet Call Token Capabilities,"Agustí­n Aguilar, Michael Standen, Peter Kieltyka, William Hua, Philippe Castonguay",Draft
+7796,Conditional send transaction RPC,"Dror Tirosh, Yoav Weiss, Alex Forshtat, Shahaf Nacson",Draft
+7797,Double speed for hash_tree_root,Etan Kissling,Draft
+7799,System logs,"Etan Kissling, Gajinder Singh",Draft
+7801,etha - Sharded Blocks Subprotocol,"Ahmad Bitar , Giulio Rebuffo, Gary Schulte ",Draft
+7802,Crosschain Token Interface,"skeletor, parti, joxes, ng, agus duha, disco, gotzen, 0age, Mark Tyneway, Zain Bacchus, Matt Solomon, Maurelian, Blaine Malone",Draft
+7803,EIP-712 Extensions for Account Abstraction,Francisco Giordano,Draft
+7804,Withdrawal Credential Update Request,"Lucas Saldanha, Mikhail Kalinin",Draft
+7805,Fork-choice enforced Inclusion Lists (FOCIL),"Thomas Thiery , Francesco D'Amato, Julian Ma, Barnabé Monnot, Terence Tsao, Jacob Kaufmann, Jihoon Song",Draft
+7807,SSZ execution blocks,"Etan Kissling, Gajinder Singh",Draft
+7811,Wallet Asset Discovery,"Luka Isailovic, Konrad Kopp, Derek Rein, Chris Smith",Draft
+7812,ZK Identity Registry,"Artem Chystiakov , Oleksandr Kurbatov, Yaroslav Panasenko, Michael Elliot , Vitalik Buterin",Draft
+7813,"Store, Table-Based Introspectable Storage","alvarius, dk1a, frolic, ludens, vdrg, yonada",Draft
+7819,Create delegate,"Hadrien Croubois, Danno Ferrin",Draft
+7821,Minimal Batch Executor Interface,"Vectorized, Jake Moxey, Hadrien Croubois",Draft
+7825,Transaction Gas Limit Cap,Giulio Rebuffo,Draft
+7829,Data Asset NFT,"Allen Dong, Lonika Zhang, Steven He",Draft
+7831,Multi-Chain Addressing,Sam Wilson ,Draft
+7833,Scheduled function calls,"Keyvan Kambakhsh, Nobitex Labs",Draft
+7834,Separate Metadata Section for EOF,"Kaan Uzdogan, Marco Castignoli, Manuel Wedler",Draft
+7843,SLOT precompile,Marc Harvey-Hill,Draft
+7851,Deactivate/Reactivate a Delegated EOA's Key,Liyi Guo,Draft
+7856,Chain-Specific Payment Requests,Jack Chuma,Draft
+7858,Expirable NFTs and SBTs,"sirawt, ADISAKBOONMARK, parametprame, Nacharoen",Draft
+7862,Delayed Execution Layer State Root,"Charlie Noyes, Dan Robinson, Justin Drake, Toni Wahrstí¤tter",Draft
+7863,Block-level Warming,"Toni Wahrstí¤tter, Jochem Brouwer, Alex Stokes, Ansgar Dietrichs",Draft
+7864,Ethereum state using a unified binary tree,"Vitalik Buterin, Guillaume Ballet, Dankrad Feist, Ignacio Hagopian, Kevaundray Wedderburn, Tanishq Jasoria, Gajinder Singh, Danno Ferrin, Piper Merriam, Gottfried Herold",Draft
+7867,Flow Control Wallet Call Capability,Sam Wilson ,Draft
+7872,Max blob flag for local builders,"Francesco D'Amato, Kevaundray Wedderburn, Toni Wahrstí¤tter, Alex Stokes, Ben Adams, Gajinder Singh, Dustin",Draft
+7873,EOF - TXCREATE and InitcodeTransaction type,"Piotr Dobaczewski, Andrei Maiboroda, PaweÅ Bylica, Alex Beregszaszi, Danno Ferrin",Draft
+7877,Enhanced RETURN opcodes,Josh Weintraub,Draft
+7880,EOF - EXTCODEADDRESS instruction,Danno Ferrin,Draft
+7883,ModExp Gas Cost Increase,"Marcin Sobczak, Marek MoraczyÅski, Marcos Maceo",Draft
+7884,Operation Router,"Lucas Picollo, Alex Netto, Nick Johnson",Draft
+7886,Delayed execution,"Francesco D`Amato, Toni Wahrstí¤tter",Draft
+7887,Cancelation for ERC-7540 Tokenized Vaults,"Jeroen Offerijns, Vikram Arun",Draft
+7889,Emit log on revert,"Shoham Chakraborty, Alex Forshtat",Draft
+7892,Blob Parameter Only Hardforks,Mark Mackey,Draft
+7896,ABI attachment in `wallet_sendCalls`,Francisco Giordano,Draft
+7898,Uncouple execution payload from beacon block,Gajinder Singh,Draft
+7903,Remove Initcode Size Limit,Charles Cooper,Draft
+7907,Meter Contract Code Size And Increase Limit,"Charles Cooper, Qi Zhou",Draft
+7910,eth_config JSON-RPC Method,Danno Ferrin,Draft
+7915,Adaptive mean reversion blob pricing,Anders Elowsson,Draft
+7916,SSZ ProgressiveList,"Zsolt Felföldi, Cayman",Draft
+7917,Deterministic proposer lookahead,"Lin Oshitani , Justin Drake ",Draft
+7918,Blob base fee bounded by execution cost,Anders Elowsson,Draft
+7919,Pureth Meta,"Etan Kissling, Gajinder Singh",Draft
+7921,Skip `JUMPDEST` immediate argument check,William Morriss,Draft
+86,Abstraction of transaction origin and signature,Vitalik Buterin,Stagnant
+101,Serenity Currency and Crypto Abstraction,Vitalik Buterin,Stagnant
+107,"safe ""eth_sendTransaction"" authorization via html popup",Ronan Sandford,Stagnant
+205,ENS support for contract ABIs,Nick Johnson,Stagnant
+210,Blockhash refactoring,Vitalik Buterin,Stagnant
+233,Formal process of hard forks,Alex Beregszaszi,Stagnant
+615,Subroutines and Static Jumps for the EVM,"Greg Colvin, Brooklyn Zelenka, PaweÅ Bylica, Christian Reitwiessner",Stagnant
+616,SIMD Operations for the EVM,Greg Colvin,Stagnant
+634,Storage of text records in ENS,Richard Moore,Stagnant
+665,Add precompiled contract for Ed25519 signature verification,Tobias Oberstein,Stagnant
+689,Address Collision of Contract Address Causes Exceptional Halt,Yoichi Hirai,Stagnant
+698,OPCODE 0x46 BLOCKREWARD,Cody Burns,Stagnant
+758,Subscriptions and filters for completed transactions,Jack Peterson,Stagnant
+801,Canary Standard,ligi,Stagnant
+823,Token Exchange Standard,Kashish Khullar,Stagnant
+831,URI Format for Ethereum,ligi,Stagnant
+858,Reduce block reward and delay difficulty bomb,Carl Larson,Stagnant
+867,Standardized Ethereum Recovery Proposals,"Dan Phifer, James Levy, Reuben Youngblom",Stagnant
+884,DGCL Token,Dave Sag,Stagnant
+897,DelegateProxy,"Jorge Izquierdo, Manuel Araoz",Stagnant
+900,Simple Staking Interface,"Dean Eigenmann, Jorge Izquierdo",Stagnant
+902,Token Validation,"Brooklyn Zelenka, Tom Carchrae, Gleb Naumenko",Stagnant
+918,Mineable Token Standard,"Jay Logelin, Infernal_toast, Michael Seiler, Brandon Grill",Stagnant
+926,Address metadata registry,Nick Johnson,Stagnant
+927,Generalised authorisations,Nick Johnson,Stagnant
+969,Modifications to ethash to invalidate existing dedicated hardware implementations,David Stanfill,Stagnant
+1010,Uniformity Between 0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B and 0x15E55EF43efA8348dDaeAa455F16C43B64917e3c,Anderson Wesley,Stagnant
+1011,Hybrid Casper FFG,"Danny Ryan, Chih-Cheng Liang",Stagnant
+1015,Configurable On Chain Issuance,Alex Van de Sande,Stagnant
+1051,Overflow checking for the EVM,Nick Johnson,Stagnant
+1056,Ethereum Lightweight Identity,"Pelle Braendgaard, Joel Torstensson",Stagnant
+1057,"ProgPoW, a Programmatic Proof-of-Work","Greg Colvin, Andrea Lanfranchi, Michael Carter, IfDefElse",Stagnant
+1062,Formalize IPFS hash into ENS(Ethereum Name Service) resolver,"Phyrex Tsai, Portal Network Team",Stagnant
+1066,Status Codes,"Brooklyn Zelenka, Tom Carchrae, Gleb Naumenko",Stagnant
+1077,Gas relay for contract calls,"Alex Van de Sande, Ricardo Guilherme Schmidt",Stagnant
+1078,Universal login / signup using ENS subdomains,Alex Van de Sande,Stagnant
+1080,Recoverable Token,Bradley Leatherwood,Stagnant
+1081,Standard Bounties,"Mark Beylin, Kevin Owocki, Ricardo Guilherme Schmidt",Stagnant
+1087,Net gas metering for SSTORE operations,Nick Johnson,Stagnant
+1102,Opt-in account exposure,"Paul Bouchon, Erik Marks",Stagnant
+1109,PRECOMPILEDCALL opcode (Remove CALL costs for precompiled contracts),Jordi Baylina,Stagnant
+1129,Standardised DAPP announcements,Jan Turk,Stagnant
+1132,Extending ERC20 with token locking capability,nitika-goel,Stagnant
+1175,Wallet & shop standard for all tokens (erc20),Jet Lim,Stagnant
+1178,Multi-class Token Standard,Albert Chon,Stagnant
+1186,RPC-Method to get Merkle Proofs - eth_getProof,"Simon Jentzsch, Christoph Jentzsch",Stagnant
+1203,ERC-1203 Multi-Class Token Standard (ERC-20 Extension),"Jeff Huang, Min Zu",Stagnant
+1207,DAuth Access Delegation Standard,"Xiaoyu Wang, Bicong Wang",Stagnant
+1227,Defuse Difficulty Bomb and Reset Block Reward,SmeargleUsedFly,Stagnant
+1261,Membership Verification Token (MVT),"Chaitanya Potti, Partha Bhattacharya",Stagnant
+1276,Eliminate Difficulty Bomb and Adjust Block Reward on Constantinople Shift,EOS Classic,Stagnant
+1285,Increase Gcallstipend gas in the CALL opcode,"Ben Kaufman, Adam Levi",Stagnant
+1295,Modify Ethereum PoW Incentive Structure and Delay Difficulty Bomb,Brian Venturo,Stagnant
+1319,Smart Contract Package Registry Interface,"Piper Merriam, Christopher Gewecke, g. nicholas d'andrea, Nick Gheorghita",Stagnant
+1337,Subscriptions on the blockchain,"Kevin Owocki, Andrew Redden, Scott Burke, Kevin Seagraves, Luka Kacil, Å tefan Å imec, Piotr KosiÅski, ankit raj, John Griffin, Nathan Creswell",Stagnant
+1352,Specify restricted address range for precompiles/system contracts,Alex Beregszaszi,Stagnant
+1380,Reduced gas cost for call to self,"Alex Beregszaszi, Jacques Wagener",Stagnant
+1386,Attestation management contract,"Weiwu Zhang, James Sangalli",Stagnant
+1387,Merkle Tree Attestations with Privacy enabled,"Weiwu Zhang, James Sangalli",Stagnant
+1388,Attestation Issuers Management List,"Weiwu Zhang, James Sangalli",Stagnant
+1417,Poll Standard,"Chaitanya Potti, Partha Bhattacharya",Stagnant
+1418,Blockchain Storage Rent Payment,William Entriken,Stagnant
+1438,dApp Components (avatar) & Universal Wallet,Jet Lim,Stagnant
+1444,Localized Messaging with Signal-to-Text,"Brooklyn Zelenka, Jennifer Cooper",Stagnant
+1450,ERC-1450 A compatible security token for issuing and trading SEC-compliant securities,"John Shiple, Howard Marks, David Zhang",Stagnant
+1459,Node Discovery via DNS,"Felix Lange, Péter Szilágyi",Stagnant
+1462,Base Security Token,"Maxim Kupriianov, Julian Svirsky",Stagnant
+1470,Smart Contract Weakness Classification (SWC),Gerhard Wagner,Stagnant
+1474,Remote procedure call specification,"Paul Bouchon, Erik Marks",Stagnant
+1482,Define a maximum block timestamp drift,Maurelian,Stagnant
+1484,Digital Identity Aggregator,"Anurag Angara, Andy Chorlian, Shane Hampton, Noah Zinsmeister",Stagnant
+1485,TEthashV1,"trustfarm, trustfarm",Stagnant
+1491,Human Cost Accounting Standard (Like Gas but for humans),Iamnot Chris,Stagnant
+1504,Upgradable Smart Contract,"Kaidong Wu, Chuqiao Ren, Ruthia He, Yun Ma, Xuanzhe Liu",Stagnant
+1523,Standard for Insurance Policies as ERC-721 Non Fungible Tokens,Christoph Mussenbrock,Stagnant
+1571,EthereumStratum/2.0.0,"Andrea Lanfranchi, Pawel Bylica, Marius Van Der Wijden",Stagnant
+1577,contenthash field for ENS,"Dean Eigenmann, Nick Johnson",Stagnant
+1581,Non-wallet usage of keys derived from BIP-32 trees,Michele Balistreri,Stagnant
+1588,Hardfork Meta: Ethereum ProgPoW,Ikmyeong Na,Stagnant
+1592,Address and ERC20-compliant transfer rules,"Cyril Lapinte, Laurent Aapro",Stagnant
+1613,Gas stations network,"Yoav Weiss, Dror Tirosh, Alex Forshtat",Stagnant
+1616,Attribute Registry Standard,"0age, Santiago Palladino, Leo Arias, Alejo Salles, Stephane Gosselin",Stagnant
+1620,Money Streaming,Paul Berg,Stagnant
+1633,Re-Fungible Token Standard (RFT),"Billy Rennekamp, Dan Long, Kiryl Yermakou, Nate van der Ende",Stagnant
+1681,Temporal Replay Protection,Martin Holst Swende,Stagnant
+1702,Generalized Account Versioning Scheme,Wei Tang,Stagnant
+1710,URL Format for Web3 Browsers,Bruno Barbieri,Stagnant
+1753,Smart Contract Interface for Licences,"Lucas Cullen, Kai Yeung, Anna Crowley, Caroline Marshall, Katrina Donaghy",Stagnant
+1761,Scoped Approval Interface,"Witek Radomski, Andrew Cooke, James Therien, Eric Binet",Stagnant
+1767,GraphQL interface to Ethereum node data,"Nick Johnson, Raíºl Kripalani, Kris Shinn",Stagnant
+1775,"App Keys, application specific wallet accounts","Vincent Eli, Dan Finlay",Stagnant
+1803,Rename opcodes for clarity,Alex Beregszaszi,Stagnant
+1812,Ethereum Verifiable Claims,Pelle Braendgaard,Stagnant
+1822,Universal Upgradeable Proxy Standard (UUPS),"Gabriel Barros, Patrick Gallagher",Stagnant
+1829,Precompile for Elliptic Curve Linear Combinations,Remco Bloemen,Stagnant
+1844,ENS Interface Discovery,Nick Johnson,Stagnant
+1872,Ethereum Network Upgrade Windows,Danno Ferrin,Stagnant
+1895,Support for an Elliptic Curve Cycle,Alexandre Belling,Stagnant
+1900,dType - Decentralized Type System for EVM,"Loredana Cirstea, Christian Tzurcanu",Stagnant
+1901,Add OpenRPC Service Discovery To JSON-RPC Services,"Shane Jonas, Zachary Belford",Stagnant
+1921,dType Functions Extension,"Loredana Cirstea, Christian Tzurcanu",Stagnant
+1922,zk-SNARK Verifier Standard,"Michael Connor, Chaitanya Konda, Duncan Westland",Stagnant
+1923,zk-SNARK Verifier Registry Standard,"Michael Connor, Chaitanya Konda, Duncan Westland",Stagnant
+1930,CALLs with strict gas semantic. Revert if not enough gas available.,Ronan Sandford,Stagnant
+1948,Non-fungible Data Token,"Johann Barbie, Ben Bollen, pinkiebell",Stagnant
+1959,New Opcode to check if a chainID is part of the history of chainIDs,Ronan Sandford,Stagnant
+1962,EC arithmetic and pairings with runtime definitions,Alex Vlasov,Stagnant
+1965,Method to check if a chainID is valid at a specific block Number,Ronan Sandford,Stagnant
+1973,Scalable Rewards,"Lee Raj, Qin Jian",Stagnant
+1985,Sane limits for certain EVM parameters,"Alex Beregszaszi, PaweÅ Bylica",Stagnant
+1996,Holdable Token,"Julio Faura, Fernando Paris, Daniel Lehrner",Stagnant
+2003,EVMC modules for implementations of precompiled contracts,"PaweÅ Bylica, Alex Beregszaszi",Stagnant
+2009,Compliance Service,Daniel Lehrner,Stagnant
+2014,Extended State Oracle,Alex Beregszaszi,Stagnant
+2015,wallet_updateEthereumChain RPC Method,"Pedro Gomes, Erik Marks, Pandapip1",Stagnant
+2018,Clearable Token,"Julio Faura, Fernando Paris, Daniel Lehrner",Stagnant
+2019,Fundable Token,"Fernando Paris, Julio Faura, Daniel Lehrner",Stagnant
+2020,E-Money Standard Token,"Julio Faura, Fernando Paris, Daniel Lehrner",Stagnant
+2021,Payoutable Token,"Fernando Paris, Julio Faura, Daniel Lehrner",Stagnant
+2026,State Rent H - Fixed Prepayment for accounts,Alexey Akhunov,Stagnant
+2027,State Rent C - Net contract size accounting,Alexey Akhunov,Stagnant
+2029,State Rent A - State counters contract,Alexey Akhunov,Stagnant
+2031,State Rent B - Net transaction counter,Alexey Akhunov,Stagnant
+2035,Stateless Clients - Repricing SLOAD and SSTORE to pay for block proofs,Alexey Akhunov,Stagnant
+2045,Particle gas costs for EVM opcodes,"Casey Detrio, Alex Beregszaszi",Stagnant
+2046,Reduced gas cost for static calls made to precompiles,Alex Beregszaszi,Stagnant
+2069,Recommendation for using YAML ABI in ERCs/EIPs,Alex Beregszaszi,Stagnant
+2157,dType Storage Extension - Decentralized Type System for EVM,"Loredana Cirstea, Christian Tzurcanu",Stagnant
+2193,dType Alias Extension - Decentralized Type System,"Loredana Cirstea, Christian Tzurcanu",Stagnant
+2242,Transaction Postdata,John Adler,Stagnant
+2256,wallet_getOwnedAssets JSON-RPC Method,Loredana Cirstea,Stagnant
+2304,Multichain address resolution for ENS,Nick Johnson,Stagnant
+2327,BEGINDATA opcode,Martin Lundfall,Stagnant
+2330,EXTSLOAD opcode,"Dominic Letz, Santiago Palladino",Stagnant
+2333,BLS12-381 Key Generation,Carl Beekhuizen ,Stagnant
+2334,BLS12-381 Deterministic Account Hierarchy,Carl Beekhuizen ,Stagnant
+2335,BLS12-381 Keystore,Carl Beekhuizen ,Stagnant
+2378,EIPs Eligible for Inclusion,James Hancock,Stagnant
+2386,Ethereum 2 Hierarchical Deterministic Walletstore,Jim McDonald,Stagnant
+2390,Geo-ENS,James Choncholas,Stagnant
+2400,Transaction Receipt URI,"Ricardo Guilherme Schmidt, Eric Dvorsak",Stagnant
+2470,Singleton Factory,Ricardo Guilherme Schmidt,Stagnant
+2474,Coinbase calls,Ricardo Guilherme Schmidt,Stagnant
+2477,Token Metadata Integrity,"Kristijan Sedlak, William Entriken, Witek Radomski",Stagnant
+2488,Deprecate the CALLCODE opcode,Alex Beregszaszi,Stagnant
+2494,Baby Jubjub Elliptic Curve,"Barry WhiteHat, Marta Bellés, Jordi Baylina",Stagnant
+2515,Implement Difficulty Freeze,James Hancock,Stagnant
+2520,Multiple contenthash records for ENS,Filip Å tamcar,Stagnant
+2525,ENSLogin,Hadrien Croubois,Stagnant
+2539,BLS12-377 curve operations,"Alex Vlasov, hujw77",Stagnant
+2542,New opcodes TXGASLIMIT and CALLGASLIMIT,Alex Forshtat,Stagnant
+2544,ENS Wildcard Resolution,"Nick Johnson, 0age",Stagnant
+2566,Human Readable Parameters for Contract Function Execution,Joseph Stockermans,Stagnant
+2569,Saving and Displaying Image Onchain for Universal Tokens,"Hua Zhang, Yuefei Tan, Derek Zhou, Ran Xing",Stagnant
+2583,Penalty for account trie misses,Martin Holst Swende,Stagnant
+2584,Trie format transition with overlay trees,Guillaume Ballet,Stagnant
+2593,Escalator fee market change for ETH 1.0 chain,Dan Finlay,Stagnant
+2615,Non-Fungible Token with mortgage and rental functions,Kohshi Shiba,Stagnant
+2645,Hierarchical Deterministic Wallet for Layer-2,"Tom Brand, Louis Guthmann",Stagnant
+2657,Ephemeral Testnet Yolo,James Hancock,Stagnant
+2666,Repricing of precompiles and Keccak256 function,Alex Vlasov,Stagnant
+2680,Ethereum 2 wallet layout,Jim McDonald,Stagnant
+2746,Rules Engine Standard,"Aaron Kendall, Juan Blanco",Stagnant
+2767,Contract Ownership Governance,"Soham Zemse, Nick Mudge",Stagnant
+2770,Meta-Transactions Forwarder Contract,"Alex Forshtat, Dror Tirosh",Stagnant
+2803,Rich Transactions,Micah Zoltu,Stagnant
+2831,Transaction Replacement Message Type,Gregory Markou,Stagnant
+2844,Add DID related methods to the JSON-RPC,Joel Thorstensson,Stagnant
+2848,My Own Messages (MOM),Giuseppe Bertone,Stagnant
+2876,Deposit contract and address standard,Jonathan Underwood,Stagnant
+2917,Staking Reward Calculation,"Tony Carson, Mehmet Sabir Kiraz, Süleyman KardaÅ",Stagnant
+2926,Chunk-Based Code Merkleization,"Sina Mahmoodi, Alex Beregszaszi",Stagnant
+2936,EXTCLEAR Opcode For SELFDESTRUCTed contracts,William Morriss,Stagnant
+2937,SET_INDESTRUCTIBLE opcode,Vitalik Buterin,Stagnant
+2938,Account Abstraction,"Vitalik Buterin, Ansgar Dietrichs, Matt Garnett, Will Villanueva, Sam Wilson",Stagnant
+2942,EthPM URI Specification,"Nick Gheorghita, Piper Merriam, g. nicholas d'andrea, Benjamin Hauser",Stagnant
+2970,IS_STATIC opcode,Vitalik Buterin,Stagnant
+2980,Swiss Compliant Asset Token,"Gianluca Perletti, Alan Scarpellini, Roberto Gorini, Manuel Olivi",Stagnant
+2997,IMPERSONATECALL Opcode,Sergio Demian Lerner,Stagnant
+3000,Optimistic enactment governance standard,"Jorge Izquierdo, Fabien Marino",Stagnant
+3005,Batched meta transactions,Matt,Stagnant
+3009,Transfer With Authorization,"Peter Jihoon Kim, Kevin Britz, David Knott",Stagnant
+3014,eth_symbol JSON-RPC method,Peter Grassberger,Stagnant
+3026,BW6-761 curve operations,"Youssef El Housni, Michael Connor, Aurore Guillevic, hujw77",Stagnant
+3030,BLS Remote Signer HTTP API,Herman Junge,Stagnant
+3041,Adds `baseFee` to `eth_getBlockByHash`,Abdelhamid Bakhta,Stagnant
+3044,Adds `baseFee` to `eth_getBlockByNumber`,Abdelhamid Bakhta,Stagnant
+3045,Adds `baseFee` to `eth_getUncleByBlockHashAndIndex`,Abdelhamid Bakhta,Stagnant
+3046,Adds `baseFee` to `eth_getUncleByBlockNumberAndIndex`,Abdelhamid Bakhta,Stagnant
+3068,Precompile for BN256 HashToCurve Algorithms,Dr. Christopher Gorman,Stagnant
+3074,AUTH and AUTHCALL opcodes,"Sam Wilson, Ansgar Dietrichs, Matt Garnett, Micah Zoltu",Stagnant
+3085,wallet_addEthereumChain RPC Method,"Erik Marks, Pedro Gomes, Pandapip1",Stagnant
+3091,Block Explorer API Routes,"Pedro Gomes, ligi",Stagnant
+3102,Binary trie structure,"Guillaume Ballet, Vitalik Buterin",Stagnant
+3135,Exclusive Claimable Token,Zhenyu Sun,Stagnant
+3143,Increase block rewards to 5 ETH,Ben Tinner,Stagnant
+3220,Crosschain Identifier Specification,"Weijia Zhang, Peter Robinson",Stagnant
+3224,Described Data,"Richard Moore, Nick Johnson",Stagnant
+3234,Batch Flash Loans,"Alberto Cuesta Caí±ada, Fiona Kobayashi, fubuloubu, Austin Williams",Stagnant
+3238,Difficulty Bomb Delay to Q2/2022,Afri Schoedon,Stagnant
+3267,Giving Ethereum fees to Future Salaries,"Victor Porton, Victor Porton",Stagnant
+3298,Removal of refunds,"Vitalik Buterin, Martin Swende",Stagnant
+3300,Phase out refunds,William Morriss,Stagnant
+3322,Account gas storage opcodes,William Morriss,Stagnant
+3326,Wallet Switch Ethereum Chain RPC Method (`wallet_switchEthereumChain`),Erik Marks,Stagnant
+3336,Paged memory allocation for the EVM,Nick Johnson,Stagnant
+3337,Frame pointer support for memory load and store operations,Nick Johnson,Stagnant
+3368,"Increase block rewards to 3 ETH, with 2 Year Decay to 1 ETH Scheduled",Michael D. Carter,Stagnant
+3372,5 FNV primes for ethash,"mineruniter969, mineruniter969",Stagnant
+3386,ERC-721 and ERC-1155 to ERC-20 Wrapper,Calvin Koder,Stagnant
+3403,Partial removal of refunds,"Vitalik Buterin, Martin Swende",Stagnant
+3416,Median Gas Premium,"HexZorro, Mojtaba Tefagh",Stagnant
+3436,Expanded Clique Block Choice Rule,Danno Ferrin,Stagnant
+3440,ERC-721 Editions Standard,Nathan Ginnever,Stagnant
+3450,Standardized Shamir Secret Sharing Scheme for BIP-39 Mnemonics,Daniel Streit,Stagnant
+3455,SUDO Opcode,"William Morriss, Baptiste Vauthey",Stagnant
+3508,Transaction Data Opcodes,Alex Papageorgiou,Stagnant
+3520,Transaction Destination Opcode,Alex Papageorgiou,Stagnant
+3521,Reduce access list cost,Matt Garnett,Stagnant
+3534,Restricted Chain Context Type Transactions,Isaac Ardis,Stagnant
+3561,Trust Minimized Upgradeability Proxy,Sam Porter,Stagnant
+3569,Sealed NFT Metadata Standard,Sean Papanikolas,Stagnant
+3584,Block Access List,"Gajinder Singh, Piper Merriam",Stagnant
+3589,Assemble assets into NFTs,"Zhenyu Sun, Xinqi Yang",Stagnant
+3690,EOF - JUMPDEST Table,"Alex Beregszaszi, PaweÅ Bylica, Andrei Maiboroda",Stagnant
+3709,Remove Support for Type 1 Transactions,Gregory Markou,Stagnant
+3722,Poster,Auryn Macmillan,Stagnant
+3754,A Vanilla Non-Fungible Token Standard,Simon Tian,Stagnant
+3756,Gas Limit Cap,lightclient,Stagnant
+3772,Compressed Integers,Soham Zemse,Stagnant
+3788,Strict enforcement of chainId,Gregory Markou,Stagnant
+3978,Gas refunds on reverts,"Anton Bukov, Mikhail Melnik",Stagnant
+4341,Ordered NFT Batch Standard,Simon Tian,Stagnant
+4353,Interface for Staked Tokens in NFTs,"Rex Creed, Dane Scarborough",Stagnant
+4393,Micropayments for NFTs and Multi Tokens,Jules Lai,Stagnant
+4396,Time-Aware Base Fee Calculation,Ansgar Dietrichs,Stagnant
+4430,Described Transactions,"Richard Moore, Nick Johnson",Stagnant
+4444,Bound Historical Data in Execution Clients,"George Kadianakis, lightclient, Alex Stokes",Stagnant
+4488,Transaction calldata gas cost reduction with total calldata limit,"Vitalik Buterin, Ansgar Dietrichs",Stagnant
+4494,Permit for ERC-721 NFTs,"Simon Fremaux, William Schwab",Stagnant
+4520,Multi-byte opcodes prefixed by EB and EC.,"Brayton Goodall, Mihir Faujdar",Stagnant
+4521,721/20-compatible transfer,Ross Campbell,Stagnant
+4524,Safer ERC-20,William Schwab,Stagnant
+4527,QR Code transmission protocol for wallets,"Aaron Chen, Sora Lee, ligi, Dan Miller, AndreasGassmann, xardass, Lixin Liu",Stagnant
+4546,Wrapped Deposits,Justice Hudson,Stagnant
+4573,Procedures for the EVM,"Greg Colvin, Greg Colvin",Stagnant
+4671,Non-Tradable Tokens Standard,"Omar Aflak, Pol-Malo Le Bris, Marvin Martin",Stagnant
+4675,Multi-Fractional Non-Fungible Tokens,David Kim,Stagnant
+4747,Simplify EIP-161,Peter Davies,Stagnant
+4758,Deactivate SELFDESTRUCT,"Guillaume Ballet, Vitalik Buterin, Dankrad Feist",Stagnant
+4760,SELFDESTRUCT bomb,"Guillaume Ballet, Vitalik Buterin, Dankrad Feist",Stagnant
+4799,Non-Fungible Token Ownership Designation Standard,"David Buckman, Isaac Buckman",Stagnant
+4863,Beacon chain push withdrawals,"Alex Stokes, Danny Ryan",Stagnant
+4885,Subscription NFTs and Multi Tokens,Jules Lai,Stagnant
+4886,Proxy Ownership Register,Omnus Sunmo,Stagnant
+4931,Generic Token Upgrade Standard,"John Peterson, Roberto Bayardo, David Níºí±ez",Stagnant
+4944,Contract with Exactly One Non-fungible Token,"Ví­ctor Muí±oz, Josep Lluis de la Rosa, Andres El-Fakdi",Stagnant
+4950,Entangled Tokens,"Ví­ctor Muí±oz, Josep Lluis de la Rosa, Easy Innova",Stagnant
+4974,Ratings,Daniel Tedesco,Stagnant
+4987,Held token interface,Devin Conley,Stagnant
+5000,MULDIV instruction,"Harikrishnan Mulackal, Alex Beregszaszi, PaweÅ Bylica",Stagnant
+5003,Insert Code into EOAs with AUTHUSURP,"Dan Finlay, Sam Wilson",Stagnant
+5005,Zodiac Modular Accounts,"Auryn Macmillan, Kei Kreutler",Stagnant
+5018,Filesystem-like Interface for Contracts,Qi Zhou,Stagnant
+5022,Increase price of SSTORE from zero to non-zero to 40k gas,Green,Stagnant
+5027,Remove the limit on contract code size,Qi Zhou,Stagnant
+5050,Interactive NFTs with Modular Environments,Alexi,Stagnant
+5058,Lockable Non-Fungible Tokens,"Tyler, Alex, John",Stagnant
+5065,Instruction for transferring ether,Mudit Gupta,Stagnant
+5081,Expirable Transaction,"Zainan Victor Zhou, Nick Johnson, Konrad Feldmeier",Stagnant
+5094,URL Format for Ethereum Network Switching,"Luc van Kampen, Jakob Helgesson, Joshua Hendrix",Stagnant
+5095,Principal Token,"Julian Traversa, Robert Robbins, Alberto Cuesta Caí±ada",Stagnant
+5131,SAFE Authentication For ENS,"Wilkins Chung , Jalil Wahdatehagh, Cry, Sillytuna, Cyberpnk",Stagnant
+5139,Remote Procedure Call Provider Lists,Sam Wilson,Stagnant
+5143,Slippage Protection for Tokenized Vault,Hadrien Croubois,Stagnant
+5185,NFT Updatable Metadata Extension,Christophe Le Bars,Stagnant
+5187,Extend EIP-1155 with rentable usage rights,DerivStudio,Stagnant
+5218,NFT Rights Management,"James Grimmelmann, Yan Ji, Tyler Kell",Stagnant
+5252,Account-bound Finance,"Hyungsuk Kang, Viktor Pernjek",Stagnant
+5283,Semaphore for Reentrancy Protection,Sergio D. Lerner,Stagnant
+5298,ENS Trust to hold NFTs under ENS name,Zainan Victor Zhou,Stagnant
+5334,EIP-721 User And Expires And Level Extension,Yan,Stagnant
+5345,Silent Signing Extension for JSON-RPC,"Stanley Wu, Mücahit BüyükyÄ±lmaz, Muhammed Emin AydÄ±n",Stagnant
+5409,EIP-1155 Non-Fungible Token extension,Ronan Sandford,Stagnant
+5437,Security Contact Interface,Zainan Zhou,Stagnant
+5478,CREATE2COPY Opcode,Qi Zhou,Stagnant
+5501,Rental & Delegation NFT - EIP-721 Extension,"Jan SmrÅ¾a, David Rábel, TomáÅ¡ JanÄa, Jan BureÅ¡, DOBBYLABS",Stagnant
+5505,EIP-1155 asset backed NFT extension,liszechung,Stagnant
+5516,Soulbound Multi-owner Tokens,"Lucas Martí­n Grasso Ramos, Matias Arazi",Stagnant
+5539,Revocation List Registry,"Philipp Bolte, Lauritz Leifermann, Dennis von der Bey",Stagnant
+5553,Representing IP and its Royalty Structure,Roy Osherove,Stagnant
+5554,"NFT Legal Use, Repurposing, and Remixing","Isaac Patka, COALA Licensing Taskforce",Stagnant
+5559,Cross Chain Write Deferral Protocol,"Paul Gauvreau, Nick Johnson",Stagnant
+5560,Redeemable NFTs,"Olivier Fernandez, Frédéric Le Coidic, Julien Béranger",Stagnant
+5593,Restrict Ethereum Provider API Injection,"Yan Zhu, Brian R. Bondy, Andrea  Brancaleoni, Kyle Den Hartog",Stagnant
+5633,"Composable Soulbound NFT, EIP-1155 Extension",HonorLabs,Stagnant
+5635,NFT Licensing Agreements,"Timi, 0xTriple7",Stagnant
+5643,Subscription NFTs,cygaar,Stagnant
+5719,Signature replacement interface,Agustin Aguilar,Stagnant
+5744,Latent Fungible Token,"Cozy Finance, Tony Sheng, Matt Solomon, David Laprade, Payom Dousti, Chad Fleming, Franz Chen",Stagnant
+5753,Lockable Extension for EIP-721,Filipp Makarov,Stagnant
+5805,Voting with delegation,"Hadrien Croubois, Francisco Giordano",Stagnant
+5806,Delegate transaction,Hadrien Croubois,Stagnant
+5827,Auto-renewable allowance extension,"zlace, zhongfu, edison0xyz",Stagnant
+5850,Complex Numbers stored in `bytes32` types,Paul Edge,Stagnant
+5851,On-Chain Verifiable Credentials,"Yu Liu, Junyi Zhong",Stagnant
+5883,Token Transfer by Social Recovery,"Erhard Dinhobl, Kevin Riedl",Stagnant
+5902,Smart Contract Event Hooks,Simon Brown,Stagnant
+5988,Add Poseidon hash function precompile,"Abdelhamid Bakhta, Eli Ben Sasson, Avihu Levy, David Levit Gurevich",Stagnant
+6046,Replace SELFDESTRUCT with DEACTIVATE,Alex Beregszaszi,Stagnant
+6047,ERC-721 Balance indexing via Transfer event,Zainan Victor Zhou,Stagnant
+6051,Private Key Encapsulation,"Base Labs, Weiji Guo",Stagnant
+6188,Nonce Cap,Gavin John,Stagnant
+6189,Alias Contracts,Gavin John,Stagnant
+6190,Verkle-compatible SELFDESTRUCT,Gavin John,Stagnant
+6268,Untransferability Indicator for EIP-1155,Yuki Aoki,Stagnant
+6353,Charity token,"Aubay, BOCA Jeabby, EL MERSHATI Laith, KEMP Elia",Stagnant
+6384,Human-readable offline signatures,"Tal Be'ery, RoiV",Stagnant
+6464,"Multi-operator, per-token ERC-721 approvals.","Cristian Espinoza, Simon Fremaux, David Huber, and Arran Schlosberg",Stagnant
+6475,SSZ Optional,"Etan Kissling, Zahary Karadjov",Stagnant
+6506,P2P Escrowed Governance Incentives,Josh Weintraub,Stagnant
+6789,Rename gas to mana,Pascal Caversaccio,Stagnant
+6810,Ex Post Facto Cascading Revert,William Morriss,Stagnant
+6811,To The Moonâ10 Minute Blocks,Pandapip1,Stagnant
+6873,Preimage retention,Guillaume Ballet,Stagnant
+6914,Reuse Withdrawn Validator Indices,"Lion, Danny Ryan",Stagnant
+6968,Contract Secured Revenue on an EVM based L2,"Zak Cole, Zak Cole, Kevin Owocki, lightclient",Stagnant
+6988,Elected block proposer has not been slashed,Mikhail Kalinin,Stagnant
+7039,Scheme-Handler Discovery Option for Wallets,Sam Wilson,Stagnant
+7266,Remove BLAKE2 compression precompile,Pascal Caversaccio,Stagnant
+7377,Migration Transaction,"lightclient, Sam Wilson, Ansgar Dietrichs",Stagnant
+7378,Add time-weighted averaging to the base fee,Guy Goren ,Stagnant
+7441,Upgrade block proposer election to Whisk,"George Kadianakis, Justin Drake, dapplion",Stagnant
+7543,EVM arbitrary precision decimal math,1m1,Stagnant
+7545,Verkle proof verification precompile,"Guillaume Ballet, Diederik Loerakker",Stagnant
+7547,Inclusion lists,"mike, Vitalik, Francesco, Terence, potuz, Manav",Stagnant
+7577,Versioning Scheme for EIPs,"danceratopz, Ahmad Bitar",Stagnant
+7591,BLS signed transactions,Marius van der Wijden,Stagnant
+7609,Decrease base cost of TLOAD/TSTORE,"Charles Cooper, James Prestwich, brockelmore",Stagnant
+7637,Optimize EOA EXTCODEHASH,Jame,Stagnant
+7642,eth/69 - Drop pre-merge fields,"Marius van der Wijden, Felix Lange",Stagnant
+7643,History accumulator for pre-PoS data,"lightclient, kdeme",Stagnant
+7645,Alias ORIGIN to SENDER,"Cyrus Adkisson, Eirik Ulversí¸y",Stagnant
+7650,Programmable access lists,"Qi Zhou, Zhiqiang Xu",Stagnant
+7657,Sync committee slashings,Etan Kissling,Stagnant
+7658,Light client data backfill,Etan Kissling,Stagnant
+7666,EVM-ify the identity precompile,Vitalik Buterin,Stagnant
+7668,Remove bloom filters,Vitalik Buterin,Stagnant
+7676,EOF - Prepare for Address Space Extension,Danno Ferrin,Stagnant
+7684,Return deposits for distinct credentials,Lion,Stagnant
+7686,Linear EVM memory limits,Vitalik Buterin,Stagnant
+7705,NONREENTRANT and REENTRANT opcodes,Charles Cooper,Stagnant
+7706,Separate gas type for calldata,Vitalik Buterin,Stagnant
+7707,Incentivize Access List Provisioning,"Ben Adams, Oleg Iakushkin",Stagnant
+7713,Box type for EIP-712 messages,Francisco Giordano,Stagnant
+7716,Anti-correlation attestation penalties,"dapplion, Toni Wahrstí¤tter, Vitalik Buterin",Stagnant
+7727,EVM Transaction Bundles,Lily Johnson,Stagnant
+7736,Leaf-level state expiry in verkle trees,"Guillaume Ballet, Wei Han Ng",Stagnant
+3,Addition of CALLDEPTH opcode,Martin Holst Swende,Withdrawn
+67,"URI Scheme with Metadata, Value and Bytecode",Alex Van de Sande,Withdrawn
+875,Simpler NFT standard with batching and native atomic swaps,"Weiwu Zhang, James Sangalli",Withdrawn
+908,Reward clients for a sustainable network,"James Ray, Micah Zoltu",Withdrawn
+999,Restore Contract Code at 0x863DF6BFa4469f3ead0bE8f9F2AAE51c91A907b4,Afri Schoedon,Withdrawn
+1123,Revised Ethereum Smart Contract Packaging Standard,"g. nicholas dâandrea, Piper Merriam, Nick Gheorghita, Danny Ryan",Withdrawn
+1154,Oracle Interface,Alan Lu,Withdrawn
+1240,Remove Difficulty Bomb,Micah Zoltu,Withdrawn
+1355,Ethash 1a,"PaweÅ Bylica, Jean M. Cyr",Withdrawn
+1538,Transparent Contract Standard,Nick Mudge,Withdrawn
+1682,Storage Rent,"Felix J Lange, Martin Holst Swende",Withdrawn
+1706,Disable SSTORE with gasleft lower than call stipend,"Alex Forshtat, Yoav Weiss",Withdrawn
+1890,Commitment to Sustainable Ecosystem Funding,"Gregory Markou, Kevin Owocki, Lane Rettig",Withdrawn
+2025,Block Rewards Proposal for funding Eth1.x,James Hancock,Withdrawn
+2070,Hardfork Meta: Berlin,Alex Beregszaszi,Withdrawn
+2315,Simple Subroutines for the EVM,"Greg Colvin, Martin Holst Swende, Brooklyn Zelenka, John Max Skaller",Withdrawn
+2458,Updates and Updated-by Header,Edson Ayllon,Withdrawn
+2677,Limit size of `initcode`,"Martin Holst Swende, PaweÅ Bylica, Alex Beregszaszi",Withdrawn
+2711,"Sponsored, expiring and batch transactions.",Micah Zoltu,Withdrawn
+2733,Transaction Package,Matt Garnett,Withdrawn
+2780,Reduce intrinsic transaction gas,"Matt Garnett, Uri Klarman",Withdrawn
+2786,Ethereum Provider Connect/Disconnect Events,"Micah Zoltu, Erik Marks",Withdrawn
+2972,Wrapped Legacy Transactions,Micah Zoltu,Withdrawn
+3332,MEDGASPRICE Opcode,Justice Hudson,Withdrawn
+3338,Limit account nonce to 2^52,"Micah Zoltu, Alex Beregszaszi",Withdrawn
+3374,Predictable Proof-of-Work (POW) Sunsetting,Query0x,Withdrawn
+3382,Hardcoded Block Gas Limit,Philippe Castonguay,Withdrawn
+3779,Safer Control Flow for the EVM,"Greg Colvin, Greg Colvin, Brooklyn Zelenka",Withdrawn
+6913,SETCODE instruction,William Morriss,Withdrawn
+7199,Linter Scope,Zainan Victor Zhou,Withdrawn
+7542,eth/70 - available-blocks-extended protocol,Ahmad Bitar ,Withdrawn
+7664,Access-Key opcode,Diederik Loerakker,Withdrawn
+7675,Retroactively Included EIPs,Tim Beiko,Withdrawn
+7897,Wallet-Linked Services for Smart Accounts,Francesco Sullo,Withdrawn

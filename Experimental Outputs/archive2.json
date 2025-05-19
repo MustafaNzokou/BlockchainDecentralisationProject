@@ -1,0 +1,6027 @@
+[
+    {
+        "title": "BIP119 fix grammatical typos",
+        "number": 1788,
+        "user": "EthnTuttle",
+        "created_at": "2025-03-10T01:02:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1788",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Propose new BIP for Programmable Bitcoin Token Standard (PBTS)",
+        "number": 1787,
+        "user": "GobiShanthan",
+        "created_at": "2025-03-08T22:49:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1787",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Propose new BIP for Programmable Bitcoin Token Standard (PBTS)",
+        "number": 1786,
+        "user": "GobiShanthan",
+        "created_at": "2025-03-08T22:37:40Z",
+        "url": "https://github.com/bitcoin/bips/pull/1786",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP94 PR1781 editorial fixups",
+        "number": 1785,
+        "user": "jonatack",
+        "created_at": "2025-03-07T20:45:29Z",
+        "url": "https://github.com/bitcoin/bips/pull/1785",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP119: appease typos linter",
+        "number": 1784,
+        "user": "jonatack",
+        "created_at": "2025-03-07T18:58:59Z",
+        "url": "https://github.com/bitcoin/bips/pull/1784",
+        "admin?": false,
+        "reviewers": [
+            "shoar7"
+        ]
+    },
+    {
+        "title": "fix links in bip-0300",
+        "number": 1783,
+        "user": "wgyt",
+        "created_at": "2025-03-07T05:45:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1783",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP-0094: reformat specification section for clarity and readability",
+        "number": 1782,
+        "user": "Roasbeef",
+        "created_at": "2025-03-06T23:12:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1782",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-0094: add default p2p port for testnet4",
+        "number": 1781,
+        "user": "Roasbeef",
+        "created_at": "2025-03-06T22:47:59Z",
+        "url": "https://github.com/bitcoin/bips/pull/1781",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "bip-0348: add SUCCESS upgrade VERIFY variant",
+        "number": 1780,
+        "user": "reardencode",
+        "created_at": "2025-03-05T00:28:36Z",
+        "url": "https://github.com/bitcoin/bips/pull/1780",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Implement subtraction operator for GE class in BIP-0374 reference code",
+        "number": 1779,
+        "user": "VolodymyrBg",
+        "created_at": "2025-03-02T15:19:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1779",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP379: add missing hexadecimal notations",
+        "number": 1778,
+        "user": "sky-coderay",
+        "created_at": "2025-02-28T15:35:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1778",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Fix minor error and improve error message in `gentestvectors.go`",
+        "number": 1777,
+        "user": "vipocenka",
+        "created_at": "2025-02-28T15:30:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1777",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP329: PR 1750 follow-up edits",
+        "number": 1776,
+        "user": "craigraw",
+        "created_at": "2025-02-26T08:44:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1776",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1775,
+        "user": "KareemAbdoSE",
+        "created_at": "2025-02-25T23:12:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1775",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 94: Move status to Final",
+        "number": 1774,
+        "user": "fjahr",
+        "created_at": "2025-02-25T21:41:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1774",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP374: fix division logic in __truediv__ method of FE class",
+        "number": 1773,
+        "user": "brawncode",
+        "created_at": "2025-02-25T19:20:32Z",
+        "url": "https://github.com/bitcoin/bips/pull/1773",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP75: fix BIP70 extensions url and clarify text",
+        "number": 1772,
+        "user": "costcould",
+        "created_at": "2025-02-25T15:33:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1772",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP3: Address follow-ups from #1712",
+        "number": 1771,
+        "user": "murchandamus",
+        "created_at": "2025-02-21T18:32:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1771",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1770,
+        "user": "hoholos",
+        "created_at": "2025-02-19T00:19:55Z",
+        "url": "https://github.com/bitcoin/bips/pull/1770",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "373: Correct test data mismatches",
+        "number": 1769,
+        "user": "achow101",
+        "created_at": "2025-02-17T02:24:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1769",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP159 updates",
+        "number": 1768,
+        "user": "jonatack",
+        "created_at": "2025-02-14T20:57:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1768",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "jonasschnelli",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "390: Fix created date",
+        "number": 1767,
+        "user": "murchandamus",
+        "created_at": "2025-02-13T20:27:49Z",
+        "url": "https://github.com/bitcoin/bips/pull/1767",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "spelling: globally change \"implementor\" to \"implementer\"",
+        "number": 1766,
+        "user": "jonatack",
+        "created_at": "2025-02-13T18:00:52Z",
+        "url": "https://github.com/bitcoin/bips/pull/1766",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP119: Fix `OP_EQUALVERIFY` typo",
+        "number": 1765,
+        "user": "0xBEEFCAF3",
+        "created_at": "2025-02-13T16:02:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1765",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "373: test vectors, reference implementation, update to Proposed",
+        "number": 1764,
+        "user": "achow101",
+        "created_at": "2025-02-12T00:44:16Z",
+        "url": "https://github.com/bitcoin/bips/pull/1764",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "390: Add reference implementation",
+        "number": 1763,
+        "user": "achow101",
+        "created_at": "2025-02-11T20:44:13Z",
+        "url": "https://github.com/bitcoin/bips/pull/1763",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "328: test vectors, reference implementation, update to Proposed",
+        "number": 1762,
+        "user": "achow101",
+        "created_at": "2025-02-11T20:04:29Z",
+        "url": "https://github.com/bitcoin/bips/pull/1762",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "fix: Improve get_second_key security by removing zero key return",
+        "number": 1761,
+        "user": "crStiv",
+        "created_at": "2025-02-11T00:44:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1761",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "BIP Draft: Disallow 64 byte transactions",
+        "number": 1760,
+        "user": "Christewart",
+        "created_at": "2025-02-10T21:29:52Z",
+        "url": "https://github.com/bitcoin/bips/pull/1760",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Render author email addresses in markdown BIPs",
+        "number": 1759,
+        "user": "murchandamus",
+        "created_at": "2025-02-07T15:59:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1759",
+        "admin?": false,
+        "reviewers": [
+            "ajtowns",
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP374: Add message to rand computation",
+        "number": 1758,
+        "user": "andrewtoth",
+        "created_at": "2025-02-06T18:36:19Z",
+        "url": "https://github.com/bitcoin/bips/pull/1758",
+        "admin?": false,
+        "reviewers": [
+            "andrewtoth",
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Disallow 64 byte transactions",
+        "number": 1757,
+        "user": "Christewart",
+        "created_at": "2025-02-04T16:35:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1757",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1756,
+        "user": "hoholos",
+        "created_at": "2025-02-03T02:21:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1756",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1755,
+        "user": "hoholos",
+        "created_at": "2025-02-03T02:17:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1755",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIPs 174 and 375: fix PSBT_OUT_SP_V0_LABEL value",
+        "number": 1754,
+        "user": "nymius",
+        "created_at": "2025-01-31T15:30:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1754",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "andrewtoth"
+        ]
+    },
+    {
+        "title": "Hash generation and token minting ",
+        "number": 1753,
+        "user": "sotomiguel202",
+        "created_at": "2025-01-30T18:09:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1753",
+        "admin?": false,
+        "reviewers": [
+            "sotomiguel202"
+        ]
+    },
+    {
+        "title": "BIP388: Fix incorrect use of return for raising exception",
+        "number": 1752,
+        "user": "brawncode",
+        "created_at": "2025-01-25T19:50:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1752",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "bigspider"
+        ]
+    },
+    {
+        "title": "BIP374: add test vectors for secp256k1 generator point",
+        "number": 1751,
+        "user": "stratospher",
+        "created_at": "2025-01-24T06:23:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1751",
+        "admin?": false,
+        "reviewers": [
+            "theStack",
+            "jonatack",
+            "andrewtoth"
+        ]
+    },
+    {
+        "title": "BIP329: add optional data fields, fix a JSON type",
+        "number": 1750,
+        "user": "doc-hex",
+        "created_at": "2025-01-23T18:54:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1750",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "craigraw",
+            "doc-hex"
+        ]
+    },
+    {
+        "title": "BIP-329: correct type error",
+        "number": 1749,
+        "user": "doc-hex",
+        "created_at": "2025-01-23T15:49:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1749",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "i created a devnagri script for bip39 wordlist",
+        "number": 1748,
+        "user": "ujjwali2s",
+        "created_at": "2025-01-23T15:03:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1748",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update bip-0042.mediawiki",
+        "number": 1747,
+        "user": "Gudnessuche",
+        "created_at": "2025-01-18T14:53:05Z",
+        "url": "https://github.com/bitcoin/bips/pull/1747",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP Draft: unspendable() Descriptor Key Expression",
+        "number": 1746,
+        "user": "andrewtoth",
+        "created_at": "2025-01-17T14:48:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1746",
+        "admin?": false,
+        "reviewers": [
+            "andrewtoth",
+            "sipa",
+            "jonatack",
+            "bigspider"
+        ]
+    },
+    {
+        "title": "BIP345: fix OP_SUCCESS188 hex value",
+        "number": 1745,
+        "user": "shesek",
+        "created_at": "2025-01-11T04:12:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1745",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "testUpdate assignments.mediawiki",
+        "number": 1744,
+        "user": "barajeel",
+        "created_at": "2025-01-10T08:04:27Z",
+        "url": "https://github.com/bitcoin/bips/pull/1744",
+        "admin?": false,
+        "reviewers": [
+            "SupavineeSerksiri6315"
+        ]
+    },
+    {
+        "title": "Fix typos",
+        "number": 1743,
+        "user": "crStiv",
+        "created_at": "2025-01-10T02:44:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1743",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Update bip-0345.mediawiki",
+        "number": 1742,
+        "user": "Gudnessuche",
+        "created_at": "2025-01-07T17:55:54Z",
+        "url": "https://github.com/bitcoin/bips/pull/1742",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP341: Explain the 64-byte signature format",
+        "number": 1741,
+        "user": "jonatack",
+        "created_at": "2025-01-06T23:10:16Z",
+        "url": "https://github.com/bitcoin/bips/pull/1741",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "BIP372, BIP381: editorial fixups",
+        "number": 1740,
+        "user": "jonatack",
+        "created_at": "2025-01-06T16:44:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1740",
+        "admin?": false,
+        "reviewers": [
+            "dr-orlovsky",
+            "jonatack",
+            "theuni"
+        ]
+    },
+    {
+        "title": "Update BIP-352 status to Final in both README and BIP file",
+        "number": 1739,
+        "user": "Gudnessuche",
+        "created_at": "2025-01-03T14:02:49Z",
+        "url": "https://github.com/bitcoin/bips/pull/1739",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update README.mediawiki to reflect BIP-352 status change to Final",
+        "number": 1738,
+        "user": "Gudnessuche",
+        "created_at": "2025-01-03T13:46:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1738",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update BIP-352 status to Final",
+        "number": 1737,
+        "user": "Gudnessuche",
+        "created_at": "2025-01-03T13:32:57Z",
+        "url": "https://github.com/bitcoin/bips/pull/1737",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP374: update reference.py and secp256k1.py to be executable",
+        "number": 1736,
+        "user": "jonatack",
+        "created_at": "2024-12-31T16:42:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1736",
+        "admin?": false,
+        "reviewers": [
+            "andrewtoth"
+        ]
+    },
+    {
+        "title": "BIP-374: add generated test vector .csv files",
+        "number": 1735,
+        "user": "theStack",
+        "created_at": "2024-12-30T16:31:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1735",
+        "admin?": false,
+        "reviewers": [
+            "andrewtoth",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "bip-0374: fix challenge generation, use correct generator point",
+        "number": 1734,
+        "user": "guggero",
+        "created_at": "2024-12-28T15:01:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1734",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "andrewtoth"
+        ]
+    },
+    {
+        "title": "BIP374: Fix link and formatting in reference section",
+        "number": 1733,
+        "user": "andrewtoth",
+        "created_at": "2024-12-27T18:06:27Z",
+        "url": "https://github.com/bitcoin/bips/pull/1733",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1732,
+        "user": "sara710944",
+        "created_at": "2024-12-25T07:05:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1732",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP-0349] Add Re-Keying explanation to OP_INTERNALKEY",
+        "number": 1731,
+        "user": "JeremyRubin",
+        "created_at": "2024-12-21T19:43:47Z",
+        "url": "https://github.com/bitcoin/bips/pull/1731",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update bip-0370.mediawiki",
+        "number": 1730,
+        "user": "Gudnessuche",
+        "created_at": "2024-12-21T14:46:52Z",
+        "url": "https://github.com/bitcoin/bips/pull/1730",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP-340: fix `lift_x` calls in test vector generation script",
+        "number": 1729,
+        "user": "theStack",
+        "created_at": "2024-12-20T14:24:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1729",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random",
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "[BIP-0349] OP_INTERNALKEY add credit section",
+        "number": 1728,
+        "user": "JeremyRubin",
+        "created_at": "2024-12-20T04:52:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1728",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Update english.txt",
+        "number": 1727,
+        "user": "DMS1997",
+        "created_at": "2024-12-20T02:50:29Z",
+        "url": "https://github.com/bitcoin/bips/pull/1727",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP158: fix btcutil gcs broken link.",
+        "number": 1726,
+        "user": "epysqyli",
+        "created_at": "2024-12-18T23:14:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1726",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "code-Update minisketch.py",
+        "number": 1725,
+        "user": "romashka-btc",
+        "created_at": "2024-12-18T18:33:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1725",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP39: fix word in Italian wordlist special considerations",
+        "number": 1724,
+        "user": "savvar9991",
+        "created_at": "2024-12-18T10:22:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1724",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP47: replace \"identifically\" with \"identically\"",
+        "number": 1723,
+        "user": "futreall",
+        "created_at": "2024-12-18T07:53:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1723",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "fix: typos in documentation files",
+        "number": 1722,
+        "user": "vtjl10",
+        "created_at": "2024-12-18T06:56:38Z",
+        "url": "https://github.com/bitcoin/bips/pull/1722",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP draft: Raw() as subscript for descriptors",
+        "number": 1721,
+        "user": "furszy",
+        "created_at": "2024-12-17T21:19:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1721",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus",
+            "sipa",
+            "ismaelsadeeq",
+            "furszy"
+        ]
+    },
+    {
+        "title": "Minor spelling/grammar fixups in BIPs 372 and 381",
+        "number": 1720,
+        "user": "HubertIGL",
+        "created_at": "2024-12-17T04:33:07Z",
+        "url": "https://github.com/bitcoin/bips/pull/1720",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Fix typos and grammar in multiple BIPs",
+        "number": 1719,
+        "user": "HubertIGL",
+        "created_at": "2024-12-17T04:02:49Z",
+        "url": "https://github.com/bitcoin/bips/pull/1719",
+        "admin?": false,
+        "reviewers": [
+            "achow101",
+            "HubertIGL"
+        ]
+    },
+    {
+        "title": "[BIP-373] Slight rewrite of evenness byte footnote for clarity",
+        "number": 1717,
+        "user": "kdmukai",
+        "created_at": "2024-12-16T20:04:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1717",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "achow101",
+            "kdmukai"
+        ]
+    },
+    {
+        "title": "Fix typos in BIPs 87/88/98",
+        "number": 1716,
+        "user": "youyyytrok",
+        "created_at": "2024-12-16T16:49:09Z",
+        "url": "https://github.com/bitcoin/bips/pull/1716",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIPs 348 and 379: spelling fixups",
+        "number": 1715,
+        "user": "dannbbb1",
+        "created_at": "2024-12-16T15:47:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1715",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP125: Update description of BIPs 68 and 112",
+        "number": 1714,
+        "user": "Gudnessuche",
+        "created_at": "2024-12-14T23:05:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1714",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP348: trivial text correction",
+        "number": 1713,
+        "user": "kdmukai",
+        "created_at": "2024-12-11T02:40:57Z",
+        "url": "https://github.com/bitcoin/bips/pull/1713",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP3: Updated BIP Process",
+        "number": 1712,
+        "user": "murchandamus",
+        "created_at": "2024-12-10T21:52:02Z",
+        "url": "https://github.com/bitcoin/bips/pull/1712",
+        "admin?": false,
+        "reviewers": [
+            "LarryRuane",
+            "katesalazar",
+            "sipa",
+            "achow101",
+            "kanzure",
+            "JeremyRubin",
+            "murchandamus",
+            "real-or-random",
+            "jonatack",
+            "EthanHeilman"
+        ]
+    },
+    {
+        "title": "BIP157 grammar fixup: add missing word",
+        "number": 1711,
+        "user": "Gudnessuche",
+        "created_at": "2024-12-10T18:27:54Z",
+        "url": "https://github.com/bitcoin/bips/pull/1711",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP125: update status to Final",
+        "number": 1709,
+        "user": "jonatack",
+        "created_at": "2024-12-05T20:46:44Z",
+        "url": "https://github.com/bitcoin/bips/pull/1709",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Fix link in BIP-84",
+        "number": 1708,
+        "user": "anurag-lint",
+        "created_at": "2024-12-03T06:45:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1708",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "monkeydluffyto"
+        ]
+    },
+    {
+        "title": "BIP352: Add support for Pay-to-Anchor (P2A) in get_pubkey_from_input",
+        "number": 1707,
+        "user": "Gudnessuche",
+        "created_at": "2024-11-30T16:27:21Z",
+        "url": "https://github.com/bitcoin/bips/pull/1707",
+        "admin?": false,
+        "reviewers": [
+            "theStack",
+            "Gudnessuche"
+        ]
+    },
+    {
+        "title": "BIP340: minor grammar edits",
+        "number": 1706,
+        "user": "Gudnessuche",
+        "created_at": "2024-11-30T16:02:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1706",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP-373: denote different public key types/purposes consistently",
+        "number": 1705,
+        "user": "theStack",
+        "created_at": "2024-11-29T00:43:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1705",
+        "admin?": false,
+        "reviewers": [
+            "theStack",
+            "rkrux",
+            "Sjors",
+            "jonatack",
+            "kdmukai"
+        ]
+    },
+    {
+        "title": "Updated grammatical error relating to Forwarding Addresses",
+        "number": 1704,
+        "user": "Gudnessuche",
+        "created_at": "2024-11-24T14:31:56Z",
+        "url": "https://github.com/bitcoin/bips/pull/1704",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP 345: Remove Anthony Towns as coauthor.",
+        "number": 1701,
+        "user": "ajtowns",
+        "created_at": "2024-11-14T00:29:10Z",
+        "url": "https://github.com/bitcoin/bips/pull/1701",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP442: OP_PAIRCOMMIT",
+        "number": 1699,
+        "user": "moonsettler",
+        "created_at": "2024-11-11T23:07:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1699",
+        "admin?": false,
+        "reviewers": [
+            "reardencode",
+            "rot13maxi",
+            "moonsettler",
+            "JeremyRubin",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Fix broken lists.linuxfoundation.org URLs",
+        "number": 1698,
+        "user": "kanzure",
+        "created_at": "2024-11-09T14:14:54Z",
+        "url": "https://github.com/bitcoin/bips/pull/1698",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "388: Add support for `musig` in descriptor templates",
+        "number": 1697,
+        "user": "bigspider",
+        "created_at": "2024-11-08T10:44:10Z",
+        "url": "https://github.com/bitcoin/bips/pull/1697",
+        "admin?": false,
+        "reviewers": [
+            "jgriffiths",
+            "jonatack",
+            "murchandamus",
+            "bigspider"
+        ]
+    },
+    {
+        "title": "BIP390: Clarify that musig cannot be used in top-level pk() or pkh()",
+        "number": 1696,
+        "user": "bigspider",
+        "created_at": "2024-11-08T10:15:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1696",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP373: Clarify where keys in MuSig fields may appear in the Taproot output",
+        "number": 1695,
+        "user": "achow101",
+        "created_at": "2024-11-06T22:46:24Z",
+        "url": "https://github.com/bitcoin/bips/pull/1695",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "achow101",
+            "bigspider"
+        ]
+    },
+    {
+        "title": "Fix wrong test vector in BIP-388. Sometimes /<0;1>/* is missing. Sometimes it is incorrectly written as <0,1>.",
+        "number": 1694,
+        "user": "pad01g",
+        "created_at": "2024-11-05T09:27:11Z",
+        "url": "https://github.com/bitcoin/bips/pull/1694",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1693,
+        "user": "ALANthemoor",
+        "created_at": "2024-11-05T03:32:05Z",
+        "url": "https://github.com/bitcoin/bips/pull/1693",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP125: update status of Opt-in Full RBF Signaling to Obsolete",
+        "number": 1692,
+        "user": "jonatack",
+        "created_at": "2024-10-29T16:19:53Z",
+        "url": "https://github.com/bitcoin/bips/pull/1692",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-85: formatting and changelog updates, and add word cases for application 39'",
+        "number": 1691,
+        "user": "akarve",
+        "created_at": "2024-10-25T19:13:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1691",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "akarve"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1690,
+        "user": "Machinediablos",
+        "created_at": "2024-10-24T17:42:56Z",
+        "url": "https://github.com/bitcoin/bips/pull/1690",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP374: Discrete Log Equality Proofs (DLEQ)",
+        "number": 1689,
+        "user": "andrewtoth",
+        "created_at": "2024-10-24T01:47:02Z",
+        "url": "https://github.com/bitcoin/bips/pull/1689",
+        "admin?": false,
+        "reviewers": [
+            "andrewtoth",
+            "theStack",
+            "sipa",
+            "stratospher",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Fix BIP-99 Formatting",
+        "number": 1688,
+        "user": "jlopp",
+        "created_at": "2024-10-20T13:02:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1688",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP375: Sending Silent Payments in PSBTs",
+        "number": 1687,
+        "user": "andrewtoth",
+        "created_at": "2024-10-17T12:39:57Z",
+        "url": "https://github.com/bitcoin/bips/pull/1687",
+        "admin?": false,
+        "reviewers": [
+            "andrewtoth",
+            "theStack",
+            "murchandamus",
+            "guggero",
+            "jonatack",
+            "nothingmuch"
+        ]
+    },
+    {
+        "title": "BIP300: fix up markup in comment header",
+        "number": 1686,
+        "user": "psztorc",
+        "created_at": "2024-10-15T05:09:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1686",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP158: fix up code comment typo in gentestvectors.go",
+        "number": 1685,
+        "user": "bskrksyp9",
+        "created_at": "2024-10-14T17:10:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1685",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP-85: Correct bad test vector for Base64",
+        "number": 1683,
+        "user": "akarve",
+        "created_at": "2024-10-14T00:03:07Z",
+        "url": "https://github.com/bitcoin/bips/pull/1683",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "scgbckbone"
+        ]
+    },
+    {
+        "title": "BIP327: update status from Draft to Active",
+        "number": 1682,
+        "user": "jonatack",
+        "created_at": "2024-10-11T17:18:01Z",
+        "url": "https://github.com/bitcoin/bips/pull/1682",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random",
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "BIP2: replace legacy http links with https",
+        "number": 1681,
+        "user": "jonatack",
+        "created_at": "2024-10-08T17:05:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1681",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP39: add license and copyright section",
+        "number": 1680,
+        "user": "jonatack",
+        "created_at": "2024-10-08T16:56:27Z",
+        "url": "https://github.com/bitcoin/bips/pull/1680",
+        "admin?": false,
+        "reviewers": [
+            "ebfull"
+        ]
+    },
+    {
+        "title": "BIP-85: Add language code & dice app, TPRV guidance, warn on BIP-32 divergence, grammar & clarity",
+        "number": 1679,
+        "user": "akarve",
+        "created_at": "2024-10-07T00:09:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1679",
+        "admin?": false,
+        "reviewers": [
+            "Mahdiporroshan",
+            "akarve",
+            "scgbckbone",
+            "jodyyates",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP119: remove James O'Beirne as co-author",
+        "number": 1678,
+        "user": "JeremyRubin",
+        "created_at": "2024-10-05T14:06:53Z",
+        "url": "https://github.com/bitcoin/bips/pull/1678",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP39: update status from Proposed to Final",
+        "number": 1677,
+        "user": "scgbckbone",
+        "created_at": "2024-10-05T12:51:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1677",
+        "admin?": false,
+        "reviewers": [
+            "scgbckbone",
+            "apoelstra",
+            "witaliy12",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP85: update status to Final",
+        "number": 1676,
+        "user": "scgbckbone",
+        "created_at": "2024-10-05T12:45:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1676",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "akarve",
+            "scgbckbone"
+        ]
+    },
+    {
+        "title": "bip versioning",
+        "number": 1675,
+        "user": "RandyMcMillan",
+        "created_at": "2024-10-05T01:18:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1675",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Revert \"BIP85: Clarify spec, correct test vectors, add Portuguese language code, add dice application\"",
+        "number": 1674,
+        "user": "jonatack",
+        "created_at": "2024-10-04T23:20:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1674",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP85: revert XPRV breaking changes for application 32'",
+        "number": 1673,
+        "user": "scgbckbone",
+        "created_at": "2024-10-04T21:43:03Z",
+        "url": "https://github.com/bitcoin/bips/pull/1673",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "akarve",
+            "scgbckbone"
+        ]
+    },
+    {
+        "title": "Explicitly mention care around payment instruction expiry in 353",
+        "number": 1672,
+        "user": "TheBlueMatt",
+        "created_at": "2024-10-02T16:48:27Z",
+        "url": "https://github.com/bitcoin/bips/pull/1672",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1671,
+        "user": "3Y215",
+        "created_at": "2024-09-29T15:16:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1671",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-360: QuBit - Pay to Quantum Resistant Hash",
+        "number": 1670,
+        "user": "cryptoquick",
+        "created_at": "2024-09-27T16:08:30Z",
+        "url": "https://github.com/bitcoin/bips/pull/1670",
+        "admin?": false,
+        "reviewers": [
+            "cryptoquick",
+            "murchandamus",
+            "kingcathy23",
+            "jonatack",
+            "EthanHeilman"
+        ]
+    },
+    {
+        "title": "BIP Draft for Octojoin",
+        "number": 1669,
+        "user": "1440000bytes",
+        "created_at": "2024-09-25T10:54:05Z",
+        "url": "https://github.com/bitcoin/bips/pull/1669",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "1440000bytes"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1668,
+        "user": "4player90",
+        "created_at": "2024-09-23T19:06:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1668",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Pr/1666",
+        "number": 1667,
+        "user": "4player90",
+        "created_at": "2024-09-23T16:35:19Z",
+        "url": "https://github.com/bitcoin/bips/pull/1667",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP 300/301: Link to latest code -- also shorter/better explanations",
+        "number": 1666,
+        "user": "psztorc",
+        "created_at": "2024-09-22T21:44:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1666",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "psztorc"
+        ]
+    },
+    {
+        "title": "Uses consistent source for \"CAT and Schnorr Tricks\"",
+        "number": 1665,
+        "user": "EthanHeilman",
+        "created_at": "2024-09-08T18:34:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1665",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Add bip-halt-unrequested-txn-processing",
+        "number": 1664,
+        "user": "ariard",
+        "created_at": "2024-09-06T19:19:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1664",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Add bip-txrelayv2",
+        "number": 1663,
+        "user": "ariard",
+        "created_at": "2024-09-05T02:33:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1663",
+        "admin?": false,
+        "reviewers": [
+            "wlad76",
+            "JanKortes212",
+            "murchandamus",
+            "jonatack",
+            "ariard"
+        ]
+    },
+    {
+        "title": "Revert \"[BIP322] remove empty message requirement for full (proof-of-\u2026",
+        "number": 1661,
+        "user": "arjunsunar1",
+        "created_at": "2024-08-31T19:44:01Z",
+        "url": "https://github.com/bitcoin/bips/pull/1661",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Revert \"Change BIP 94 timewarp delta to 7200 seconds\"",
+        "number": 1660,
+        "user": "fjahr",
+        "created_at": "2024-08-15T09:08:27Z",
+        "url": "https://github.com/bitcoin/bips/pull/1660",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "glozow",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP-0094: Fix typo",
+        "number": 1659,
+        "user": "azuchi",
+        "created_at": "2024-08-09T05:05:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1659",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP94: Change timewarp delta to 7200 seconds",
+        "number": 1658,
+        "user": "fjahr",
+        "created_at": "2024-08-05T21:12:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1658",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Add a PSBT per-output field for BIP 353 DNSSEC Proofs",
+        "number": 1657,
+        "user": "TheBlueMatt",
+        "created_at": "2024-07-28T18:35:52Z",
+        "url": "https://github.com/bitcoin/bips/pull/1657",
+        "admin?": false,
+        "reviewers": [
+            "Freeanjel",
+            "TheBlueMatt",
+            "achow101",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP 324: fix python aad in complete_handshake",
+        "number": 1655,
+        "user": "Crypt-iQ",
+        "created_at": "2024-07-26T15:56:10Z",
+        "url": "https://github.com/bitcoin/bips/pull/1655",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "stratospher"
+        ]
+    },
+    {
+        "title": "Check typos in CI",
+        "number": 1654,
+        "user": "storopoli",
+        "created_at": "2024-07-25T19:29:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1654",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "storopoli",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Remove trailing whitespace from all BIPs",
+        "number": 1653,
+        "user": "OrfeasLitos",
+        "created_at": "2024-07-25T15:36:24Z",
+        "url": "https://github.com/bitcoin/bips/pull/1653",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "ProofOfKeags"
+        ]
+    },
+    {
+        "title": "Make link title more specific",
+        "number": 1652,
+        "user": "OrfeasLitos",
+        "created_at": "2024-07-24T10:06:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1652",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "OrfeasLitos"
+        ]
+    },
+    {
+        "title": "BIP46 clarify witness",
+        "number": 1651,
+        "user": "michael1011",
+        "created_at": "2024-07-22T11:47:16Z",
+        "url": "https://github.com/bitcoin/bips/pull/1651",
+        "admin?": false,
+        "reviewers": [
+            "theborakompanioni",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Fix typos",
+        "number": 1650,
+        "user": "omahs",
+        "created_at": "2024-07-21T07:36:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1650",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "159: Mark as final",
+        "number": 1649,
+        "user": "jonasschnelli",
+        "created_at": "2024-07-17T20:02:54Z",
+        "url": "https://github.com/bitcoin/bips/pull/1649",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP150: Deferred",
+        "number": 1648,
+        "user": "jonasschnelli",
+        "created_at": "2024-07-17T19:54:36Z",
+        "url": "https://github.com/bitcoin/bips/pull/1648",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "bip327: minor fixes",
+        "number": 1647,
+        "user": "siv2r",
+        "created_at": "2024-07-17T10:08:34Z",
+        "url": "https://github.com/bitcoin/bips/pull/1647",
+        "admin?": false,
+        "reviewers": [
+            "siv2r",
+            "jonasnick",
+            "stratospher"
+        ]
+    },
+    {
+        "title": "bip353: concatenate strings in TXT record",
+        "number": 1646,
+        "user": "pinheadmz",
+        "created_at": "2024-07-16T00:37:56Z",
+        "url": "https://github.com/bitcoin/bips/pull/1646",
+        "admin?": false,
+        "reviewers": [
+            "TheBlueMatt",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "bip353: improve \u20bf-prefix instructions",
+        "number": 1645,
+        "user": "Sjors",
+        "created_at": "2024-07-11T19:24:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1645",
+        "admin?": false,
+        "reviewers": [
+            "Sjors",
+            "jonatack",
+            "t-bast",
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "title": "388 - Add more motivation, and links to miniscript BIP",
+        "number": 1644,
+        "user": "bigspider",
+        "created_at": "2024-07-11T08:37:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1644",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "bigspider"
+        ]
+    },
+    {
+        "title": "380-387: Mark basic descriptor BIPs as final",
+        "number": 1643,
+        "user": "achow101",
+        "created_at": "2024-07-10T23:09:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1643",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "371: Mark as final",
+        "number": 1642,
+        "user": "achow101",
+        "created_at": "2024-07-10T23:08:47Z",
+        "url": "https://github.com/bitcoin/bips/pull/1642",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "370: Mark as final",
+        "number": 1641,
+        "user": "achow101",
+        "created_at": "2024-07-10T23:08:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1641",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "achow101"
+        ]
+    },
+    {
+        "title": "86: Mark as final",
+        "number": 1640,
+        "user": "achow101",
+        "created_at": "2024-07-10T23:07:07Z",
+        "url": "https://github.com/bitcoin/bips/pull/1640",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Move BIP 338 to Withdrawn",
+        "number": 1639,
+        "user": "sdaftuar",
+        "created_at": "2024-07-10T19:40:30Z",
+        "url": "https://github.com/bitcoin/bips/pull/1639",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Move BIP 130 to Final",
+        "number": 1638,
+        "user": "sdaftuar",
+        "created_at": "2024-07-10T19:06:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1638",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Mark BIP324 as final",
+        "number": 1637,
+        "user": "sipa",
+        "created_at": "2024-07-10T19:00:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1637",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Move BIP 339 to Final",
+        "number": 1636,
+        "user": "sdaftuar",
+        "created_at": "2024-07-10T18:55:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1636",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Mark BIP324 as final",
+        "number": 1635,
+        "user": "sipa",
+        "created_at": "2024-07-10T18:55:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1635",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "389: Explicitly disallow duplicate multipath",
+        "number": 1634,
+        "user": "achow101",
+        "created_at": "2024-07-09T19:15:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1634",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP352: Update appendix",
+        "number": 1633,
+        "user": "josibake",
+        "created_at": "2024-07-09T15:10:57Z",
+        "url": "https://github.com/bitcoin/bips/pull/1633",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "josibake"
+        ]
+    },
+    {
+        "title": "Fix typo in bip-0065",
+        "number": 1632,
+        "user": "douglaz",
+        "created_at": "2024-07-07T01:01:38Z",
+        "url": "https://github.com/bitcoin/bips/pull/1632",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP-0386: Fix uncompressed private key test vector",
+        "number": 1631,
+        "user": "azuchi",
+        "created_at": "2024-07-06T12:55:29Z",
+        "url": "https://github.com/bitcoin/bips/pull/1631",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "525411"
+        ]
+    },
+    {
+        "title": "Typo bip-0340.mediawiki",
+        "number": 1630,
+        "user": "thesimplekid",
+        "created_at": "2024-07-01T23:06:44Z",
+        "url": "https://github.com/bitcoin/bips/pull/1630",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP352: Improve `input_hash` wording",
+        "number": 1629,
+        "user": "josibake",
+        "created_at": "2024-06-29T12:30:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1629",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "WIP:bip-0379.mediawiki:formatting",
+        "number": 1628,
+        "user": "RandyMcMillan",
+        "created_at": "2024-06-28T00:08:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1628",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP39: fix grammar in wordlists doc",
+        "number": 1626,
+        "user": "nnsW3",
+        "created_at": "2024-06-25T16:28:03Z",
+        "url": "https://github.com/bitcoin/bips/pull/1626",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP143: fix typo",
+        "number": 1625,
+        "user": "OrfeasLitos",
+        "created_at": "2024-06-25T16:14:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1625",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1624,
+        "user": "parsaei889",
+        "created_at": "2024-06-20T12:34:03Z",
+        "url": "https://github.com/bitcoin/bips/pull/1624",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP78: spelling and grammar updates",
+        "number": 1623,
+        "user": "satsie",
+        "created_at": "2024-06-20T02:30:36Z",
+        "url": "https://github.com/bitcoin/bips/pull/1623",
+        "admin?": false,
+        "reviewers": [
+            "DanGould",
+            "remcoros",
+            "5twelve",
+            "jonatack",
+            "satsie"
+        ]
+    },
+    {
+        "title": "BIP-352: generate `input_hash` after summing up keys (simplification)",
+        "number": 1622,
+        "user": "theStack",
+        "created_at": "2024-06-19T22:31:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1622",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "josibake",
+            "andrewtoth"
+        ]
+    },
+    {
+        "title": "bip-0075.mediawiki:update NIST SP 800-90A link",
+        "number": 1621,
+        "user": "RandyMcMillan",
+        "created_at": "2024-06-16T19:00:01Z",
+        "url": "https://github.com/bitcoin/bips/pull/1621",
+        "admin?": false,
+        "reviewers": [
+            "RandyMcMillan"
+        ]
+    },
+    {
+        "title": "BIP-352: handle invalid privkey / pubkey sums for sending / scanning, add changelog",
+        "number": 1620,
+        "user": "theStack",
+        "created_at": "2024-06-14T13:16:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1620",
+        "admin?": false,
+        "reviewers": [
+            "davidaucoin7377",
+            "5twelve",
+            "theStack",
+            "real-or-random",
+            "jonatack",
+            "josibake"
+        ]
+    },
+    {
+        "title": "bip-0327: Remove obsolete paragraph",
+        "number": 1619,
+        "user": "real-or-random",
+        "created_at": "2024-06-13T18:57:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1619",
+        "admin?": false,
+        "reviewers": [
+            "theStack",
+            "jonasnick",
+            "5twelve"
+        ]
+    },
+    {
+        "title": "Remove broken hyperlink to Vanitygen",
+        "number": 1618,
+        "user": "GlenCooper",
+        "created_at": "2024-06-11T12:44:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1618",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Fix bip number in specification",
+        "number": 1617,
+        "user": "1440000bytes",
+        "created_at": "2024-06-10T20:06:55Z",
+        "url": "https://github.com/bitcoin/bips/pull/1617",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP-352: use own ripemd160 for reference implementation",
+        "number": 1616,
+        "user": "theStack",
+        "created_at": "2024-06-10T17:33:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1616",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "josibake",
+            "5twelve"
+        ]
+    },
+    {
+        "title": "BIP340: remove repeat words",
+        "number": 1615,
+        "user": "satsie",
+        "created_at": "2024-06-10T01:57:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1615",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP79: remove repeat word",
+        "number": 1614,
+        "user": "satsie",
+        "created_at": "2024-06-09T03:01:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1614",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Add Turkish wordlist to BIP39",
+        "number": 1613,
+        "user": "efecini",
+        "created_at": "2024-06-08T20:25:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1613",
+        "admin?": false,
+        "reviewers": [
+            "ProofOfKeags",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Add pre meeting revisions to BIP motivation et. al.",
+        "number": 1612,
+        "user": "CrewsControlSolutions",
+        "created_at": "2024-06-08T19:46:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1612",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update bip-0015.mediawiki",
+        "number": 1611,
+        "user": "GlenCooper",
+        "created_at": "2024-06-07T05:55:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1611",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus",
+            "GlenCooper"
+        ]
+    },
+    {
+        "title": "379: Miniscript",
+        "number": 1610,
+        "user": "achow101",
+        "created_at": "2024-06-06T16:20:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1610",
+        "admin?": false,
+        "reviewers": [
+            "sanket1729",
+            "apoelstra",
+            "sipa",
+            "achow101",
+            "darosior",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "bip-0062: add nLockTime exception case as an overflow of 4-byte int",
+        "number": 1609,
+        "user": "ChrisCho-H",
+        "created_at": "2024-06-05T13:29:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1609",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Create Implement Zero-Collar Options on Lightning Network for Stablec\u2026",
+        "number": 1608,
+        "user": "Eudaimonios",
+        "created_at": "2024-06-04T13:21:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1608",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP78: Allow mixed inputs Redux",
+        "number": 1605,
+        "user": "DanGould",
+        "created_at": "2024-05-31T15:59:01Z",
+        "url": "https://github.com/bitcoin/bips/pull/1605",
+        "admin?": false,
+        "reviewers": [
+            "DanGould",
+            "jonatack",
+            "5twelve",
+            "Kixunil"
+        ]
+    },
+    {
+        "title": "Remove duplicated words",
+        "number": 1603,
+        "user": "cocoyeal",
+        "created_at": "2024-05-29T08:23:40Z",
+        "url": "https://github.com/bitcoin/bips/pull/1603",
+        "admin?": false,
+        "reviewers": [
+            "danielCalbonero12345",
+            "jonatack",
+            "1elsa1"
+        ]
+    },
+    {
+        "title": "Fix typos on 17 files.",
+        "number": 1602,
+        "user": "Sajjon",
+        "created_at": "2024-05-28T17:26:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1602",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "Sajjon",
+            "vostrnad",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP94 Testnet 4",
+        "number": 1601,
+        "user": "fjahr",
+        "created_at": "2024-05-27T22:12:38Z",
+        "url": "https://github.com/bitcoin/bips/pull/1601",
+        "admin?": false,
+        "reviewers": [
+            "5twelve",
+            "vostrnad",
+            "joseedil",
+            "Sjors",
+            "maflcko",
+            "fjahr",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP85: Clarify spec, correct test vectors, add Portuguese language code, add dice application",
+        "number": 1600,
+        "user": "akarve",
+        "created_at": "2024-05-26T20:55:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1600",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "akarve",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "bip-0046: Address Scheme for Timelocked Fidelity Bonds",
+        "number": 1599,
+        "user": "theborakompanioni",
+        "created_at": "2024-05-23T12:44:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1599",
+        "admin?": false,
+        "reviewers": [
+            "theborakompanioni",
+            "AdamISZ",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "bip-0322: add another valid sig vector not to confuse",
+        "number": 1598,
+        "user": "ChrisCho-H",
+        "created_at": "2024-05-15T06:58:11Z",
+        "url": "https://github.com/bitcoin/bips/pull/1598",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Update BIP Process",
+        "number": 1597,
+        "user": "murchandamus",
+        "created_at": "2024-05-13T21:03:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1597",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update BIP Process",
+        "number": 1596,
+        "user": "murchandamus",
+        "created_at": "2024-05-13T21:00:07Z",
+        "url": "https://github.com/bitcoin/bips/pull/1596",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip-0114: fix typo",
+        "number": 1595,
+        "user": "threewebcode",
+        "created_at": "2024-05-13T02:26:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1595",
+        "admin?": false,
+        "reviewers": [
+            "Vahid12015595"
+        ]
+    },
+    {
+        "title": "BIP352: fix link to coredev discussion",
+        "number": 1594,
+        "user": "jonatack",
+        "created_at": "2024-05-12T17:24:09Z",
+        "url": "https://github.com/bitcoin/bips/pull/1594",
+        "admin?": false,
+        "reviewers": [
+            "josibake",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP388 fixups",
+        "number": 1593,
+        "user": "jonatack",
+        "created_at": "2024-05-12T17:02:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1593",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus",
+            "bigspider"
+        ]
+    },
+    {
+        "title": "BIP-388: change status to 'Proposed'",
+        "number": 1592,
+        "user": "bigspider",
+        "created_at": "2024-05-12T09:52:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1592",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Fix the first two test vectors of verify fail test",
+        "number": 1591,
+        "user": "siv2r",
+        "created_at": "2024-05-11T13:14:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1591",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random",
+            "siv2r",
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "bip-0388:proof of registration - use wikimedia bold syntax",
+        "number": 1590,
+        "user": "RandyMcMillan",
+        "created_at": "2024-05-10T13:41:59Z",
+        "url": "https://github.com/bitcoin/bips/pull/1590",
+        "admin?": false,
+        "reviewers": [
+            "bigspider"
+        ]
+    },
+    {
+        "title": "BIP324: Remove obsolete test vector file",
+        "number": 1589,
+        "user": "real-or-random",
+        "created_at": "2024-05-09T08:14:27Z",
+        "url": "https://github.com/bitcoin/bips/pull/1589",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Draft for Extra Data / HASH160 Support",
+        "number": 1587,
+        "user": "JeremyRubin",
+        "created_at": "2024-05-06T14:30:54Z",
+        "url": "https://github.com/bitcoin/bips/pull/1587",
+        "admin?": false,
+        "reviewers": [
+            "ProofOfKeags",
+            "JeremyRubin"
+        ]
+    },
+    {
+        "title": "BIP38, help GitHub intermediate syntax highlighter",
+        "number": 1586,
+        "user": "katesalazar",
+        "created_at": "2024-05-04T15:25:50Z",
+        "url": "https://github.com/bitcoin/bips/pull/1586",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "ci: Fix link checks",
+        "number": 1585,
+        "user": "achow101",
+        "created_at": "2024-05-01T22:10:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1585",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP32 amendment: base58chk-encoded extended keys are always 111 chars",
+        "number": 1584,
+        "user": "jonatack",
+        "created_at": "2024-04-30T21:56:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1584",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update BIP 340 with fresher info on multi-, threshold, and blind signatures",
+        "number": 1583,
+        "user": "yannickseurin",
+        "created_at": "2024-04-30T09:46:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1583",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random",
+            "jonasnick",
+            "yannickseurin"
+        ]
+    },
+    {
+        "title": "Mention that BIP350 proposes to reduce the scope of BIP173 to Native Segwit v0",
+        "number": 1582,
+        "user": "murchandamus",
+        "created_at": "2024-04-25T17:42:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1582",
+        "admin?": false,
+        "reviewers": [
+            "Jhuckabee3131981",
+            "sipa"
+        ]
+    },
+    {
+        "title": "21: Remove other libraries from reference implementations",
+        "number": 1581,
+        "user": "achow101",
+        "created_at": "2024-04-25T14:26:56Z",
+        "url": "https://github.com/bitcoin/bips/pull/1581",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "85: Remove other implementation sections",
+        "number": 1580,
+        "user": "achow101",
+        "created_at": "2024-04-25T14:20:27Z",
+        "url": "https://github.com/bitcoin/bips/pull/1580",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "38: Remove other implementation section and dead reference implementation link",
+        "number": 1579,
+        "user": "achow101",
+        "created_at": "2024-04-25T14:19:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1579",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "ci: Update diff checks so that the task actually works",
+        "number": 1578,
+        "user": "achow101",
+        "created_at": "2024-04-24T23:23:29Z",
+        "url": "https://github.com/bitcoin/bips/pull/1578",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "achow101",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "buildtable.pl: Also check .md files",
+        "number": 1577,
+        "user": "achow101",
+        "created_at": "2024-04-24T22:59:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1577",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "39: Remove other implementation sections",
+        "number": 1576,
+        "user": "achow101",
+        "created_at": "2024-04-24T20:41:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1576",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "Stefan41199"
+        ]
+    },
+    {
+        "title": "Fix typos in BIP141",
+        "number": 1575,
+        "user": "murchandamus",
+        "created_at": "2024-04-23T19:37:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1575",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "README: remove BIP 63 from the README index",
+        "number": 1574,
+        "user": "Roasbeef",
+        "created_at": "2024-04-23T00:52:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1574",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP2: update BIP editors",
+        "number": 1573,
+        "user": "jonatack",
+        "created_at": "2024-04-22T22:47:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1573",
+        "admin?": false,
+        "reviewers": [
+            "katesalazar",
+            "jonatack",
+            "RubenSomsen",
+            "murchandamus",
+            "Roasbeef",
+            "farisei77"
+        ]
+    },
+    {
+        "title": "Require BIPs be \"beyond the ideation phase\" before being merged",
+        "number": 1570,
+        "user": "TheBlueMatt",
+        "created_at": "2024-04-22T01:25:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1570",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "TheBlueMatt",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP 387: multi_a() descriptor",
+        "number": 1567,
+        "user": "achow101",
+        "created_at": "2024-04-17T22:26:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1567",
+        "admin?": false,
+        "reviewers": [
+            "Christewart",
+            "jonatack",
+            "laanwj",
+            "achow101"
+        ]
+    },
+    {
+        "title": "hebrew.txt",
+        "number": 1565,
+        "user": "ArielYaniv",
+        "created_at": "2024-04-16T14:51:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1565",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "feat: add TypeScript BIP39 implementation",
+        "number": 1564,
+        "user": "bitjson",
+        "created_at": "2024-04-15T21:16:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1564",
+        "admin?": false,
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "title": "Clarify permitted status of markdown",
+        "number": 1562,
+        "user": "murchandamus",
+        "created_at": "2024-04-04T20:31:02Z",
+        "url": "https://github.com/bitcoin/bips/pull/1562",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Delete BIP-119",
+        "number": 1561,
+        "user": "JeremyRubin",
+        "created_at": "2024-04-02T17:51:24Z",
+        "url": "https://github.com/bitcoin/bips/pull/1561",
+        "admin?": false,
+        "reviewers": [
+            "ben221199",
+            "JeremyRubin"
+        ]
+    },
+    {
+        "title": "Fix Descriptor BIP typos",
+        "number": 1560,
+        "user": "Christewart",
+        "created_at": "2024-04-01T18:36:57Z",
+        "url": "https://github.com/bitcoin/bips/pull/1560",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-00{43,49,84}: move to Standards Track + BIP-0044: mark as Final",
+        "number": 1558,
+        "user": "prusnak",
+        "created_at": "2024-03-18T22:50:53Z",
+        "url": "https://github.com/bitcoin/bips/pull/1558",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "Lionz01",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP40: Stratum wire protocol",
+        "number": 1557,
+        "user": "ben221199",
+        "created_at": "2024-03-07T15:46:34Z",
+        "url": "https://github.com/bitcoin/bips/pull/1557",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "Minicoolboy77777",
+            "ben221199"
+        ]
+    },
+    {
+        "title": "BIP\u202f337:\u202fCompressed Transactions",
+        "number": 1556,
+        "user": "TomBriar",
+        "created_at": "2024-03-05T17:53:47Z",
+        "url": "https://github.com/bitcoin/bips/pull/1556",
+        "admin?": false,
+        "reviewers": [
+            "TomBriar",
+            "apoelstra",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP\u202f321: URI Scheme (Replace BIP 21 with a new BIP containing information about more modern usage of it)",
+        "number": 1555,
+        "user": "TheBlueMatt",
+        "created_at": "2024-03-01T17:10:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1555",
+        "admin?": false,
+        "reviewers": [
+            "t-bast",
+            "katesalazar",
+            "TheBlueMatt",
+            "kristapsk",
+            "clarkmoody",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Update Bitcoin dev mailing list to Google Groups",
+        "number": 1554,
+        "user": "luke-jr",
+        "created_at": "2024-02-23T23:05:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1554",
+        "admin?": false,
+        "reviewers": [
+            "Marco1553",
+            "stickies-v",
+            "kristapsk",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Create pythonapp.yml",
+        "number": 1553,
+        "user": "Roojsz88",
+        "created_at": "2024-02-18T20:23:09Z",
+        "url": "https://github.com/bitcoin/bips/pull/1553",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Add BIP\u202f353: DNS Payment Instructions",
+        "number": 1551,
+        "user": "TheBlueMatt",
+        "created_at": "2024-02-10T22:49:54Z",
+        "url": "https://github.com/bitcoin/bips/pull/1551",
+        "admin?": false,
+        "reviewers": [
+            "DanGould",
+            "benthecarman",
+            "jonasnick",
+            "t-bast",
+            "dzdidi",
+            "TheBlueMatt",
+            "jojkaart",
+            "pinheadmz",
+            "hernanmarino",
+            "kristapsk",
+            "benma",
+            "dipunm",
+            "starius",
+            "harding"
+        ]
+    },
+    {
+        "title": "BIP327: Fix Broken Links",
+        "number": 1549,
+        "user": "siv2r",
+        "created_at": "2024-02-01T05:56:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1549",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick",
+            "0xGRAV3R",
+            "Originalmenace",
+            "0xtrr",
+            "kristapsk",
+            "real-or-random",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Add bip-psbt-descriptors",
+        "number": 1548,
+        "user": "seedhammer",
+        "created_at": "2024-01-31T14:30:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1548",
+        "admin?": false,
+        "reviewers": [
+            "fslmultiservice22",
+            "5twelve",
+            "0xGRAV3R",
+            "seedhammer",
+            "Vahid12015595",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Update bip-0039.mediawiki",
+        "number": 1547,
+        "user": "5atoshiNakamoto",
+        "created_at": "2024-01-29T21:51:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1547",
+        "admin?": false,
+        "reviewers": [
+            "twonpuncho23",
+            "0xGRAV3R"
+        ]
+    },
+    {
+        "title": "Update bip-0039-wordlists.md",
+        "number": 1546,
+        "user": "5atoshiNakamoto",
+        "created_at": "2024-01-29T21:45:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1546",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Add missing SIGHASH flag to BIP 143 Example",
+        "number": 1545,
+        "user": "davidgumberg",
+        "created_at": "2024-01-29T00:42:52Z",
+        "url": "https://github.com/bitcoin/bips/pull/1545",
+        "admin?": false,
+        "reviewers": [
+            "0xGRAV3R"
+        ]
+    },
+    {
+        "title": "bip327: Link to right section",
+        "number": 1544,
+        "user": "real-or-random",
+        "created_at": "2024-01-26T17:44:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1544",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick",
+            "0xGRAV3R"
+        ]
+    },
+    {
+        "title": "Clarify BIP143 scriptCode for p2wsh",
+        "number": 1543,
+        "user": "ottosch",
+        "created_at": "2024-01-22T22:12:50Z",
+        "url": "https://github.com/bitcoin/bips/pull/1543",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "clarify bip68 and bip112 description of required transaction versions",
+        "number": 1542,
+        "user": "instagibbs",
+        "created_at": "2024-01-22T17:58:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1542",
+        "admin?": false,
+        "reviewers": [
+            "Christewart",
+            "dergoegge",
+            "vostrnad",
+            "instagibbs"
+        ]
+    },
+    {
+        "title": "BIP431: Opt In Topologically Restricted Until Confirmation Transactions For More Robust Fee-bumping",
+        "number": 1541,
+        "user": "glozow",
+        "created_at": "2024-01-18T14:01:13Z",
+        "url": "https://github.com/bitcoin/bips/pull/1541",
+        "admin?": false,
+        "reviewers": [
+            "carlaKC",
+            "ProofOfKeags",
+            "sdaftuar",
+            "ismaelsadeeq",
+            "glozow",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "title": "328, 390, 373: BIPs for MuSig2 derivation, descriptors, and PSBT fields",
+        "number": 1540,
+        "user": "achow101",
+        "created_at": "2024-01-15T20:14:59Z",
+        "url": "https://github.com/bitcoin/bips/pull/1540",
+        "admin?": false,
+        "reviewers": [
+            "rot13maxi",
+            "Sjors",
+            "achow101",
+            "murchandamus",
+            "bigspider",
+            "Ademan"
+        ]
+    },
+    {
+        "title": "BIP draft: 64-bit arithmetic opcodes",
+        "number": 1538,
+        "user": "Christewart",
+        "created_at": "2024-01-10T20:44:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1538",
+        "admin?": false,
+        "reviewers": [
+            "Christewart",
+            "khademreza5",
+            "murchandamus",
+            "Roasbeef",
+            "EthanHeilman"
+        ]
+    },
+    {
+        "title": "Clarify exactly which scripts are witness outputs",
+        "number": 1537,
+        "user": "sipa",
+        "created_at": "2024-01-08T18:10:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1537",
+        "admin?": false,
+        "reviewers": [
+            "ajtowns",
+            "sipa",
+            "vostrnad",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP\u202f348: OP_CHECKSIGFROMSTACK",
+        "number": 1535,
+        "user": "reardencode",
+        "created_at": "2024-01-07T18:32:39Z",
+        "url": "https://github.com/bitcoin/bips/pull/1535",
+        "admin?": false,
+        "reviewers": [
+            "ProofOfKeags",
+            "reardencode",
+            "ajtowns",
+            "moonsettler",
+            "murchandamus",
+            "Jesus5432",
+            "Roasbeef"
+        ]
+    },
+    {
+        "title": "Add BIP\u202f349: OP_INTERNALKEY",
+        "number": 1534,
+        "user": "reardencode",
+        "created_at": "2024-01-07T18:30:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1534",
+        "admin?": false,
+        "reviewers": [
+            "ProofOfKeags",
+            "halseth",
+            "reardencode",
+            "vostrnad",
+            "Starco1001",
+            "moonsettler",
+            "murchandamus",
+            "allysa08"
+        ]
+    },
+    {
+        "title": "2023 09 11 64bit arith",
+        "number": 1533,
+        "user": "Christewart",
+        "created_at": "2024-01-03T20:10:32Z",
+        "url": "https://github.com/bitcoin/bips/pull/1533",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-380: correct fingerprint for invalid hardened indicators examples",
+        "number": 1532,
+        "user": "yannickseurin",
+        "created_at": "2023-12-19T09:01:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1532",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "process: Allow Markdown alongside mediawiki",
+        "number": 1531,
+        "user": "stevenroose",
+        "created_at": "2023-12-16T09:50:41Z",
+        "url": "https://github.com/bitcoin/bips/pull/1531",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Remove duplicate word in bip-0085.mediawiki",
+        "number": 1530,
+        "user": "nau",
+        "created_at": "2023-12-15T10:00:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1530",
+        "admin?": false,
+        "reviewers": [
+            "Skyeenicole",
+            "illesdavid",
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Update contact info for achow101",
+        "number": 1527,
+        "user": "achow101",
+        "created_at": "2023-12-13T16:44:40Z",
+        "url": "https://github.com/bitcoin/bips/pull/1527",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 347: OP_CAT in Tapscript",
+        "number": 1525,
+        "user": "EthanHeilman",
+        "created_at": "2023-12-11T23:16:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1525",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "0xBEEFCAF3",
+            "junderw",
+            "halseth",
+            "illesdavid",
+            "vostrnad",
+            "kallewoof",
+            "EthanHeilman"
+        ]
+    },
+    {
+        "title": "Ephemeral Dust",
+        "number": 1524,
+        "user": "instagibbs",
+        "created_at": "2023-12-10T19:56:50Z",
+        "url": "https://github.com/bitcoin/bips/pull/1524",
+        "admin?": false,
+        "reviewers": [
+            "ProofOfKeags",
+            "instagibbs",
+            "illesdavid",
+            "reardencode",
+            "ajtowns",
+            "petertodd",
+            "glozow",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "title": " BIP-12: typo fix ",
+        "number": 1523,
+        "user": "fakefraud",
+        "created_at": "2023-12-07T01:17:52Z",
+        "url": "https://github.com/bitcoin/bips/pull/1523",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-60: typo fix",
+        "number": 1522,
+        "user": "fakefraud",
+        "created_at": "2023-12-07T01:14:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1522",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "illesdavid",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP-10: typo fix",
+        "number": 1521,
+        "user": "fakefraud",
+        "created_at": "2023-12-07T01:12:54Z",
+        "url": "https://github.com/bitcoin/bips/pull/1521",
+        "admin?": false,
+        "reviewers": [
+            "jalal",
+            "jonatack",
+            "0xtrr"
+        ]
+    },
+    {
+        "title": "BIP-10: typo fix",
+        "number": 1520,
+        "user": "fakefraud",
+        "created_at": "2023-12-07T01:06:01Z",
+        "url": "https://github.com/bitcoin/bips/pull/1520",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update bip-0039.mediawiki to remove erroneous 'HMAC'",
+        "number": 1519,
+        "user": "cmdruid",
+        "created_at": "2023-12-06T21:17:36Z",
+        "url": "https://github.com/bitcoin/bips/pull/1519",
+        "admin?": false,
+        "reviewers": [
+            "augustoproiete"
+        ]
+    },
+    {
+        "title": "Create governance",
+        "number": 1516,
+        "user": "LamaBigus",
+        "created_at": "2023-11-19T09:23:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1516",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Create Implementation",
+        "number": 1515,
+        "user": "TurkinKolette",
+        "created_at": "2023-11-19T07:18:05Z",
+        "url": "https://github.com/bitcoin/bips/pull/1515",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Remove two BIP32 vectors",
+        "number": 1512,
+        "user": "junderw",
+        "created_at": "2023-11-17T22:24:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1512",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update BIP-380: fix typo",
+        "number": 1510,
+        "user": "momodaka",
+        "created_at": "2023-11-09T13:08:21Z",
+        "url": "https://github.com/bitcoin/bips/pull/1510",
+        "admin?": false,
+        "reviewers": [
+            "illesdavid"
+        ]
+    },
+    {
+        "title": "BIP327: reduce nonces robustly to avoid failure condition",
+        "number": 1508,
+        "user": "conduition",
+        "created_at": "2023-10-25T20:29:40Z",
+        "url": "https://github.com/bitcoin/bips/pull/1508",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "BIP42: Update spelling of bitcoin",
+        "number": 1507,
+        "user": "RealCocoArdo",
+        "created_at": "2023-10-20T18:53:39Z",
+        "url": "https://github.com/bitcoin/bips/pull/1507",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Fix typos",
+        "number": 1505,
+        "user": "GoodDaisy",
+        "created_at": "2023-10-13T01:06:32Z",
+        "url": "https://github.com/bitcoin/bips/pull/1505",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "bip 2: allow markdown",
+        "number": 1504,
+        "user": "achow101",
+        "created_at": "2023-10-11T02:01:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1504",
+        "admin?": false,
+        "reviewers": [
+            "katesalazar",
+            "guggero"
+        ]
+    },
+    {
+        "title": "BIP346: OP_TXHASH and OP_CHECKTXHASHVERIFY",
+        "number": 1500,
+        "user": "stevenroose",
+        "created_at": "2023-09-30T11:40:55Z",
+        "url": "https://github.com/bitcoin/bips/pull/1500",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "0xBEEFCAF3",
+            "sennhann29",
+            "halseth",
+            "stevenroose",
+            "ajtowns",
+            "rustyrussell",
+            "murchandamus",
+            "starius"
+        ]
+    },
+    {
+        "title": "bip324: Remove garbage authentication packet (breaking change)",
+        "number": 1498,
+        "user": "real-or-random",
+        "created_at": "2023-09-24T13:30:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1498",
+        "admin?": false,
+        "reviewers": [
+            "naumenkogs",
+            "Sjors",
+            "sipa",
+            "stratospher",
+            "real-or-random",
+            "cacrowley"
+        ]
+    },
+    {
+        "title": "bip324: small improvements",
+        "number": 1496,
+        "user": "sipa",
+        "created_at": "2023-09-15T13:20:05Z",
+        "url": "https://github.com/bitcoin/bips/pull/1496",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-0038 - Add: Python-BIP38 package on Other Implementation",
+        "number": 1491,
+        "user": "meherett",
+        "created_at": "2023-09-07T13:58:05Z",
+        "url": "https://github.com/bitcoin/bips/pull/1491",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Adds license to bip-0039.mediawiki",
+        "number": 1490,
+        "user": "sts10",
+        "created_at": "2023-09-06T23:57:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1490",
+        "admin?": false,
+        "reviewers": [
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "title": "bip-tap: BIPs for the Taproot Assets Protocol",
+        "number": 1489,
+        "user": "Roasbeef",
+        "created_at": "2023-09-06T18:41:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1489",
+        "admin?": false,
+        "reviewers": [
+            "illesdavid",
+            "5twelve"
+        ]
+    },
+    {
+        "title": "Create SECURITY.md",
+        "number": 1488,
+        "user": "Silvrbckw",
+        "created_at": "2023-09-05T23:11:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1488",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip-0158: remove unused and unrelated \"data pushes\" definition",
+        "number": 1487,
+        "user": "theStack",
+        "created_at": "2023-08-29T21:44:11Z",
+        "url": "https://github.com/bitcoin/bips/pull/1487",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Fix typo in bip-0087.mediawiki",
+        "number": 1486,
+        "user": "wangchun",
+        "created_at": "2023-08-20T07:59:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1486",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "Kampe",
+            "katesalazar"
+        ]
+    },
+    {
+        "title": "BIP 300: Various improvements",
+        "number": 1485,
+        "user": "luke-jr",
+        "created_at": "2023-08-16T17:42:32Z",
+        "url": "https://github.com/bitcoin/bips/pull/1485",
+        "admin?": false,
+        "reviewers": [
+            "staffserg"
+        ]
+    },
+    {
+        "title": "added colon at end of if statement - bip-0119.mediawiki",
+        "number": 1484,
+        "user": "git-sgmoore",
+        "created_at": "2023-08-15T19:54:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1484",
+        "admin?": false,
+        "reviewers": [
+            "murchandamus",
+            "katesalazar"
+        ]
+    },
+    {
+        "title": "BIP 77: Payjoin Version 2 \u2014 Async Payjoin",
+        "number": 1483,
+        "user": "DanGould",
+        "created_at": "2023-08-12T21:10:05Z",
+        "url": "https://github.com/bitcoin/bips/pull/1483",
+        "admin?": false,
+        "reviewers": [
+            "DanGould",
+            "5twelve",
+            "spacebear21",
+            "thebrandonlucas",
+            "murchandamus",
+            "jonatack",
+            "satsie"
+        ]
+    },
+    {
+        "title": "Add James O'Beirne to 119 Author List",
+        "number": 1482,
+        "user": "JeremyRubin",
+        "created_at": "2023-07-28T21:37:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1482",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Removed link and reference to SLIP-0173",
+        "number": 1481,
+        "user": "dplusplus1024",
+        "created_at": "2023-07-23T05:25:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1481",
+        "admin?": false,
+        "reviewers": [
+            "5twelve"
+        ]
+    },
+    {
+        "title": "bip-324: fix FSChaCha20 type error",
+        "number": 1478,
+        "user": "jamesob",
+        "created_at": "2023-07-14T19:10:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1478",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "title": "clearer, more failure details, + use OP_TRUE",
+        "number": 1477,
+        "user": "psztorc",
+        "created_at": "2023-07-13T20:45:53Z",
+        "url": "https://github.com/bitcoin/bips/pull/1477",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "link typo fixed, from \"Simpler syntax\" to \"simpler-syntax\"",
+        "number": 1476,
+        "user": "sasa-buklijas",
+        "created_at": "2023-07-11T11:07:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1476",
+        "admin?": false,
+        "reviewers": [
+            "katesalazar"
+        ]
+    },
+    {
+        "title": "Mention explicitly that CTV does not commit to inputs",
+        "number": 1475,
+        "user": "OrfeasLitos",
+        "created_at": "2023-07-10T21:59:57Z",
+        "url": "https://github.com/bitcoin/bips/pull/1475",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP-0002 Fix broken anchor link",
+        "number": 1474,
+        "user": "azuchi",
+        "created_at": "2023-07-10T08:16:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1474",
+        "admin?": false,
+        "reviewers": [
+            "19861826",
+            "Jones098"
+        ]
+    },
+    {
+        "title": "BIP-48 - define P2SH, P2TR derivation paths",
+        "number": 1473,
+        "user": "TheTrunk",
+        "created_at": "2023-07-08T06:36:24Z",
+        "url": "https://github.com/bitcoin/bips/pull/1473",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip-0118: allow ANYPREVOUT without ANYONECANPAY",
+        "number": 1472,
+        "user": "reardencode",
+        "created_at": "2023-07-07T22:40:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1472",
+        "admin?": false,
+        "reviewers": [
+            "5twelve"
+        ]
+    },
+    {
+        "title": "bip-0324: fix git instruction order in test_sage_decoding.py",
+        "number": 1471,
+        "user": "theStack",
+        "created_at": "2023-07-06T14:40:50Z",
+        "url": "https://github.com/bitcoin/bips/pull/1471",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "title": "Create bitcoinbn",
+        "number": 1470,
+        "user": "9138338mmz",
+        "created_at": "2023-07-03T13:12:07Z",
+        "url": "https://github.com/bitcoin/bips/pull/1470",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "fix(bip85): rectify pwd_length in PWD BASE85 table",
+        "number": 1469,
+        "user": "theborakompanioni",
+        "created_at": "2023-06-30T08:22:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1469",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "descriptors: add test vectors",
+        "number": 1468,
+        "user": "achow101",
+        "created_at": "2023-06-29T20:30:49Z",
+        "url": "https://github.com/bitcoin/bips/pull/1468",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1467,
+        "user": "Woodpecker965",
+        "created_at": "2023-06-26T03:49:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1467",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1466,
+        "user": "Kiera35998",
+        "created_at": "2023-06-26T01:32:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1466",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Create bipshh",
+        "number": 1465,
+        "user": "vicentkasumba23",
+        "created_at": "2023-06-25T15:30:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1465",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1464,
+        "user": "ajoshjohny876",
+        "created_at": "2023-06-25T04:20:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1464",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1463,
+        "user": "Ciara13122",
+        "created_at": "2023-06-25T03:33:34Z",
+        "url": "https://github.com/bitcoin/bips/pull/1463",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Create hellooo",
+        "number": 1462,
+        "user": "Livingroom83887",
+        "created_at": "2023-06-23T07:36:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1462",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Typos in bip-0119",
+        "number": 1459,
+        "user": "ktecho",
+        "created_at": "2023-06-06T13:47:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1459",
+        "admin?": false,
+        "reviewers": [
+            "illesdavid"
+        ]
+    },
+    {
+        "title": "BIP 352: Silent Payments",
+        "number": 1458,
+        "user": "josibake",
+        "created_at": "2023-06-05T16:16:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1458",
+        "admin?": false,
+        "reviewers": [
+            "brandonblack",
+            "vostrnad",
+            "pinheadmz",
+            "kallewoof",
+            "RubenSomsen",
+            "josibake"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1456,
+        "user": "Setland34",
+        "created_at": "2023-06-04T05:31:59Z",
+        "url": "https://github.com/bitcoin/bips/pull/1456",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Mark bech32m as final",
+        "number": 1454,
+        "user": "uncomputable",
+        "created_at": "2023-05-18T16:11:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1454",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 329: Add `spendable` state to outputs",
+        "number": 1452,
+        "user": "sethforprivacy",
+        "created_at": "2023-05-15T16:07:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1452",
+        "admin?": false,
+        "reviewers": [
+            "illesdavid"
+        ]
+    },
+    {
+        "title": "BIP0039 Adding dutch wordlist",
+        "number": 1451,
+        "user": "StijnVA",
+        "created_at": "2023-05-08T20:23:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1451",
+        "admin?": false,
+        "reviewers": [
+            "Asoygeboy01"
+        ]
+    },
+    {
+        "title": "[Trivial] Fix text format (BIP 39)",
+        "number": 1450,
+        "user": "yahiheb",
+        "created_at": "2023-04-27T07:27:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1450",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1449,
+        "user": "Metin6201",
+        "created_at": "2023-04-27T02:22:21Z",
+        "url": "https://github.com/bitcoin/bips/pull/1449",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip324: fix link to chacha20",
+        "number": 1448,
+        "user": "stratospher",
+        "created_at": "2023-04-26T16:12:11Z",
+        "url": "https://github.com/bitcoin/bips/pull/1448",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "title": "BIP340 updates: clarifications, variable-length messages, expand domain separation",
+        "number": 1446,
+        "user": "sipa",
+        "created_at": "2023-04-20T20:02:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1446",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random",
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "BIP38: remove broken links",
+        "number": 1445,
+        "user": "MarnixCroes",
+        "created_at": "2023-04-13T10:25:32Z",
+        "url": "https://github.com/bitcoin/bips/pull/1445",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "Nate191941",
+            "murchandamus",
+            "katesalazar"
+        ]
+    },
+    {
+        "title": "BIP-137: Fix typo",
+        "number": 1444,
+        "user": "satsie",
+        "created_at": "2023-04-10T19:14:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1444",
+        "admin?": false,
+        "reviewers": [
+            "MarnixCroes"
+        ]
+    },
+    {
+        "title": "Mark BIP84 as Final",
+        "number": 1443,
+        "user": "vostrnad",
+        "created_at": "2023-04-10T14:27:02Z",
+        "url": "https://github.com/bitcoin/bips/pull/1443",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1440,
+        "user": "Adminyoungmarsnet",
+        "created_at": "2023-03-31T18:55:49Z",
+        "url": "https://github.com/bitcoin/bips/pull/1440",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip93: minor cleanups",
+        "number": 1439,
+        "user": "apoelstra",
+        "created_at": "2023-03-29T14:16:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1439",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Cleanup README table",
+        "number": 1438,
+        "user": "ajtowns",
+        "created_at": "2023-03-27T23:56:57Z",
+        "url": "https://github.com/bitcoin/bips/pull/1438",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip-0324: remove `initiating` parameter from `ellswift_create` calls",
+        "number": 1436,
+        "user": "theStack",
+        "created_at": "2023-03-19T18:31:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1436",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1435,
+        "user": "slumericanBx",
+        "created_at": "2023-03-17T00:14:49Z",
+        "url": "https://github.com/bitcoin/bips/pull/1435",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-174: add SLIP-0019 fields",
+        "number": 1434,
+        "user": "louneskmt",
+        "created_at": "2023-03-16T19:19:39Z",
+        "url": "https://github.com/bitcoin/bips/pull/1434",
+        "admin?": false,
+        "reviewers": [
+            "fiudzy"
+        ]
+    },
+    {
+        "title": "Improve BIP-341 wording",
+        "number": 1433,
+        "user": "raphjaph",
+        "created_at": "2023-03-10T21:19:49Z",
+        "url": "https://github.com/bitcoin/bips/pull/1433",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "replace travis with Github Actions",
+        "number": 1432,
+        "user": "kallewoof",
+        "created_at": "2023-03-08T01:26:56Z",
+        "url": "https://github.com/bitcoin/bips/pull/1432",
+        "admin?": false,
+        "reviewers": [
+            "Patish11",
+            "Bwajunior"
+        ]
+    },
+    {
+        "title": "PSBTv2: Relax transaction version requirement",
+        "number": 1431,
+        "user": "bigspider",
+        "created_at": "2023-03-04T11:40:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1431",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "PSBTv0: Update Simple Signer Algorithm for SegWitv0 inputs",
+        "number": 1430,
+        "user": "bigspider",
+        "created_at": "2023-03-04T11:33:05Z",
+        "url": "https://github.com/bitcoin/bips/pull/1430",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "unicode normalization in BIP-39",
+        "number": 1429,
+        "user": "grondilu",
+        "created_at": "2023-03-04T11:10:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1429",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP324: Fixed length message type IDs",
+        "number": 1428,
+        "user": "dhruv",
+        "created_at": "2023-02-28T18:04:38Z",
+        "url": "https://github.com/bitcoin/bips/pull/1428",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random",
+            "haleemshal"
+        ]
+    },
+    {
+        "title": "Update bip-0370.mediawiki",
+        "number": 1427,
+        "user": "cmdruid",
+        "created_at": "2023-02-23T15:11:24Z",
+        "url": "https://github.com/bitcoin/bips/pull/1427",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Mark BIP343 as Final",
+        "number": 1426,
+        "user": "michaelfolkson",
+        "created_at": "2023-02-21T22:35:36Z",
+        "url": "https://github.com/bitcoin/bips/pull/1426",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "new BIP: codex32",
+        "number": 1425,
+        "user": "apoelstra",
+        "created_at": "2023-02-20T18:40:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1425",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "apoelstra",
+            "roconnor-blockstream"
+        ]
+    },
+    {
+        "title": "Mark Taproot BIPs as Final",
+        "number": 1423,
+        "user": "uncomputable",
+        "created_at": "2023-02-19T15:21:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1423",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random",
+            "jonasnick",
+            "tcooksey1972",
+            "Fkhaibari"
+        ]
+    },
+    {
+        "title": "Update PSBT_IN_TAP_BIP32_DERIVATION key desc",
+        "number": 1422,
+        "user": "instagibbs",
+        "created_at": "2023-02-15T18:11:57Z",
+        "url": "https://github.com/bitcoin/bips/pull/1422",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Add OP_VAULT (BIP 345)",
+        "number": 1421,
+        "user": "jamesob",
+        "created_at": "2023-02-13T20:55:10Z",
+        "url": "https://github.com/bitcoin/bips/pull/1421",
+        "admin?": false,
+        "reviewers": [
+            "naumenkogs",
+            "luke-jr",
+            "jamesob",
+            "instagibbs",
+            "apoelstra",
+            "joostjager",
+            "vostrnad",
+            "michaelfolkson",
+            "kallewoof",
+            "harding",
+            "ariard"
+        ]
+    },
+    {
+        "title": "Create japanese_seasonal.txt to bip-0039",
+        "number": 1420,
+        "user": "xembook",
+        "created_at": "2023-02-13T09:14:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1420",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Create japanese_seasonal.txt to bip-0039",
+        "number": 1419,
+        "user": "xembook",
+        "created_at": "2023-02-12T14:43:16Z",
+        "url": "https://github.com/bitcoin/bips/pull/1419",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Add BIP-329 to the index table",
+        "number": 1418,
+        "user": "jeepkd",
+        "created_at": "2023-02-11T05:39:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1418",
+        "admin?": false,
+        "reviewers": [
+            "Jrnoriega081"
+        ]
+    },
+    {
+        "title": "380: Clarify optionality of descriptor checksum",
+        "number": 1417,
+        "user": "achow101",
+        "created_at": "2023-02-10T18:03:02Z",
+        "url": "https://github.com/bitcoin/bips/pull/1417",
+        "admin?": false,
+        "reviewers": [
+            "kristapsk"
+        ]
+    },
+    {
+        "title": "BIP0174 and BIP0370 PSBT_GLOBAL_TX_VERSION <valuedata> type correction",
+        "number": 1416,
+        "user": "Shadouts",
+        "created_at": "2023-02-07T23:20:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1416",
+        "admin?": false,
+        "reviewers": [
+            "Ghost19804"
+        ]
+    },
+    {
+        "title": "feat: add DashPhrase.js to JS implementations",
+        "number": 1414,
+        "user": "coolaj86",
+        "created_at": "2023-02-03T23:16:10Z",
+        "url": "https://github.com/bitcoin/bips/pull/1414",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update BIP39 Comments-Summary",
+        "number": 1413,
+        "user": "BitcoinErrorLog",
+        "created_at": "2023-02-03T15:29:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1413",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP329: Add optional key origin property and expand truncation note",
+        "number": 1412,
+        "user": "craigraw",
+        "created_at": "2023-02-03T08:31:24Z",
+        "url": "https://github.com/bitcoin/bips/pull/1412",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-158: Fix description of M parameter",
+        "number": 1411,
+        "user": "john-moffett",
+        "created_at": "2023-01-31T18:13:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1411",
+        "admin?": false,
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "title": "Add link to anquii/BIP39 (Swift)",
+        "number": 1410,
+        "user": "anquii",
+        "created_at": "2023-01-26T17:41:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1410",
+        "admin?": false,
+        "reviewers": [
+            "Sav233",
+            "douglas877"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1409,
+        "user": "Nevermoree27",
+        "created_at": "2023-01-22T13:14:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1409",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "New BIP: Ordinal Numbers",
+        "number": 1408,
+        "user": "casey",
+        "created_at": "2023-01-20T23:46:13Z",
+        "url": "https://github.com/bitcoin/bips/pull/1408",
+        "admin?": false,
+        "reviewers": [
+            "Semisol",
+            "katesalazar",
+            "brandonblack",
+            "apoelstra",
+            "vostrnad",
+            "michaelfolkson",
+            "Psifour",
+            "vicariousdrama"
+        ]
+    },
+    {
+        "title": "BIP174: s/uiht/uint/s",
+        "number": 1407,
+        "user": "instagibbs",
+        "created_at": "2023-01-17T19:15:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1407",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP341: Fix definition of NUMS point",
+        "number": 1406,
+        "user": "real-or-random",
+        "created_at": "2023-01-12T12:44:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1406",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick",
+            "apoelstra",
+            "sarahlivi1985"
+        ]
+    },
+    {
+        "title": "BIP324 reference code / test vector improvements",
+        "number": 1405,
+        "user": "sipa",
+        "created_at": "2023-01-11T22:42:59Z",
+        "url": "https://github.com/bitcoin/bips/pull/1405",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "title": "Create python-package-conda.yml",
+        "number": 1401,
+        "user": "DavidLacombe46",
+        "created_at": "2022-12-26T21:37:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1401",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Fix BIP 78 & BIP 174 Conflict: Keep input utxo data through input finalization",
+        "number": 1396,
+        "user": "DanGould",
+        "created_at": "2022-12-20T18:04:50Z",
+        "url": "https://github.com/bitcoin/bips/pull/1396",
+        "admin?": false,
+        "reviewers": [
+            "5twelve"
+        ]
+    },
+    {
+        "title": "Add note for repository to add new wordlists",
+        "number": 1395,
+        "user": "vladimirfomene",
+        "created_at": "2022-12-20T15:38:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1395",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP21: Update Address Types",
+        "number": 1394,
+        "user": "dplusplus1024",
+        "created_at": "2022-12-19T04:15:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1394",
+        "admin?": false,
+        "reviewers": [
+            "5twelve",
+            "Cbp420"
+        ]
+    },
+    {
+        "title": "BIP21: Update Anchor Link",
+        "number": 1393,
+        "user": "dplusplus1024",
+        "created_at": "2022-12-19T03:49:39Z",
+        "url": "https://github.com/bitcoin/bips/pull/1393",
+        "admin?": false,
+        "reviewers": [
+            "kristapsk",
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "title": "feat: add swahili wordlist to bip39",
+        "number": 1391,
+        "user": "Extheoisah",
+        "created_at": "2022-12-01T12:13:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1391",
+        "admin?": false,
+        "reviewers": [
+            "okjodom"
+        ]
+    },
+    {
+        "title": "Update bip-0129.mediawiki",
+        "number": 1390,
+        "user": "scgbckbone",
+        "created_at": "2022-11-22T00:51:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1390",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP 388: Wallet Policies for Descriptor Wallets",
+        "number": 1389,
+        "user": "bigspider",
+        "created_at": "2022-11-16T15:34:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1389",
+        "admin?": false,
+        "reviewers": [
+            "bucko13",
+            "jgriffiths",
+            "joostjager",
+            "benma",
+            "darosior",
+            "bigspider"
+        ]
+    },
+    {
+        "title": "264753",
+        "number": 1388,
+        "user": "Sinior123",
+        "created_at": "2022-11-16T09:05:19Z",
+        "url": "https://github.com/bitcoin/bips/pull/1388",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 341: Fix taproot_tweak_pubkey",
+        "number": 1386,
+        "user": "jonasnick",
+        "created_at": "2022-10-24T20:44:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1386",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Added the BDK implementation for bip-0127 proof of reserves",
+        "number": 1384,
+        "user": "ulrichard",
+        "created_at": "2022-10-17T15:56:49Z",
+        "url": "https://github.com/bitcoin/bips/pull/1384",
+        "admin?": false,
+        "reviewers": [
+            "PAULIn09",
+            "manda2020panda"
+        ]
+    },
+    {
+        "title": "Wallet Labels Export Format",
+        "number": 1383,
+        "user": "craigraw",
+        "created_at": "2022-10-17T10:02:50Z",
+        "url": "https://github.com/bitcoin/bips/pull/1383",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "moneymanolis",
+            "manda2020panda",
+            "craigraw",
+            "k9ert"
+        ]
+    },
+    {
+        "title": "BIP 331: Ancestor Package Relay",
+        "number": 1382,
+        "user": "glozow",
+        "created_at": "2022-10-13T21:40:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1382",
+        "admin?": false,
+        "reviewers": [
+            "instagibbs",
+            "jnewbery",
+            "ajtowns",
+            "stickies-v",
+            "willcl-ark",
+            "glozow",
+            "fjahr",
+            "ariard"
+        ]
+    },
+    {
+        "title": "BIPXXX: Taproot Annex Format ",
+        "number": 1381,
+        "user": "ariard",
+        "created_at": "2022-10-10T05:59:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1381",
+        "admin?": false,
+        "reviewers": [
+            "naumenkogs",
+            "luke-jr",
+            "manda2020panda",
+            "instagibbs",
+            "joostjager",
+            "ajtowns",
+            "ariard",
+            "roconnor-blockstream"
+        ]
+    },
+    {
+        "title": "BIP341: fix int conversion in taproot_tweak_pubkey",
+        "number": 1380,
+        "user": "DariusParvin",
+        "created_at": "2022-10-09T21:59:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1380",
+        "admin?": false,
+        "reviewers": [
+            "theStack",
+            "jonasnick",
+            "manda2020panda"
+        ]
+    },
+    {
+        "title": "BIP341: add aux_rand argument to taproot_sign_key",
+        "number": 1379,
+        "user": "DariusParvin",
+        "created_at": "2022-10-09T21:55:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1379",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick",
+            "DariusParvin"
+        ]
+    },
+    {
+        "title": "Add BIP324: v2 P2P Transport Protocol",
+        "number": 1378,
+        "user": "dhruv",
+        "created_at": "2022-10-07T19:35:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1378",
+        "admin?": false,
+        "reviewers": [
+            "dhruv",
+            "dergoegge",
+            "manda2020panda",
+            "ajtowns",
+            "dr-orlovsky",
+            "sipa"
+        ]
+    },
+    {
+        "title": "New BIP: P2P Feature Negotiation",
+        "number": 1377,
+        "user": "ajtowns",
+        "created_at": "2022-10-07T08:15:55Z",
+        "url": "https://github.com/bitcoin/bips/pull/1377",
+        "admin?": false,
+        "reviewers": [
+            "manda2020panda"
+        ]
+    },
+    {
+        "title": "BIP330: drop redundant booleans from the sendtxrcncl message",
+        "number": 1376,
+        "user": "vasild",
+        "created_at": "2022-10-06T12:07:02Z",
+        "url": "https://github.com/bitcoin/bips/pull/1376",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Create >script",
+        "number": 1375,
+        "user": "ZeuZZueZ",
+        "created_at": "2022-10-06T11:24:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1375",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Fix \"filterLoad\" missing \"nFilterBytes\" issue.",
+        "number": 1373,
+        "user": "623637646",
+        "created_at": "2022-10-04T10:32:36Z",
+        "url": "https://github.com/bitcoin/bips/pull/1373",
+        "admin?": false,
+        "reviewers": [
+            "manda2020panda"
+        ]
+    },
+    {
+        "title": "Add BIP MuSig2",
+        "number": 1372,
+        "user": "jonasnick",
+        "created_at": "2022-10-03T20:35:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1372",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "jonasnick",
+            "manda2020panda",
+            "brandonblack",
+            "real-or-random"
+        ]
+    },
+    {
+        "title": "Changes/clarifications to bip-330.",
+        "number": 1370,
+        "user": "naumenkogs",
+        "created_at": "2022-09-29T11:55:21Z",
+        "url": "https://github.com/bitcoin/bips/pull/1370",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 341: add missing conversions between bytes and int",
+        "number": 1369,
+        "user": "DariusParvin",
+        "created_at": "2022-09-28T22:47:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1369",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "Fix inconsistent notations in the context",
+        "number": 1368,
+        "user": "traffictse",
+        "created_at": "2022-09-27T06:41:54Z",
+        "url": "https://github.com/bitcoin/bips/pull/1368",
+        "admin?": false,
+        "reviewers": [
+            "manda2020panda"
+        ]
+    },
+    {
+        "title": "BIP118: simplify explanation of signature message",
+        "number": 1367,
+        "user": "ajtowns",
+        "created_at": "2022-09-19T20:17:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1367",
+        "admin?": false,
+        "reviewers": [
+            "instagibbs"
+        ]
+    },
+    {
+        "title": "Update bip-0032.mediawiki",
+        "number": 1365,
+        "user": "Vvvy6",
+        "created_at": "2022-09-09T01:37:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1365",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update BIPs 300/301",
+        "number": 1364,
+        "user": "psztorc",
+        "created_at": "2022-09-02T17:21:55Z",
+        "url": "https://github.com/bitcoin/bips/pull/1364",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "New BIP: Revocable Proof-of-Burn Transaction Template",
+        "number": 1362,
+        "user": "veleslavs",
+        "created_at": "2022-08-31T23:16:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1362",
+        "admin?": false,
+        "reviewers": [
+            "veleslavs",
+            "luke-jr",
+            "manda2020panda",
+            "5twelve"
+        ]
+    },
+    {
+        "title": "nit: fix typo in bip-0370 test vectors.",
+        "number": 1361,
+        "user": "joemphilips",
+        "created_at": "2022-08-28T04:11:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1361",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip-340: reduce size of randomizers to 128 bit and provide argument",
+        "number": 1360,
+        "user": "jonasnick",
+        "created_at": "2022-08-22T20:49:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1360",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "add turkish wordlist",
+        "number": 1359,
+        "user": "hknylcnsy",
+        "created_at": "2022-08-22T17:52:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1359",
+        "admin?": false,
+        "reviewers": [
+            "zinderud"
+        ]
+    },
+    {
+        "title": "Revert \"bip-0350: fix links for reference implementations\"",
+        "number": 1358,
+        "user": "haleemshal",
+        "created_at": "2022-08-17T22:25:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1358",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 340 & 341: use consistent definition of lift_x",
+        "number": 1355,
+        "user": "jonasnick",
+        "created_at": "2022-08-16T15:09:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1355",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random",
+            "haleemshal"
+        ]
+    },
+    {
+        "title": "[New BIP 389] Multipath descriptors",
+        "number": 1354,
+        "user": "achow101",
+        "created_at": "2022-08-15T17:55:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1354",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "sanket1729",
+            "jgriffiths",
+            "dr-orlovsky",
+            "achow101",
+            "darosior",
+            "haleemshal"
+        ]
+    },
+    {
+        "title": "BIP 174: fix incorrect reference to BIP 173",
+        "number": 1353,
+        "user": "ishaanam",
+        "created_at": "2022-08-15T16:50:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1353",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP322] remove empty message requirement for full (proof-of-funds) proofs",
+        "number": 1352,
+        "user": "ZenulAbidin",
+        "created_at": "2022-08-13T04:11:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1352",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip-0011/12 - fixed broken implementation url",
+        "number": 1351,
+        "user": "russeree",
+        "created_at": "2022-08-12T22:02:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1351",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "russeree"
+        ]
+    },
+    {
+        "title": "BIP 341: allow taproot_sign_key with no script tree",
+        "number": 1350,
+        "user": "jonasnick",
+        "created_at": "2022-08-12T08:33:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1350",
+        "admin?": false,
+        "reviewers": [
+            "manda2020panda"
+        ]
+    },
+    {
+        "title": "New BIP 351: Private Payments",
+        "number": 1349,
+        "user": "alfred-hodler",
+        "created_at": "2022-08-08T11:49:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1349",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "junderw",
+            "alfred-hodler",
+            "clarkmoody",
+            "Awilliams76"
+        ]
+    },
+    {
+        "title": "Update bip-0341.mediawiki",
+        "number": 1348,
+        "user": "Randy808",
+        "created_at": "2022-08-07T23:04:13Z",
+        "url": "https://github.com/bitcoin/bips/pull/1348",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "BIP 322: Explain various signature intents, add TODOs",
+        "number": 1347,
+        "user": "luke-jr",
+        "created_at": "2022-07-25T22:14:02Z",
+        "url": "https://github.com/bitcoin/bips/pull/1347",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "5twelve",
+            "ZenulAbidin",
+            "anditto",
+            "rxgrant",
+            "apoelstra",
+            "Rspigler",
+            "achow101",
+            "kallewoof"
+        ]
+    },
+    {
+        "title": "bip-141: improve `witness` field wording",
+        "number": 1346,
+        "user": "evanlinjin",
+        "created_at": "2022-07-14T10:40:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1346",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "psbt: Unify formatting of key-value data to specify data type and name",
+        "number": 1345,
+        "user": "achow101",
+        "created_at": "2022-07-13T19:10:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1345",
+        "admin?": false,
+        "reviewers": [
+            "jgriffiths",
+            "achow101"
+        ]
+    },
+    {
+        "title": "bip85 passwords",
+        "number": 1344,
+        "user": "scgbckbone",
+        "created_at": "2022-07-11T14:26:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1344",
+        "admin?": false,
+        "reviewers": [
+            "Bigrig7272gg",
+            "haleemshal"
+        ]
+    },
+    {
+        "title": "370: Add test vectors",
+        "number": 1342,
+        "user": "achow101",
+        "created_at": "2022-07-05T21:53:29Z",
+        "url": "https://github.com/bitcoin/bips/pull/1342",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Specify BIP-fidelity-bonds",
+        "number": 1341,
+        "user": "chris-belcher",
+        "created_at": "2022-07-02T17:49:36Z",
+        "url": "https://github.com/bitcoin/bips/pull/1341",
+        "admin?": false,
+        "reviewers": [
+            "NikolaiNikolaevichBoyko",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "Add BIP39 implementation reference",
+        "number": 1340,
+        "user": "hujiulong",
+        "created_at": "2022-07-02T10:14:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1340",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "179: Remove my email due to spam",
+        "number": 1337,
+        "user": "maflcko",
+        "created_at": "2022-06-30T10:32:07Z",
+        "url": "https://github.com/bitcoin/bips/pull/1337",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Revert \"Fix incorrect signature test vectors in BIP322\"",
+        "number": 1336,
+        "user": "Mertz22",
+        "created_at": "2022-06-30T02:54:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1336",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Be more explicit about ext_flag values in BIP118",
+        "number": 1335,
+        "user": "instagibbs",
+        "created_at": "2022-06-22T15:07:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1335",
+        "admin?": false,
+        "reviewers": [
+            "ajtowns",
+            "Mertz22",
+            "instagibbs"
+        ]
+    },
+    {
+        "title": "bip-0340: clarify that lift_x fails with out-of-range inputs",
+        "number": 1334,
+        "user": "jonasnick",
+        "created_at": "2022-06-20T13:18:50Z",
+        "url": "https://github.com/bitcoin/bips/pull/1334",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random",
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "Update bip-0300.mediawiki with consistent use of \"ACK-counter\" term",
+        "number": 1333,
+        "user": "54627384",
+        "created_at": "2022-06-19T00:26:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1333",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP322] Change private key format from wif to hex",
+        "number": 1332,
+        "user": "azuchi",
+        "created_at": "2022-06-12T02:41:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1332",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Add one Swift implementation",
+        "number": 1331,
+        "user": "ShenghaiWang",
+        "created_at": "2022-06-11T22:35:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1331",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-341: Explain the 64-byte signature format",
+        "number": 1330,
+        "user": "david-bakin",
+        "created_at": "2022-06-06T17:37:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1330",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick",
+            "jackromo888",
+            "scgbckbone",
+            "5twelve",
+            "david-bakin",
+            "ajtowns",
+            "sipa",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "BIP-341: Define c[0] as leaf version plus pubkey parity bit",
+        "number": 1329,
+        "user": "david-bakin",
+        "created_at": "2022-06-06T17:04:34Z",
+        "url": "https://github.com/bitcoin/bips/pull/1329",
+        "admin?": false,
+        "reviewers": [
+            "david-bakin",
+            "jonasnick",
+            "vostrnad",
+            "5twelve"
+        ]
+    },
+    {
+        "title": "370: Clarifications of locktimes and tx modification flags",
+        "number": 1328,
+        "user": "achow101",
+        "created_at": "2022-06-01T23:58:16Z",
+        "url": "https://github.com/bitcoin/bips/pull/1328",
+        "admin?": false,
+        "reviewers": [
+            "jgriffiths",
+            "achow101"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1327,
+        "user": "rezaeghbal01",
+        "created_at": "2022-06-01T17:42:45Z",
+        "url": "https://github.com/bitcoin/bips/pull/1327",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "typo: correct mispelling",
+        "number": 1326,
+        "user": "alexbosworth",
+        "created_at": "2022-05-26T16:27:03Z",
+        "url": "https://github.com/bitcoin/bips/pull/1326",
+        "admin?": false,
+        "reviewers": [
+            "barrybecker4"
+        ]
+    },
+    {
+        "title": "BIP 0371: Make hex example consistent with base64",
+        "number": 1325,
+        "user": "alexbosworth",
+        "created_at": "2022-05-21T00:19:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1325",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Package Relay and child-with-unconfirmed-parents + tx-with-unconfirmed-ancestors Packages",
+        "number": 1324,
+        "user": "glozow",
+        "created_at": "2022-05-17T15:26:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1324",
+        "admin?": false,
+        "reviewers": [
+            "michaelfolkson",
+            "sdaftuar",
+            "glozow",
+            "luke-jr"
+        ]
+    },
+    {
+        "title": "Fix incorrect signature test vectors in BIP322",
+        "number": 1323,
+        "user": "wip-abramson",
+        "created_at": "2022-05-17T12:56:44Z",
+        "url": "https://github.com/bitcoin/bips/pull/1323",
+        "admin?": false,
+        "reviewers": [
+            "wip-abramson",
+            "kallewoof"
+        ]
+    },
+    {
+        "title": "Add license",
+        "number": 1322,
+        "user": "katesalazar",
+        "created_at": "2022-05-14T20:33:55Z",
+        "url": "https://github.com/bitcoin/bips/pull/1322",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 0174: bring back transparent background to figures",
+        "number": 1321,
+        "user": "katesalazar",
+        "created_at": "2022-05-13T20:32:30Z",
+        "url": "https://github.com/bitcoin/bips/pull/1321",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP-119] Slim down motivation, add more references",
+        "number": 1320,
+        "user": "JeremyRubin",
+        "created_at": "2022-05-10T16:10:53Z",
+        "url": "https://github.com/bitcoin/bips/pull/1320",
+        "admin?": false,
+        "reviewers": [
+            "bucko13"
+        ]
+    },
+    {
+        "title": "[BIP-119] Use mediawiki syntax highlighting, add comment to spec",
+        "number": 1319,
+        "user": "JeremyRubin",
+        "created_at": "2022-05-10T15:34:24Z",
+        "url": "https://github.com/bitcoin/bips/pull/1319",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip-39 dart implementation added",
+        "number": 1318,
+        "user": "SunitRoy2703",
+        "created_at": "2022-05-09T19:36:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1318",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip-0137.mediawiki: use <code>recId</code> for markdown clarity",
+        "number": 1315,
+        "user": "RandyMcMillan",
+        "created_at": "2022-05-06T16:23:16Z",
+        "url": "https://github.com/bitcoin/bips/pull/1315",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Bugfix: BIP 326: Correct Author/Title headings",
+        "number": 1314,
+        "user": "luke-jr",
+        "created_at": "2022-05-05T15:07:59Z",
+        "url": "https://github.com/bitcoin/bips/pull/1314",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1313,
+        "user": "uvhw",
+        "created_at": "2022-05-05T08:55:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1313",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1312,
+        "user": "uvhw",
+        "created_at": "2022-05-05T08:46:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1312",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Danger to our democracy",
+        "number": 1311,
+        "user": "secp256k1-qntm",
+        "created_at": "2022-04-29T02:29:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1311",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP-326]: Leave motivation out of title; fix travis",
+        "number": 1310,
+        "user": "JeremyRubin",
+        "created_at": "2022-04-28T17:00:11Z",
+        "url": "https://github.com/bitcoin/bips/pull/1310",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP-119] Clean Up Spec of Opcode",
+        "number": 1309,
+        "user": "JeremyRubin",
+        "created_at": "2022-04-28T16:51:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1309",
+        "admin?": false,
+        "reviewers": [
+            "jaonoctus",
+            "vicariousdrama"
+        ]
+    },
+    {
+        "title": "BIP-0141: Fix typo",
+        "number": 1305,
+        "user": "jamesdorfman",
+        "created_at": "2022-04-20T15:17:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1305",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-174: Fix small oversights",
+        "number": 1304,
+        "user": "guggero",
+        "created_at": "2022-04-20T13:52:41Z",
+        "url": "https://github.com/bitcoin/bips/pull/1304",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1303,
+        "user": "jomaxo",
+        "created_at": "2022-04-18T21:42:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1303",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP39: Dart implementation",
+        "number": 1302,
+        "user": "ethicnology",
+        "created_at": "2022-04-18T10:45:38Z",
+        "url": "https://github.com/bitcoin/bips/pull/1302",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1301,
+        "user": "mjsamadi",
+        "created_at": "2022-04-15T00:48:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1301",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Grammar update",
+        "number": 1300,
+        "user": "dplusplus1024",
+        "created_at": "2022-04-11T08:33:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1300",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "bip-326: avoid errors from scripts/buildtable.pl",
+        "number": 1299,
+        "user": "ajtowns",
+        "created_at": "2022-04-07T00:46:11Z",
+        "url": "https://github.com/bitcoin/bips/pull/1299",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Bip taro",
+        "number": 1298,
+        "user": "learn2grid",
+        "created_at": "2022-04-06T13:59:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1298",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP370: introduce PSBT_IN_PREVIOUS_OUTPOINT",
+        "number": 1297,
+        "user": "dr-orlovsky",
+        "created_at": "2022-04-05T13:50:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1297",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-0371 vector fix + nits",
+        "number": 1296,
+        "user": "brandonblack",
+        "created_at": "2022-04-01T22:26:06Z",
+        "url": "https://github.com/bitcoin/bips/pull/1296",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[bip-0371] Remove redundant sentence in input field for Taproot Leaf Script",
+        "number": 1295,
+        "user": "tiero",
+        "created_at": "2022-03-30T15:12:53Z",
+        "url": "https://github.com/bitcoin/bips/pull/1295",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update BIP-119 to include python reference hash / link BIP-341",
+        "number": 1294,
+        "user": "JeremyRubin",
+        "created_at": "2022-03-29T21:52:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1294",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 372: Pay-to-contract tweak fields for PSBT",
+        "number": 1293,
+        "user": "dr-orlovsky",
+        "created_at": "2022-03-29T09:33:11Z",
+        "url": "https://github.com/bitcoin/bips/pull/1293",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Fixing incorrect allowing of unsigned transaction",
+        "number": 1290,
+        "user": "allenpiscitello",
+        "created_at": "2022-03-24T18:19:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1290",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP338: Add further restrictions on disabletx",
+        "number": 1287,
+        "user": "sdaftuar",
+        "created_at": "2022-03-08T19:07:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1287",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "Minor grammar fixes",
+        "number": 1286,
+        "user": "git-sgmoore",
+        "created_at": "2022-02-27T01:09:29Z",
+        "url": "https://github.com/bitcoin/bips/pull/1286",
+        "admin?": false,
+        "reviewers": [
+            "devnullada"
+        ]
+    },
+    {
+        "title": "BIP-0341+BIP-0342: correct mediawiki code formatting, update OP_CHECKSIGVERIFY description ",
+        "number": 1284,
+        "user": "Roasbeef",
+        "created_at": "2022-02-22T01:39:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1284",
+        "admin?": false,
+        "reviewers": [
+            "ajtowns",
+            "Roasbeef",
+            "pancamarga41"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1283,
+        "user": "uvhw",
+        "created_at": "2022-02-09T00:43:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1283",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1282,
+        "user": "uvhw",
+        "created_at": "2022-02-08T22:01:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1282",
+        "admin?": false,
+        "reviewers": [
+            "Zamy159"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1281,
+        "user": "Undertaciart",
+        "created_at": "2022-02-05T12:42:27Z",
+        "url": "https://github.com/bitcoin/bips/pull/1281",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": ".",
+        "number": 1280,
+        "user": "uvhw",
+        "created_at": "2022-01-28T15:51:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1280",
+        "admin?": false,
+        "reviewers": [
+            "skalarfeilds79"
+        ]
+    },
+    {
+        "title": "clarify message serialization and add test vectors to BIP-322",
+        "number": 1279,
+        "user": "kallewoof",
+        "created_at": "2022-01-26T10:19:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1279",
+        "admin?": false,
+        "reviewers": [
+            "benthecarman",
+            "kallewoof"
+        ]
+    },
+    {
+        "title": "[BIP-119] Clarify that policy is not validity + what a covenant is.",
+        "number": 1278,
+        "user": "JeremyRubin",
+        "created_at": "2022-01-26T09:46:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1278",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "JeremyRubin",
+            "kingcathy23"
+        ]
+    },
+    {
+        "title": ".",
+        "number": 1277,
+        "user": "uvhw",
+        "created_at": "2022-01-25T03:05:57Z",
+        "url": "https://github.com/bitcoin/bips/pull/1277",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[0112] fix broken link",
+        "number": 1276,
+        "user": "katesalazar",
+        "created_at": "2022-01-24T12:24:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1276",
+        "admin?": false,
+        "reviewers": [
+            "devnullada"
+        ]
+    },
+    {
+        "title": "BIP340: fix broken link to Schnorr's blind signature attack",
+        "number": 1275,
+        "user": "meshcollider",
+        "created_at": "2022-01-21T09:01:10Z",
+        "url": "https://github.com/bitcoin/bips/pull/1275",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick",
+            "maflcko",
+            "sipa",
+            "meshcollider",
+            "real-or-random"
+        ]
+    },
+    {
+        "title": "[BIP-119] Rename Channel Factories / Clarify Malleability",
+        "number": 1273,
+        "user": "JeremyRubin",
+        "created_at": "2022-01-12T18:55:24Z",
+        "url": "https://github.com/bitcoin/bips/pull/1273",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP-119] Add notes and warnings about DoS during validation of CTV.",
+        "number": 1272,
+        "user": "JeremyRubin",
+        "created_at": "2022-01-11T04:26:09Z",
+        "url": "https://github.com/bitcoin/bips/pull/1272",
+        "admin?": false,
+        "reviewers": [
+            "JeremyRubin",
+            "flack"
+        ]
+    },
+    {
+        "title": "[BIP-119] Link Reference implementation to current PR in Bitcoin Core",
+        "number": 1271,
+        "user": "JeremyRubin",
+        "created_at": "2022-01-11T03:55:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1271",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP-174] Clarify that partial_sig should be a valid.",
+        "number": 1270,
+        "user": "JeremyRubin",
+        "created_at": "2022-01-08T23:26:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1270",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 326: Anti-fee-sniping protection with nSequence in taproot transactions to improve privacy for off-chain protocols",
+        "number": 1269,
+        "user": "chris-belcher",
+        "created_at": "2022-01-08T15:36:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1269",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "yahiheb",
+            "maflcko",
+            "chris-belcher",
+            "div72",
+            "w0xlt",
+            "Jelboy15"
+        ]
+    },
+    {
+        "title": "Fix BIP-119 Typo + Clarify the reasons for 32 bit lengths",
+        "number": 1268,
+        "user": "JeremyRubin",
+        "created_at": "2022-01-05T00:12:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1268",
+        "admin?": false,
+        "reviewers": [
+            "f3rnando"
+        ]
+    },
+    {
+        "title": "typo - letter case",
+        "number": 1267,
+        "user": "pox",
+        "created_at": "2022-01-03T01:58:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1267",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP-0119] Include test vectors for CTV in BIP's subdirectory",
+        "number": 1260,
+        "user": "JeremyRubin",
+        "created_at": "2021-12-25T19:08:34Z",
+        "url": "https://github.com/bitcoin/bips/pull/1260",
+        "admin?": false,
+        "reviewers": [
+            "glozow"
+        ]
+    },
+    {
+        "title": "BIP47: Define address types explicitly",
+        "number": 1259,
+        "user": "ghost",
+        "created_at": "2021-12-25T13:01:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1259",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update CTV Motivations & Speedy Trial Information",
+        "number": 1257,
+        "user": "JeremyRubin",
+        "created_at": "2021-12-23T03:18:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1257",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update bip-0052.mediawiki",
+        "number": 1253,
+        "user": "callebtc",
+        "created_at": "2021-12-17T23:22:44Z",
+        "url": "https://github.com/bitcoin/bips/pull/1253",
+        "admin?": false,
+        "reviewers": [
+            "pkvk",
+            "Robin-Hoodie",
+            "Mehdish1"
+        ]
+    },
+    {
+        "title": "*.mediawiki linguist-detectable",
+        "number": 1252,
+        "user": "bulletwhisper77",
+        "created_at": "2021-12-16T07:30:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1252",
+        "admin?": false,
+        "reviewers": [
+            "Draken1943",
+            "f3rnando"
+        ]
+    },
+    {
+        "title": "trav",
+        "number": 1251,
+        "user": "Tithi521523",
+        "created_at": "2021-12-15T16:13:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1251",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 0016: Fix broken link",
+        "number": 1250,
+        "user": "katesalazar",
+        "created_at": "2021-12-12T20:00:19Z",
+        "url": "https://github.com/bitcoin/bips/pull/1250",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Hello",
+        "number": 1247,
+        "user": "Roskome",
+        "created_at": "2021-12-09T06:21:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1247",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Fix typo in BIP-32",
+        "number": 1245,
+        "user": "Mironenko",
+        "created_at": "2021-12-07T16:55:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1245",
+        "admin?": false,
+        "reviewers": [
+            "AdamGreenberg"
+        ]
+    },
+    {
+        "title": "BIP78: Allow mixed inputs and clarify a few things",
+        "number": 1244,
+        "user": "Kixunil",
+        "created_at": "2021-12-02T17:48:18Z",
+        "url": "https://github.com/bitcoin/bips/pull/1244",
+        "admin?": false,
+        "reviewers": [
+            "Zavalynech",
+            "DanGould",
+            "5twelve",
+            "Kixunil",
+            "NicolasDorier"
+        ]
+    },
+    {
+        "title": "BIP-341: require full spent transaction for taproot inputs in PSBT",
+        "number": 1243,
+        "user": "dr-orlovsky",
+        "created_at": "2021-11-26T23:37:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1243",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Allow Taproot outputs in BIP 322",
+        "number": 1242,
+        "user": "benthecarman",
+        "created_at": "2021-11-23T20:46:02Z",
+        "url": "https://github.com/bitcoin/bips/pull/1242",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-174: Removing PSBT_OUT_TAP_LEAF_SCRIPT",
+        "number": 1241,
+        "user": "dr-orlovsky",
+        "created_at": "2021-11-23T17:43:40Z",
+        "url": "https://github.com/bitcoin/bips/pull/1241",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Enable secure protocol",
+        "number": 1240,
+        "user": "suriyaa",
+        "created_at": "2021-11-23T16:17:30Z",
+        "url": "https://github.com/bitcoin/bips/pull/1240",
+        "admin?": false,
+        "reviewers": [
+            "suriyaa",
+            "katesalazar"
+        ]
+    },
+    {
+        "title": "PSBT: Add pay-to-contract tweaks to tx inputs",
+        "number": 1239,
+        "user": "dr-orlovsky",
+        "created_at": "2021-11-21T00:10:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1239",
+        "admin?": false,
+        "reviewers": [
+            "5twelve",
+            "Rose2161",
+            "apoelstra",
+            "dr-orlovsky",
+            "achow101"
+        ]
+    },
+    {
+        "title": "BIP 155: add Yggdrasil",
+        "number": 1238,
+        "user": "prusnak",
+        "created_at": "2021-11-18T22:56:50Z",
+        "url": "https://github.com/bitcoin/bips/pull/1238",
+        "admin?": false,
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "title": "BIP draft of portion of tx fee burn",
+        "number": 1237,
+        "user": "wu-emma",
+        "created_at": "2021-11-18T09:12:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1237",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "title": "371: Fix test formatting",
+        "number": 1236,
+        "user": "achow101",
+        "created_at": "2021-11-16T23:38:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1236",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Mention activation heights in BIP 341 \ud83e\udd55",
+        "number": 1235,
+        "user": "maflcko",
+        "created_at": "2021-11-14T06:02:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1235",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick",
+            "redmidelapannn"
+        ]
+    },
+    {
+        "title": "Clarify BIP 322 seralization requires a signed transaction",
+        "number": 1234,
+        "user": "benthecarman",
+        "created_at": "2021-11-13T00:14:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1234",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[Nit] Add full stop to conclude sentence",
+        "number": 1232,
+        "user": "Olf0",
+        "created_at": "2021-11-12T00:03:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1232",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "Fixes a link in BIP 341",
+        "number": 1231,
+        "user": "GambolingPangolin",
+        "created_at": "2021-11-10T14:25:01Z",
+        "url": "https://github.com/bitcoin/bips/pull/1231",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "BIP-341: explicitly allow softforks with future leaf versions",
+        "number": 1230,
+        "user": "dr-orlovsky",
+        "created_at": "2021-11-07T09:45:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1230",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Clearer language in BIP38",
+        "number": 1229,
+        "user": "junderw",
+        "created_at": "2021-11-05T00:32:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1229",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Fix typo in BIP 32",
+        "number": 1228,
+        "user": "yanmaani",
+        "created_at": "2021-11-04T17:26:40Z",
+        "url": "https://github.com/bitcoin/bips/pull/1228",
+        "admin?": false,
+        "reviewers": [
+            "Mar61",
+            "MoseMills"
+        ]
+    },
+    {
+        "title": "Update BIPs 300/301",
+        "number": 1227,
+        "user": "psztorc",
+        "created_at": "2021-11-02T21:49:56Z",
+        "url": "https://github.com/bitcoin/bips/pull/1227",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "psztorc"
+        ]
+    },
+    {
+        "title": "Define BIP-119 CheckDefaultCheckTemplateVerifyHash",
+        "number": 1226,
+        "user": "OrfeasLitos",
+        "created_at": "2021-11-02T21:40:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1226",
+        "admin?": false,
+        "reviewers": [
+            "JeremyRubin"
+        ]
+    },
+    {
+        "title": "BIP341 test vectors",
+        "number": 1225,
+        "user": "sipa",
+        "created_at": "2021-10-30T14:32:51Z",
+        "url": "https://github.com/bitcoin/bips/pull/1225",
+        "admin?": false,
+        "reviewers": [
+            "giacomocaironi",
+            "dgpv",
+            "jonasnick",
+            "sanket1729",
+            "sipa"
+        ]
+    },
+    {
+        "title": "BIP341/342: Implementation clarifications",
+        "number": 1224,
+        "user": "brandonblack",
+        "created_at": "2021-10-29T22:02:58Z",
+        "url": "https://github.com/bitcoin/bips/pull/1224",
+        "admin?": false,
+        "reviewers": [
+            "brandonblack",
+            "junderw",
+            "giacomocaironi",
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "How to recover Sent tokens USDT to \"Coinbase\" exchange which only accepts ERC-20 network. So I sent on the wrong network BTC Omni lost missing can't retrieve recieve or find my transaction",
+        "number": 1223,
+        "user": "Bhartman102890",
+        "created_at": "2021-10-28T07:42:21Z",
+        "url": "https://github.com/bitcoin/bips/pull/1223",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 0370: Signer to determine locktime",
+        "number": 1222,
+        "user": "kallerosenbaum",
+        "created_at": "2021-10-27T20:04:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1222",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 0174: Clarify use of PSBT_IN_FINAL_* when data is empty",
+        "number": 1221,
+        "user": "kallerosenbaum",
+        "created_at": "2021-10-27T18:44:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1221",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 341: fix SigMsg length calculation",
+        "number": 1219,
+        "user": "OttoAllmendinger",
+        "created_at": "2021-10-22T10:03:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1219",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP340: Make reference impl accept None for aux_rand",
+        "number": 1218,
+        "user": "junderw",
+        "created_at": "2021-10-21T22:48:37Z",
+        "url": "https://github.com/bitcoin/bips/pull/1218",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Minor Updates to BIP-119",
+        "number": 1215,
+        "user": "JeremyRubin",
+        "created_at": "2021-10-15T19:49:48Z",
+        "url": "https://github.com/bitcoin/bips/pull/1215",
+        "admin?": false,
+        "reviewers": [
+            "Chacaras74",
+            "kallewoof",
+            "JeremyRubin"
+        ]
+    },
+    {
+        "title": "Create semgrep-analysis.yml",
+        "number": 1207,
+        "user": "MegoyTambayan",
+        "created_at": "2021-10-10T19:52:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1207",
+        "admin?": false,
+        "reviewers": [
+            "0xB10C",
+            "LeHoang88"
+        ]
+    },
+    {
+        "title": "BIP 0069: Fix broken link",
+        "number": 1206,
+        "user": "katesalazar",
+        "created_at": "2021-10-10T18:16:19Z",
+        "url": "https://github.com/bitcoin/bips/pull/1206",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Make Wikitext linguist-detectable",
+        "number": 1203,
+        "user": "katesalazar",
+        "created_at": "2021-10-04T10:18:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1203",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 0067: Fix a broken link",
+        "number": 1202,
+        "user": "katesalazar",
+        "created_at": "2021-10-03T20:16:25Z",
+        "url": "https://github.com/bitcoin/bips/pull/1202",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 370: Use PSBT_GLOBAL_FALLBACK_LOCKTIME in text",
+        "number": 1200,
+        "user": "kallerosenbaum",
+        "created_at": "2021-10-01T07:23:55Z",
+        "url": "https://github.com/bitcoin/bips/pull/1200",
+        "admin?": false,
+        "reviewers": [
+            "Tonylaxson"
+        ]
+    },
+    {
+        "title": "BIP 0174: Fix typo in PSBT_OUT_BIP32_DERIVATION",
+        "number": 1198,
+        "user": "kallerosenbaum",
+        "created_at": "2021-09-29T09:40:21Z",
+        "url": "https://github.com/bitcoin/bips/pull/1198",
+        "admin?": false,
+        "reviewers": [
+            "Tonylaxson"
+        ]
+    },
+    {
+        "title": "BIP 0174: Correct format of PSBT_GLOBAL_TX_MODIFIABLE",
+        "number": 1197,
+        "user": "kallerosenbaum",
+        "created_at": "2021-09-29T09:38:11Z",
+        "url": "https://github.com/bitcoin/bips/pull/1197",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Ethis.txt",
+        "number": 1196,
+        "user": "pakarwebdesignku",
+        "created_at": "2021-09-26T14:47:35Z",
+        "url": "https://github.com/bitcoin/bips/pull/1196",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 0156: Remove transparent background from figures.",
+        "number": 1195,
+        "user": "katesalazar",
+        "created_at": "2021-09-26T13:16:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1195",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "vicariousdrama"
+        ]
+    },
+    {
+        "title": "BIP 0144: Remove transparent background from figure",
+        "number": 1194,
+        "user": "katesalazar",
+        "created_at": "2021-09-26T13:05:56Z",
+        "url": "https://github.com/bitcoin/bips/pull/1194",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "vicariousdrama"
+        ]
+    },
+    {
+        "title": "BIP 0174: Remove transparent background from figures",
+        "number": 1193,
+        "user": "katesalazar",
+        "created_at": "2021-09-26T12:54:15Z",
+        "url": "https://github.com/bitcoin/bips/pull/1193",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 0002: Remove transparent background from figure",
+        "number": 1192,
+        "user": "katesalazar",
+        "created_at": "2021-09-26T12:37:07Z",
+        "url": "https://github.com/bitcoin/bips/pull/1192",
+        "admin?": false,
+        "reviewers": [
+            "vicariousdrama"
+        ]
+    },
+    {
+        "title": "Add test vectors for BIP 341 SigMsg",
+        "number": 1191,
+        "user": "giacomocaironi",
+        "created_at": "2021-09-26T10:32:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1191",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick",
+            "giacomocaironi",
+            "MegoyTambayan",
+            "junderw",
+            "sipa"
+        ]
+    },
+    {
+        "title": "BIP 0032: Keys pool size has increased to 1000",
+        "number": 1190,
+        "user": "katesalazar",
+        "created_at": "2021-09-25T17:16:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1190",
+        "admin?": false,
+        "reviewers": [
+            "free13922"
+        ]
+    },
+    {
+        "title": "update bip0129 to reduce ambiguity",
+        "number": 1188,
+        "user": "instagibbs",
+        "created_at": "2021-09-23T06:46:07Z",
+        "url": "https://github.com/bitcoin/bips/pull/1188",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 0001: Absolute path for figure.",
+        "number": 1187,
+        "user": "katesalazar",
+        "created_at": "2021-09-21T16:49:46Z",
+        "url": "https://github.com/bitcoin/bips/pull/1187",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "docs: add passphrase.js to JS list",
+        "number": 1186,
+        "user": "coolaj86",
+        "created_at": "2021-09-20T09:10:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1186",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "PoT",
+        "number": 1185,
+        "user": "ghost",
+        "created_at": "2021-09-19T14:22:39Z",
+        "url": "https://github.com/bitcoin/bips/pull/1185",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 0009: Remove transparent background from figure.",
+        "number": 1184,
+        "user": "katesalazar",
+        "created_at": "2021-09-17T19:26:59Z",
+        "url": "https://github.com/bitcoin/bips/pull/1184",
+        "admin?": false,
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "title": "[BIP 157] Add missing words to sentence",
+        "number": 1182,
+        "user": "tcharding",
+        "created_at": "2021-09-15T22:13:27Z",
+        "url": "https://github.com/bitcoin/bips/pull/1182",
+        "admin?": false,
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "title": "typo: BIP [380-385]",
+        "number": 1179,
+        "user": "jaonoctus",
+        "created_at": "2021-09-15T12:28:33Z",
+        "url": "https://github.com/bitcoin/bips/pull/1179",
+        "admin?": false,
+        "reviewers": [
+            "MiguelMedeiros"
+        ]
+    },
+    {
+        "title": "BIP 371: Require Schnorr sig to be 64 bytes long",
+        "number": 1176,
+        "user": "dr-orlovsky",
+        "created_at": "2021-09-14T12:14:19Z",
+        "url": "https://github.com/bitcoin/bips/pull/1176",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Create SECURITY.mdbip45",
+        "number": 1175,
+        "user": "gottook4blame",
+        "created_at": "2021-09-14T04:43:49Z",
+        "url": "https://github.com/bitcoin/bips/pull/1175",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP39 Turkish Wordlist - Proposal",
+        "number": 1173,
+        "user": "paribu",
+        "created_at": "2021-09-06T10:06:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1173",
+        "admin?": false,
+        "reviewers": [
+            "QUGL-98-06-15",
+            "Horlarhold",
+            "Kognitif",
+            "mhkafadar"
+        ]
+    },
+    {
+        "title": "Revert \"Updated URL of the JavaScript reference implementation\"",
+        "number": 1172,
+        "user": "ghost",
+        "created_at": "2021-08-31T16:15:31Z",
+        "url": "https://github.com/bitcoin/bips/pull/1172",
+        "admin?": false,
+        "reviewers": [
+            "augustoproiete"
+        ]
+    },
+    {
+        "title": "[BIP78] Fix client implementation when there is output substitution",
+        "number": 1171,
+        "user": "NicolasDorier",
+        "created_at": "2021-08-31T06:47:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1171",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP 158] Fix grammar - remove 'was chosen as'",
+        "number": 1158,
+        "user": "tcharding",
+        "created_at": "2021-08-17T08:48:22Z",
+        "url": "https://github.com/bitcoin/bips/pull/1158",
+        "admin?": false,
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "title": "Remove newline to fix list rendering",
+        "number": 1157,
+        "user": "tcharding",
+        "created_at": "2021-08-17T08:39:03Z",
+        "url": "https://github.com/bitcoin/bips/pull/1157",
+        "admin?": false,
+        "reviewers": [
+            "Lcote71"
+        ]
+    },
+    {
+        "title": "typo in bip-0078",
+        "number": 1156,
+        "user": "rage-proof",
+        "created_at": "2021-08-16T23:08:43Z",
+        "url": "https://github.com/bitcoin/bips/pull/1156",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP174] Fix broken link to psbt2",
+        "number": 1155,
+        "user": "azuchi",
+        "created_at": "2021-08-15T06:52:23Z",
+        "url": "https://github.com/bitcoin/bips/pull/1155",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIP78] Recommended fee rate estimation for P2TR",
+        "number": 1152,
+        "user": "NicolasDorier",
+        "created_at": "2021-08-05T06:50:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1152",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 371: Tests vectors and reference implementation",
+        "number": 1147,
+        "user": "achow101",
+        "created_at": "2021-07-26T20:45:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1147",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP-48: Trivial errant apostrophe fix",
+        "number": 1146,
+        "user": "kdmukai",
+        "created_at": "2021-07-21T13:07:11Z",
+        "url": "https://github.com/bitcoin/bips/pull/1146",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Staging",
+        "number": 1145,
+        "user": "dzidek197",
+        "created_at": "2021-07-18T01:08:00Z",
+        "url": "https://github.com/bitcoin/bips/pull/1145",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "[BIPs 380-386] Output Script Descriptors",
+        "number": 1143,
+        "user": "achow101",
+        "created_at": "2021-07-14T22:08:41Z",
+        "url": "https://github.com/bitcoin/bips/pull/1143",
+        "admin?": false,
+        "reviewers": [
+            "sanket1729",
+            "michaelfolkson",
+            "achow101",
+            "KimJi55"
+        ]
+    },
+    {
+        "title": "remove int_from_bytes in lift_x call since it is done internally",
+        "number": 1142,
+        "user": "RCasatta",
+        "created_at": "2021-07-14T14:48:08Z",
+        "url": "https://github.com/bitcoin/bips/pull/1142",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "BIP118: Key version should be 0x01",
+        "number": 1141,
+        "user": "sanket1729",
+        "created_at": "2021-07-09T08:29:39Z",
+        "url": "https://github.com/bitcoin/bips/pull/1141",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update bip-0141.mediawiki",
+        "number": 1140,
+        "user": "RandyMcMillan",
+        "created_at": "2021-07-09T02:16:17Z",
+        "url": "https://github.com/bitcoin/bips/pull/1140",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 371: Taproot Fields for PSBT",
+        "number": 1139,
+        "user": "achow101",
+        "created_at": "2021-07-06T17:21:10Z",
+        "url": "https://github.com/bitcoin/bips/pull/1139",
+        "admin?": false,
+        "reviewers": [
+            "achow101",
+            "NicolasDorier"
+        ]
+    },
+    {
+        "title": "Add Hebrew wordlist to BIP39 ",
+        "number": 1138,
+        "user": "guypergal",
+        "created_at": "2021-07-02T00:24:16Z",
+        "url": "https://github.com/bitcoin/bips/pull/1138",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 86: Key Derivation for Single Key P2TR Outputs",
+        "number": 1137,
+        "user": "achow101",
+        "created_at": "2021-06-26T03:01:52Z",
+        "url": "https://github.com/bitcoin/bips/pull/1137",
+        "admin?": false,
+        "reviewers": [
+            "junderw",
+            "achow101",
+            "LeHoang88"
+        ]
+    },
+    {
+        "title": "Remove typo: plural",
+        "number": 1136,
+        "user": "tcharding",
+        "created_at": "2021-06-22T00:55:07Z",
+        "url": "https://github.com/bitcoin/bips/pull/1136",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "psbt2: Fix field number counting",
+        "number": 1135,
+        "user": "achow101",
+        "created_at": "2021-06-21T21:10:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1135",
+        "admin?": false,
+        "reviewers": [
+            "Tomek00177",
+            "apoelstra"
+        ]
+    },
+    {
+        "title": "BIP155: extra-clarify the semantic of sendaddrv2",
+        "number": 1134,
+        "user": "vasild",
+        "created_at": "2021-06-16T11:29:10Z",
+        "url": "https://github.com/bitcoin/bips/pull/1134",
+        "admin?": false,
+        "reviewers": [
+            "vasild",
+            "jonatack",
+            "harding"
+        ]
+    },
+    {
+        "title": "Replaces Bech32 by Bech32m in BIP341",
+        "number": 1133,
+        "user": "Raulo",
+        "created_at": "2021-06-14T09:33:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1133",
+        "admin?": false,
+        "reviewers": [
+            "dr-orlovsky",
+            "benthecarman"
+        ]
+    },
+    {
+        "title": "BIP85: Add AirGap Vault implementation",
+        "number": 1132,
+        "user": "AndreasGassmann",
+        "created_at": "2021-06-14T01:18:55Z",
+        "url": "https://github.com/bitcoin/bips/pull/1132",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Minor fixes to BIP-0009",
+        "number": 1130,
+        "user": "tcharding",
+        "created_at": "2021-06-09T00:36:55Z",
+        "url": "https://github.com/bitcoin/bips/pull/1130",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP39: Add Hungarian wordlist",
+        "number": 1129,
+        "user": "peterkisfaludi",
+        "created_at": "2021-06-08T18:19:56Z",
+        "url": "https://github.com/bitcoin/bips/pull/1129",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update bip-0037.mediawiki",
+        "number": 1128,
+        "user": "ch1ru",
+        "created_at": "2021-06-06T19:27:30Z",
+        "url": "https://github.com/bitcoin/bips/pull/1128",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Updated URL of the JavaScript reference implementation",
+        "number": 1127,
+        "user": "chirag64",
+        "created_at": "2021-06-06T12:04:52Z",
+        "url": "https://github.com/bitcoin/bips/pull/1127",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 52: Durable, Low Energy Bitcoin PoW",
+        "number": 1126,
+        "user": "pkvk",
+        "created_at": "2021-05-26T18:00:38Z",
+        "url": "https://github.com/bitcoin/bips/pull/1126",
+        "admin?": false,
+        "reviewers": [
+            "pkvk",
+            "luke-jr",
+            "jaysonmald35"
+        ]
+    },
+    {
+        "title": "BIP88: fix description of the \"*h/0\" example",
+        "number": 1125,
+        "user": "dgpv",
+        "created_at": "2021-05-26T12:36:28Z",
+        "url": "https://github.com/bitcoin/bips/pull/1125",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP158: Fix typo - changed 'outpoints spent' to 'outputs spent'.",
+        "number": 1124,
+        "user": "evanlinjin",
+        "created_at": "2021-05-21T10:12:20Z",
+        "url": "https://github.com/bitcoin/bips/pull/1124",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP88: add Acknowledgements section",
+        "number": 1123,
+        "user": "dgpv",
+        "created_at": "2021-05-18T07:47:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1123",
+        "admin?": false,
+        "reviewers": [
+            "Rspigler",
+            "dgpv"
+        ]
+    },
+    {
+        "title": "BIP340: remove batch speedup graph and link to it instead",
+        "number": 1122,
+        "user": "jonasnick",
+        "created_at": "2021-05-17T14:55:24Z",
+        "url": "https://github.com/bitcoin/bips/pull/1122",
+        "admin?": false,
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "title": "BIP-0136: updates data encoding/decoding examples due to bech32m/bech32",
+        "number": 1121,
+        "user": "danpape",
+        "created_at": "2021-05-14T22:09:50Z",
+        "url": "https://github.com/bitcoin/bips/pull/1121",
+        "admin?": false,
+        "reviewers": [
+            "kimdhamilton"
+        ]
+    },
+    {
+        "title": "BIP 174: clarify key uniqueness",
+        "number": 1120,
+        "user": "t-bast",
+        "created_at": "2021-05-11T14:18:38Z",
+        "url": "https://github.com/bitcoin/bips/pull/1120",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 343: Mandatory activation of taproot deployment",
+        "number": 1119,
+        "user": "michaelfolkson",
+        "created_at": "2021-05-09T09:35:01Z",
+        "url": "https://github.com/bitcoin/bips/pull/1119",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Update BIP-119 Variable Names",
+        "number": 1118,
+        "user": "JeremyRubin",
+        "created_at": "2021-05-07T17:57:34Z",
+        "url": "https://github.com/bitcoin/bips/pull/1118",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "docs: fix spelling",
+        "number": 1117,
+        "user": "jbampton",
+        "created_at": "2021-05-07T12:54:47Z",
+        "url": "https://github.com/bitcoin/bips/pull/1117",
+        "admin?": false,
+        "reviewers": [
+            "dr-orlovsky",
+            "murchandamus",
+            "525411"
+        ]
+    },
+    {
+        "title": "Add Kalle Alm as BIP editor",
+        "number": 1116,
+        "user": "jnewbery",
+        "created_at": "2021-05-07T08:22:38Z",
+        "url": "https://github.com/bitcoin/bips/pull/1116",
+        "admin?": false,
+        "reviewers": [
+            "luke-jr",
+            "nopara73",
+            "jnewbery",
+            "dr-orlovsky",
+            "maflcko",
+            "ajtowns",
+            "kallewoof"
+        ]
+    },
+    {
+        "title": "bip174: link to 'compact size' definition, document version 0 handling of > 0xFD",
+        "number": 1115,
+        "user": "Sjors",
+        "created_at": "2021-04-30T11:14:04Z",
+        "url": "https://github.com/bitcoin/bips/pull/1115",
+        "admin?": false,
+        "reviewers": [
+            "Sjors",
+            "achow101"
+        ]
+    },
+    {
+        "title": "BIP85: Add AirGap Vault implementation",
+        "number": 1114,
+        "user": "AndreasGassmann",
+        "created_at": "2021-04-28T08:19:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1114",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Define BIP Steward Process and set Temporary Editor",
+        "number": 1113,
+        "user": "JaimeCaring",
+        "created_at": "2021-04-26T16:45:09Z",
+        "url": "https://github.com/bitcoin/bips/pull/1113",
+        "admin?": false,
+        "reviewers": [
+            "maflcko"
+        ]
+    },
+    {
+        "title": "Notification BIP",
+        "number": 1112,
+        "user": "cgilliard",
+        "created_at": "2021-04-24T02:28:14Z",
+        "url": "https://github.com/bitcoin/bips/pull/1112",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Content Moderation BIP",
+        "number": 1111,
+        "user": "cgilliard",
+        "created_at": "2021-04-24T02:27:12Z",
+        "url": "https://github.com/bitcoin/bips/pull/1111",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Web of Trust BIP",
+        "number": 1110,
+        "user": "cgilliard",
+        "created_at": "2021-04-24T02:26:42Z",
+        "url": "https://github.com/bitcoin/bips/pull/1110",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "BIP 341: fix tuple index in taproot_tweak_pubkey",
+        "number": 1109,
+        "user": "Crypt-iQ",
+        "created_at": "2021-04-23T21:36:26Z",
+        "url": "https://github.com/bitcoin/bips/pull/1109",
+        "admin?": false,
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "title": "Naming BIP",
+        "number": 1108,
+        "user": "cgilliard",
+        "created_at": "2021-04-21T20:30:38Z",
+        "url": "https://github.com/bitcoin/bips/pull/1108",
+        "admin?": false,
+        "reviewers": []
+    },
+    {
+        "title": "Storage BIP",
+        "number": 1107,
+        "user": "cgilliard",
+        "created_at": "2021-04-20T17:18:10Z",
+        "url": "https://github.com/bitcoin/bips/pull/1107",
+        "admin?": false,
+        "reviewers": [
+            "harding"
+        ]
+    }
+]

@@ -1,0 +1,8362 @@
+[
+    {
+        "user": "quapka",
+        "reviewers": []
+    },
+    {
+        "user": "quapka",
+        "reviewers": []
+    },
+    {
+        "user": "futreall",
+        "reviewers": []
+    },
+    {
+        "user": "darosior",
+        "reviewers": [
+            "darosior",
+            "Sjors",
+            "vostrnad",
+            "fjahr",
+            "mzumsande"
+        ]
+    },
+    {
+        "user": "MORTEZAMIRsa",
+        "reviewers": []
+    },
+    {
+        "user": "sky-coderay",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "shesek",
+        "reviewers": []
+    },
+    {
+        "user": "Pronoss",
+        "reviewers": [
+            "CitrixLab",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "guspan-tanadi",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": []
+    },
+    {
+        "user": "bigspider",
+        "reviewers": [
+            "instagibbs",
+            "jirijakes",
+            "bigspider",
+            "Sjors"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "JeremyRubin",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "wgyt",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "wgyt"
+        ]
+    },
+    {
+        "user": "futreall",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "darosior",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "EthnTuttle",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "GobiShanthan",
+        "reviewers": [
+            "GobiShanthan",
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "GobiShanthan",
+        "reviewers": []
+    },
+    {
+        "user": "jonatack",
+        "reviewers": []
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "shoar7"
+        ]
+    },
+    {
+        "user": "wgyt",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "fjahr"
+        ]
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "reardencode",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "VolodymyrBg",
+        "reviewers": []
+    },
+    {
+        "user": "sky-coderay",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "vipocenka",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "craigraw",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "KareemAbdoSE",
+        "reviewers": []
+    },
+    {
+        "user": "fjahr",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "brawncode",
+        "reviewers": []
+    },
+    {
+        "user": "costcould",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "hoholos",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "jonatack",
+            "jonasschnelli",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "0xBEEFCAF3",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "crStiv",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "Christewart",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "Christewart"
+        ]
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": [
+            "ajtowns",
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "andrewtoth",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "andrewtoth"
+        ]
+    },
+    {
+        "user": "Christewart",
+        "reviewers": []
+    },
+    {
+        "user": "hoholos",
+        "reviewers": []
+    },
+    {
+        "user": "hoholos",
+        "reviewers": []
+    },
+    {
+        "user": "nymius",
+        "reviewers": [
+            "jonatack",
+            "andrewtoth"
+        ]
+    },
+    {
+        "user": "sotomiguel202",
+        "reviewers": [
+            "sotomiguel202"
+        ]
+    },
+    {
+        "user": "brawncode",
+        "reviewers": [
+            "bigspider",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "stratospher",
+        "reviewers": [
+            "theStack",
+            "jonatack",
+            "andrewtoth"
+        ]
+    },
+    {
+        "user": "doc-hex",
+        "reviewers": [
+            "jonatack",
+            "craigraw",
+            "doc-hex"
+        ]
+    },
+    {
+        "user": "doc-hex",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "ujjwali2s",
+        "reviewers": []
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": []
+    },
+    {
+        "user": "andrewtoth",
+        "reviewers": [
+            "andrewtoth",
+            "bigspider",
+            "sipa",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "shesek",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "barajeel",
+        "reviewers": [
+            "SupavineeSerksiri6315"
+        ]
+    },
+    {
+        "user": "crStiv",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "theuni",
+            "jonatack",
+            "dr-orlovsky"
+        ]
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": []
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": []
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "andrewtoth"
+        ]
+    },
+    {
+        "user": "theStack",
+        "reviewers": [
+            "jonatack",
+            "andrewtoth"
+        ]
+    },
+    {
+        "user": "guggero",
+        "reviewers": [
+            "jonatack",
+            "andrewtoth"
+        ]
+    },
+    {
+        "user": "andrewtoth",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "sara710944",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "theStack",
+        "reviewers": [
+            "jonasnick",
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "DMS1997",
+        "reviewers": []
+    },
+    {
+        "user": "epysqyli",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "romashka-btc",
+        "reviewers": []
+    },
+    {
+        "user": "savvar9991",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "futreall",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "vtjl10",
+        "reviewers": []
+    },
+    {
+        "user": "furszy",
+        "reviewers": [
+            "ismaelsadeeq",
+            "furszy",
+            "murchandamus",
+            "sipa"
+        ]
+    },
+    {
+        "user": "HubertIGL",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "HubertIGL",
+        "reviewers": [
+            "HubertIGL",
+            "achow101"
+        ]
+    },
+    {
+        "user": "kdmukai",
+        "reviewers": [
+            "kdmukai",
+            "jonatack",
+            "achow101"
+        ]
+    },
+    {
+        "user": "youyyytrok",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "dannbbb1",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "kdmukai",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": [
+            "jonatack",
+            "LarryRuane",
+            "murchandamus",
+            "sipa",
+            "JeremyRubin",
+            "katesalazar",
+            "kanzure",
+            "EthanHeilman",
+            "real-or-random",
+            "achow101"
+        ]
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "anurag-lint",
+        "reviewers": [
+            "monkeydluffyto",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": [
+            "theStack",
+            "Gudnessuche"
+        ]
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "theStack",
+        "reviewers": [
+            "kdmukai",
+            "jonatack",
+            "Sjors",
+            "theStack",
+            "rkrux"
+        ]
+    },
+    {
+        "user": "Gudnessuche",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "moonsettler",
+        "reviewers": [
+            "moonsettler",
+            "jonatack",
+            "murchandamus",
+            "JeremyRubin",
+            "rot13maxi",
+            "reardencode"
+        ]
+    },
+    {
+        "user": "kanzure",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "bigspider",
+        "reviewers": [
+            "jgriffiths",
+            "bigspider",
+            "murchandamus",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "bigspider",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack",
+            "bigspider",
+            "achow101"
+        ]
+    },
+    {
+        "user": "pad01g",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "ALANthemoor",
+        "reviewers": []
+    },
+    {
+        "user": "jonatack",
+        "reviewers": []
+    },
+    {
+        "user": "akarve",
+        "reviewers": [
+            "jonatack",
+            "akarve"
+        ]
+    },
+    {
+        "user": "Machinediablos",
+        "reviewers": []
+    },
+    {
+        "user": "andrewtoth",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "sipa",
+            "theStack",
+            "stratospher",
+            "andrewtoth"
+        ]
+    },
+    {
+        "user": "jlopp",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "andrewtoth",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "theStack",
+            "nothingmuch",
+            "guggero",
+            "andrewtoth"
+        ]
+    },
+    {
+        "user": "psztorc",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "bskrksyp9",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "akarve",
+        "reviewers": [
+            "scgbckbone",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "jonasnick",
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": []
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "ebfull"
+        ]
+    },
+    {
+        "user": "akarve",
+        "reviewers": [
+            "jodyyates",
+            "scgbckbone",
+            "jonatack",
+            "akarve",
+            "Mahdiporroshan"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "scgbckbone",
+        "reviewers": [
+            "witaliy12",
+            "scgbckbone",
+            "jonatack",
+            "murchandamus",
+            "apoelstra"
+        ]
+    },
+    {
+        "user": "scgbckbone",
+        "reviewers": [
+            "scgbckbone",
+            "jonatack",
+            "akarve"
+        ]
+    },
+    {
+        "user": "RandyMcMillan",
+        "reviewers": []
+    },
+    {
+        "user": "jonatack",
+        "reviewers": []
+    },
+    {
+        "user": "scgbckbone",
+        "reviewers": [
+            "scgbckbone",
+            "jonatack",
+            "akarve"
+        ]
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "3Y215",
+        "reviewers": []
+    },
+    {
+        "user": "cryptoquick",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "cryptoquick",
+            "kingcathy23",
+            "EthanHeilman"
+        ]
+    },
+    {
+        "user": "1440000bytes",
+        "reviewers": [
+            "1440000bytes",
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "4player90",
+        "reviewers": []
+    },
+    {
+        "user": "4player90",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "psztorc",
+        "reviewers": [
+            "psztorc",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "EthanHeilman",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "ariard",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "ariard",
+        "reviewers": [
+            "JanKortes212",
+            "jonatack",
+            "murchandamus",
+            "wlad76",
+            "ariard"
+        ]
+    },
+    {
+        "user": "arjunsunar1",
+        "reviewers": []
+    },
+    {
+        "user": "fjahr",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "glozow"
+        ]
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "fjahr",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "Freeanjel",
+            "TheBlueMatt",
+            "achow101"
+        ]
+    },
+    {
+        "user": "Crypt-iQ",
+        "reviewers": [
+            "stratospher",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "storopoli",
+        "reviewers": [
+            "jonatack",
+            "storopoli",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "OrfeasLitos",
+        "reviewers": [
+            "jonatack",
+            "ProofOfKeags"
+        ]
+    },
+    {
+        "user": "OrfeasLitos",
+        "reviewers": [
+            "OrfeasLitos",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "michael1011",
+        "reviewers": [
+            "murchandamus",
+            "theborakompanioni"
+        ]
+    },
+    {
+        "user": "omahs",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "siv2r",
+        "reviewers": [
+            "stratospher",
+            "jonasnick",
+            "siv2r"
+        ]
+    },
+    {
+        "user": "pinheadmz",
+        "reviewers": [
+            "murchandamus",
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "user": "Sjors",
+        "reviewers": [
+            "Sjors",
+            "jonatack",
+            "t-bast",
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "user": "bigspider",
+        "reviewers": [
+            "bigspider",
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack",
+            "achow101"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "josibake",
+        "reviewers": [
+            "jonatack",
+            "josibake"
+        ]
+    },
+    {
+        "user": "douglaz",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "azuchi",
+        "reviewers": [
+            "jonatack",
+            "525411"
+        ]
+    },
+    {
+        "user": "thesimplekid",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "josibake",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "RandyMcMillan",
+        "reviewers": []
+    },
+    {
+        "user": "nnsW3",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "OrfeasLitos",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "parsaei889",
+        "reviewers": []
+    },
+    {
+        "user": "satsie",
+        "reviewers": [
+            "jonatack",
+            "satsie",
+            "remcoros",
+            "DanGould",
+            "5twelve"
+        ]
+    },
+    {
+        "user": "theStack",
+        "reviewers": [
+            "jonatack",
+            "andrewtoth",
+            "josibake"
+        ]
+    },
+    {
+        "user": "RandyMcMillan",
+        "reviewers": [
+            "RandyMcMillan"
+        ]
+    },
+    {
+        "user": "theStack",
+        "reviewers": [
+            "jonatack",
+            "josibake",
+            "theStack",
+            "5twelve",
+            "real-or-random",
+            "davidaucoin7377"
+        ]
+    },
+    {
+        "user": "real-or-random",
+        "reviewers": [
+            "theStack",
+            "jonasnick",
+            "5twelve"
+        ]
+    },
+    {
+        "user": "GlenCooper",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "1440000bytes",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "theStack",
+        "reviewers": [
+            "jonatack",
+            "5twelve",
+            "josibake"
+        ]
+    },
+    {
+        "user": "satsie",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "satsie",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "efecini",
+        "reviewers": [
+            "murchandamus",
+            "ProofOfKeags"
+        ]
+    },
+    {
+        "user": "CrewsControlSolutions",
+        "reviewers": []
+    },
+    {
+        "user": "GlenCooper",
+        "reviewers": [
+            "murchandamus",
+            "GlenCooper"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack",
+            "sipa",
+            "darosior",
+            "apoelstra",
+            "sanket1729",
+            "achow101"
+        ]
+    },
+    {
+        "user": "ChrisCho-H",
+        "reviewers": []
+    },
+    {
+        "user": "Eudaimonios",
+        "reviewers": []
+    },
+    {
+        "user": "DanGould",
+        "reviewers": [
+            "DanGould",
+            "Kixunil",
+            "jonatack",
+            "5twelve"
+        ]
+    },
+    {
+        "user": "cocoyeal",
+        "reviewers": [
+            "danielCalbonero12345",
+            "jonatack",
+            "1elsa1"
+        ]
+    },
+    {
+        "user": "Sajjon",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "vostrnad",
+            "Sajjon"
+        ]
+    },
+    {
+        "user": "fjahr",
+        "reviewers": [
+            "murchandamus",
+            "Sjors",
+            "maflcko",
+            "joseedil",
+            "5twelve",
+            "vostrnad",
+            "fjahr"
+        ]
+    },
+    {
+        "user": "akarve",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "akarve"
+        ]
+    },
+    {
+        "user": "theborakompanioni",
+        "reviewers": [
+            "AdamISZ",
+            "murchandamus",
+            "theborakompanioni"
+        ]
+    },
+    {
+        "user": "ChrisCho-H",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": []
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": []
+    },
+    {
+        "user": "threewebcode",
+        "reviewers": [
+            "Vahid12015595"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "murchandamus",
+            "josibake"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "bigspider",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "bigspider",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "siv2r",
+        "reviewers": [
+            "jonasnick",
+            "real-or-random",
+            "siv2r"
+        ]
+    },
+    {
+        "user": "RandyMcMillan",
+        "reviewers": [
+            "bigspider"
+        ]
+    },
+    {
+        "user": "real-or-random",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "JeremyRubin",
+            "murchandamus",
+            "ProofOfKeags"
+        ]
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "jonatack",
+        "reviewers": []
+    },
+    {
+        "user": "yannickseurin",
+        "reviewers": [
+            "jonasnick",
+            "real-or-random",
+            "yannickseurin"
+        ]
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": [
+            "Jhuckabee3131981",
+            "sipa"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "achow101"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "Stefan41199",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": []
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": []
+    },
+    {
+        "user": "jonatack",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "farisei77",
+            "RubenSomsen",
+            "katesalazar",
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonatack",
+            "Christewart",
+            "achow101",
+            "laanwj"
+        ]
+    },
+    {
+        "user": "ArielYaniv",
+        "reviewers": []
+    },
+    {
+        "user": "bitjson",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "murchandamus",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "JeremyRubin",
+            "ben221199"
+        ]
+    },
+    {
+        "user": "Christewart",
+        "reviewers": []
+    },
+    {
+        "user": "prusnak",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "Lionz01"
+        ]
+    },
+    {
+        "user": "ben221199",
+        "reviewers": [
+            "ben221199",
+            "jonatack",
+            "Minicoolboy77777"
+        ]
+    },
+    {
+        "user": "TomBriar",
+        "reviewers": [
+            "apoelstra",
+            "murchandamus",
+            "TomBriar"
+        ]
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "clarkmoody",
+            "TheBlueMatt",
+            "MaxFangX",
+            "kristapsk",
+            "katesalazar",
+            "t-bast"
+        ]
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "stickies-v",
+            "kristapsk",
+            "Marco1553"
+        ]
+    },
+    {
+        "user": "Roojsz88",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": [
+            "starius",
+            "benthecarman",
+            "TheBlueMatt",
+            "DanGould",
+            "jonasnick",
+            "kristapsk",
+            "dipunm",
+            "jojkaart",
+            "hernanmarino",
+            "harding",
+            "benma",
+            "pinheadmz",
+            "dzdidi",
+            "t-bast"
+        ]
+    },
+    {
+        "user": "siv2r",
+        "reviewers": [
+            "jonatack",
+            "0xGRAV3R",
+            "jonasnick",
+            "kristapsk",
+            "Originalmenace",
+            "0xtrr",
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "seedhammer",
+        "reviewers": [
+            "fslmultiservice22",
+            "jonatack",
+            "murchandamus",
+            "seedhammer",
+            "0xGRAV3R",
+            "Vahid12015595",
+            "5twelve",
+            "benma"
+        ]
+    },
+    {
+        "user": "5atoshiNakamoto",
+        "reviewers": [
+            "0xGRAV3R",
+            "twonpuncho23"
+        ]
+    },
+    {
+        "user": "5atoshiNakamoto",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "davidgumberg",
+        "reviewers": [
+            "0xGRAV3R"
+        ]
+    },
+    {
+        "user": "real-or-random",
+        "reviewers": [
+            "0xGRAV3R",
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "ottosch",
+        "reviewers": []
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": [
+            "instagibbs",
+            "dergoegge",
+            "Christewart",
+            "vostrnad"
+        ]
+    },
+    {
+        "user": "glozow",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "sdaftuar",
+            "carlaKC",
+            "ismaelsadeeq",
+            "glozow",
+            "ProofOfKeags"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "murchandamus",
+            "Ademan",
+            "bigspider",
+            "Sjors",
+            "rot13maxi",
+            "achow101"
+        ]
+    },
+    {
+        "user": "Christewart",
+        "reviewers": [
+            "murchandamus",
+            "EthanHeilman",
+            "Roasbeef",
+            "Christewart",
+            "khademreza5"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "murchandamus",
+            "ajtowns",
+            "vostrnad",
+            "sipa"
+        ]
+    },
+    {
+        "user": "reardencode",
+        "reviewers": [
+            "moonsettler",
+            "murchandamus",
+            "Jesus5432",
+            "reardencode",
+            "Roasbeef",
+            "ajtowns",
+            "ProofOfKeags"
+        ]
+    },
+    {
+        "user": "reardencode",
+        "reviewers": [
+            "moonsettler",
+            "murchandamus",
+            "reardencode",
+            "halseth",
+            "allysa08",
+            "Starco1001",
+            "vostrnad",
+            "ProofOfKeags"
+        ]
+    },
+    {
+        "user": "Christewart",
+        "reviewers": []
+    },
+    {
+        "user": "yannickseurin",
+        "reviewers": []
+    },
+    {
+        "user": "stevenroose",
+        "reviewers": []
+    },
+    {
+        "user": "nau",
+        "reviewers": [
+            "illesdavid",
+            "jonatack",
+            "Skyeenicole",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "EthanHeilman",
+        "reviewers": [
+            "0xBEEFCAF3",
+            "junderw",
+            "illesdavid",
+            "halseth",
+            "EthanHeilman",
+            "vostrnad",
+            "kallewoof",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": [
+            "ProofOfKeags",
+            "jonatack",
+            "murchandamus",
+            "petertodd",
+            "instagibbs",
+            "reardencode",
+            "illesdavid",
+            "ajtowns",
+            "glozow"
+        ]
+    },
+    {
+        "user": "fakefraud",
+        "reviewers": []
+    },
+    {
+        "user": "fakefraud",
+        "reviewers": [
+            "jonatack",
+            "illesdavid",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "fakefraud",
+        "reviewers": [
+            "0xtrr",
+            "jonatack",
+            "jalal"
+        ]
+    },
+    {
+        "user": "fakefraud",
+        "reviewers": []
+    },
+    {
+        "user": "cmdruid",
+        "reviewers": [
+            "augustoproiete"
+        ]
+    },
+    {
+        "user": "LamaBigus",
+        "reviewers": []
+    },
+    {
+        "user": "TurkinKolette",
+        "reviewers": []
+    },
+    {
+        "user": "junderw",
+        "reviewers": []
+    },
+    {
+        "user": "momodaka",
+        "reviewers": [
+            "illesdavid"
+        ]
+    },
+    {
+        "user": "conduition",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "RealCocoArdo",
+        "reviewers": []
+    },
+    {
+        "user": "GoodDaisy",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "katesalazar",
+            "guggero"
+        ]
+    },
+    {
+        "user": "stevenroose",
+        "reviewers": [
+            "0xBEEFCAF3",
+            "murchandamus",
+            "starius",
+            "sennhann29",
+            "rustyrussell",
+            "halseth",
+            "stevenroose",
+            "ajtowns",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "real-or-random",
+        "reviewers": [
+            "sipa",
+            "Sjors",
+            "stratospher",
+            "cacrowley",
+            "naumenkogs",
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "meherett",
+        "reviewers": []
+    },
+    {
+        "user": "sts10",
+        "reviewers": [
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": [
+            "illesdavid",
+            "5twelve"
+        ]
+    },
+    {
+        "user": "Silvrbckw",
+        "reviewers": []
+    },
+    {
+        "user": "theStack",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "wangchun",
+        "reviewers": [
+            "katesalazar",
+            "jonatack",
+            "Kampe"
+        ]
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "staffserg"
+        ]
+    },
+    {
+        "user": "git-sgmoore",
+        "reviewers": [
+            "katesalazar",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "DanGould",
+        "reviewers": [
+            "jonatack",
+            "spacebear21",
+            "murchandamus",
+            "satsie",
+            "DanGould",
+            "5twelve",
+            "thebrandonlucas"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "dplusplus1024",
+        "reviewers": [
+            "5twelve"
+        ]
+    },
+    {
+        "user": "jamesob",
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "psztorc",
+        "reviewers": []
+    },
+    {
+        "user": "sasa-buklijas",
+        "reviewers": [
+            "katesalazar"
+        ]
+    },
+    {
+        "user": "OrfeasLitos",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "azuchi",
+        "reviewers": [
+            "19861826",
+            "Jones098"
+        ]
+    },
+    {
+        "user": "TheTrunk",
+        "reviewers": []
+    },
+    {
+        "user": "reardencode",
+        "reviewers": [
+            "5twelve"
+        ]
+    },
+    {
+        "user": "theStack",
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "9138338mmz",
+        "reviewers": []
+    },
+    {
+        "user": "theborakompanioni",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "Woodpecker965",
+        "reviewers": []
+    },
+    {
+        "user": "Kiera35998",
+        "reviewers": []
+    },
+    {
+        "user": "vicentkasumba23",
+        "reviewers": []
+    },
+    {
+        "user": "ajoshjohny876",
+        "reviewers": []
+    },
+    {
+        "user": "Ciara13122",
+        "reviewers": []
+    },
+    {
+        "user": "Livingroom83887",
+        "reviewers": []
+    },
+    {
+        "user": "ktecho",
+        "reviewers": [
+            "illesdavid"
+        ]
+    },
+    {
+        "user": "josibake",
+        "reviewers": [
+            "josibake",
+            "RubenSomsen",
+            "pinheadmz",
+            "brandonblack",
+            "vostrnad",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "Setland34",
+        "reviewers": []
+    },
+    {
+        "user": "uncomputable",
+        "reviewers": []
+    },
+    {
+        "user": "sethforprivacy",
+        "reviewers": [
+            "illesdavid"
+        ]
+    },
+    {
+        "user": "StijnVA",
+        "reviewers": [
+            "Asoygeboy01"
+        ]
+    },
+    {
+        "user": "yahiheb",
+        "reviewers": []
+    },
+    {
+        "user": "Metin6201",
+        "reviewers": []
+    },
+    {
+        "user": "stratospher",
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "jonasnick",
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "MarnixCroes",
+        "reviewers": [
+            "katesalazar",
+            "jonatack",
+            "murchandamus",
+            "Nate191941"
+        ]
+    },
+    {
+        "user": "satsie",
+        "reviewers": [
+            "MarnixCroes"
+        ]
+    },
+    {
+        "user": "vostrnad",
+        "reviewers": []
+    },
+    {
+        "user": "Adminyoungmarsnet",
+        "reviewers": []
+    },
+    {
+        "user": "apoelstra",
+        "reviewers": []
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": []
+    },
+    {
+        "user": "theStack",
+        "reviewers": []
+    },
+    {
+        "user": "slumericanBx",
+        "reviewers": []
+    },
+    {
+        "user": "louneskmt",
+        "reviewers": [
+            "fiudzy"
+        ]
+    },
+    {
+        "user": "raphjaph",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "Patish11",
+            "Bwajunior"
+        ]
+    },
+    {
+        "user": "bigspider",
+        "reviewers": []
+    },
+    {
+        "user": "bigspider",
+        "reviewers": []
+    },
+    {
+        "user": "grondilu",
+        "reviewers": []
+    },
+    {
+        "user": "dhruv",
+        "reviewers": [
+            "real-or-random",
+            "haleemshal"
+        ]
+    },
+    {
+        "user": "cmdruid",
+        "reviewers": []
+    },
+    {
+        "user": "michaelfolkson",
+        "reviewers": []
+    },
+    {
+        "user": "apoelstra",
+        "reviewers": [
+            "apoelstra",
+            "roconnor-blockstream",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "uncomputable",
+        "reviewers": [
+            "Fkhaibari",
+            "jonasnick",
+            "real-or-random",
+            "tcooksey1972"
+        ]
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": []
+    },
+    {
+        "user": "jamesob",
+        "reviewers": [
+            "jamesob",
+            "instagibbs",
+            "ariard",
+            "harding",
+            "joostjager",
+            "apoelstra",
+            "naumenkogs",
+            "michaelfolkson",
+            "vostrnad",
+            "kallewoof",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "xembook",
+        "reviewers": []
+    },
+    {
+        "user": "xembook",
+        "reviewers": []
+    },
+    {
+        "user": "jeepkd",
+        "reviewers": [
+            "Jrnoriega081"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "kristapsk"
+        ]
+    },
+    {
+        "user": "Shadouts",
+        "reviewers": [
+            "Ghost19804"
+        ]
+    },
+    {
+        "user": "coolaj86",
+        "reviewers": []
+    },
+    {
+        "user": "BitcoinErrorLog",
+        "reviewers": []
+    },
+    {
+        "user": "craigraw",
+        "reviewers": []
+    },
+    {
+        "user": "john-moffett",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "anquii",
+        "reviewers": [
+            "Sav233",
+            "douglas877"
+        ]
+    },
+    {
+        "user": "Nevermoree27",
+        "reviewers": []
+    },
+    {
+        "user": "casey",
+        "reviewers": [
+            "Psifour",
+            "katesalazar",
+            "apoelstra",
+            "Semisol",
+            "michaelfolkson",
+            "brandonblack",
+            "vostrnad",
+            "vicariousdrama"
+        ]
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": []
+    },
+    {
+        "user": "real-or-random",
+        "reviewers": [
+            "apoelstra",
+            "jonasnick",
+            "sarahlivi1985"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "DavidLacombe46",
+        "reviewers": []
+    },
+    {
+        "user": "DanGould",
+        "reviewers": [
+            "5twelve"
+        ]
+    },
+    {
+        "user": "vladimirfomene",
+        "reviewers": []
+    },
+    {
+        "user": "dplusplus1024",
+        "reviewers": [
+            "Cbp420",
+            "5twelve"
+        ]
+    },
+    {
+        "user": "dplusplus1024",
+        "reviewers": [
+            "kristapsk",
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "user": "Extheoisah",
+        "reviewers": [
+            "okjodom"
+        ]
+    },
+    {
+        "user": "scgbckbone",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "bigspider",
+        "reviewers": [
+            "darosior",
+            "bigspider",
+            "bucko13",
+            "joostjager",
+            "benma",
+            "jgriffiths"
+        ]
+    },
+    {
+        "user": "Sinior123",
+        "reviewers": []
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": []
+    },
+    {
+        "user": "ulrichard",
+        "reviewers": [
+            "manda2020panda",
+            "PAULIn09"
+        ]
+    },
+    {
+        "user": "craigraw",
+        "reviewers": [
+            "manda2020panda",
+            "k9ert",
+            "craigraw",
+            "moneymanolis",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "glozow",
+        "reviewers": [
+            "stickies-v",
+            "jnewbery",
+            "instagibbs",
+            "ariard",
+            "willcl-ark",
+            "ajtowns",
+            "fjahr",
+            "glozow"
+        ]
+    },
+    {
+        "user": "ariard",
+        "reviewers": [
+            "manda2020panda",
+            "instagibbs",
+            "roconnor-blockstream",
+            "ariard",
+            "joostjager",
+            "naumenkogs",
+            "ajtowns",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "DariusParvin",
+        "reviewers": [
+            "theStack",
+            "jonasnick",
+            "manda2020panda"
+        ]
+    },
+    {
+        "user": "DariusParvin",
+        "reviewers": [
+            "jonasnick",
+            "DariusParvin"
+        ]
+    },
+    {
+        "user": "dhruv",
+        "reviewers": [
+            "sipa",
+            "dr-orlovsky",
+            "manda2020panda",
+            "dhruv",
+            "dergoegge",
+            "ajtowns"
+        ]
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "manda2020panda"
+        ]
+    },
+    {
+        "user": "vasild",
+        "reviewers": []
+    },
+    {
+        "user": "ZeuZZueZ",
+        "reviewers": []
+    },
+    {
+        "user": "623637646",
+        "reviewers": [
+            "manda2020panda"
+        ]
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": [
+            "manda2020panda",
+            "jonasnick",
+            "real-or-random",
+            "brandonblack",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "naumenkogs",
+        "reviewers": []
+    },
+    {
+        "user": "DariusParvin",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "traffictse",
+        "reviewers": [
+            "manda2020panda"
+        ]
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "instagibbs"
+        ]
+    },
+    {
+        "user": "Vvvy6",
+        "reviewers": []
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": [
+            "real-or-random",
+            "haleemshal"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "dr-orlovsky",
+            "haleemshal",
+            "darosior",
+            "jgriffiths",
+            "sanket1729",
+            "achow101",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "ishaanam",
+        "reviewers": []
+    },
+    {
+        "user": "ZenulAbidin",
+        "reviewers": []
+    },
+    {
+        "user": "russeree",
+        "reviewers": [
+            "russeree",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": [
+            "manda2020panda"
+        ]
+    },
+    {
+        "user": "alfred-hodler",
+        "reviewers": [
+            "junderw",
+            "clarkmoody",
+            "alfred-hodler",
+            "Awilliams76",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "Randy808",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "Rspigler",
+            "ZenulAbidin",
+            "anditto",
+            "rxgrant",
+            "achow101",
+            "5twelve",
+            "apoelstra",
+            "kallewoof",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "evanlinjin",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jgriffiths",
+            "achow101"
+        ]
+    },
+    {
+        "user": "scgbckbone",
+        "reviewers": [
+            "Bigrig7272gg",
+            "haleemshal"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "chris-belcher",
+        "reviewers": [
+            "NikolaiNikolaevichBoyko",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "hujiulong",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "Mertz22",
+        "reviewers": []
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": [
+            "instagibbs",
+            "Mertz22",
+            "ajtowns"
+        ]
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": [
+            "jonasnick",
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "54627384",
+        "reviewers": []
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "ShenghaiWang",
+        "reviewers": []
+    },
+    {
+        "user": "david-bakin",
+        "reviewers": [
+            "scgbckbone",
+            "jackromo888",
+            "murchandamus",
+            "sipa",
+            "jonasnick",
+            "5twelve",
+            "david-bakin",
+            "ajtowns"
+        ]
+    },
+    {
+        "user": "david-bakin",
+        "reviewers": [
+            "sipa",
+            "jonasnick",
+            "5twelve",
+            "david-bakin",
+            "vostrnad"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jgriffiths",
+            "achow101"
+        ]
+    },
+    {
+        "user": "rezaeghbal01",
+        "reviewers": []
+    },
+    {
+        "user": "alexbosworth",
+        "reviewers": [
+            "barrybecker4"
+        ]
+    },
+    {
+        "user": "alexbosworth",
+        "reviewers": []
+    },
+    {
+        "user": "glozow",
+        "reviewers": [
+            "sdaftuar",
+            "michaelfolkson",
+            "glozow",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "wip-abramson",
+        "reviewers": [
+            "wip-abramson",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": []
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "bucko13"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "SunitRoy2703",
+        "reviewers": []
+    },
+    {
+        "user": "RandyMcMillan",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "uvhw",
+        "reviewers": []
+    },
+    {
+        "user": "uvhw",
+        "reviewers": []
+    },
+    {
+        "user": "secp256k1-qntm",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "jaonoctus",
+            "vicariousdrama"
+        ]
+    },
+    {
+        "user": "jamesdorfman",
+        "reviewers": []
+    },
+    {
+        "user": "guggero",
+        "reviewers": []
+    },
+    {
+        "user": "jomaxo",
+        "reviewers": []
+    },
+    {
+        "user": "ethicnology",
+        "reviewers": []
+    },
+    {
+        "user": "mjsamadi",
+        "reviewers": []
+    },
+    {
+        "user": "dplusplus1024",
+        "reviewers": []
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": []
+    },
+    {
+        "user": "learn2grid",
+        "reviewers": []
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "brandonblack",
+        "reviewers": []
+    },
+    {
+        "user": "tiero",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "allenpiscitello",
+        "reviewers": []
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "git-sgmoore",
+        "reviewers": [
+            "devnullada"
+        ]
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": [
+            "Roasbeef",
+            "ajtowns",
+            "pancamarga41"
+        ]
+    },
+    {
+        "user": "uvhw",
+        "reviewers": []
+    },
+    {
+        "user": "uvhw",
+        "reviewers": [
+            "Zamy159"
+        ]
+    },
+    {
+        "user": "Undertaciart",
+        "reviewers": []
+    },
+    {
+        "user": "uvhw",
+        "reviewers": [
+            "skalarfeilds79"
+        ]
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "kallewoof",
+            "benthecarman"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "JeremyRubin",
+            "kingcathy23",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "uvhw",
+        "reviewers": []
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": [
+            "devnullada"
+        ]
+    },
+    {
+        "user": "meshcollider",
+        "reviewers": [
+            "meshcollider",
+            "sipa",
+            "jonasnick",
+            "maflcko",
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "flack",
+            "JeremyRubin"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "chris-belcher",
+        "reviewers": [
+            "Jelboy15",
+            "w0xlt",
+            "yahiheb",
+            "div72",
+            "chris-belcher",
+            "maflcko",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "f3rnando"
+        ]
+    },
+    {
+        "user": "pox",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "glozow"
+        ]
+    },
+    {
+        "user": "ghost",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "callebtc",
+        "reviewers": [
+            "Mehdish1",
+            "Robin-Hoodie",
+            "pkvk"
+        ]
+    },
+    {
+        "user": "bulletwhisper77",
+        "reviewers": [
+            "Draken1943",
+            "f3rnando"
+        ]
+    },
+    {
+        "user": "Tithi521523",
+        "reviewers": []
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": []
+    },
+    {
+        "user": "Roskome",
+        "reviewers": []
+    },
+    {
+        "user": "Mironenko",
+        "reviewers": [
+            "AdamGreenberg"
+        ]
+    },
+    {
+        "user": "Kixunil",
+        "reviewers": [
+            "DanGould",
+            "Kixunil",
+            "5twelve",
+            "Zavalynech",
+            "NicolasDorier"
+        ]
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "benthecarman",
+        "reviewers": []
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "suriyaa",
+        "reviewers": [
+            "katesalazar",
+            "suriyaa"
+        ]
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": [
+            "Rose2161",
+            "dr-orlovsky",
+            "5twelve",
+            "apoelstra",
+            "achow101"
+        ]
+    },
+    {
+        "user": "prusnak",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "wu-emma",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": [
+            "jonasnick",
+            "redmidelapannn"
+        ]
+    },
+    {
+        "user": "benthecarman",
+        "reviewers": []
+    },
+    {
+        "user": "Olf0",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "GambolingPangolin",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "junderw",
+        "reviewers": []
+    },
+    {
+        "user": "yanmaani",
+        "reviewers": [
+            "MoseMills",
+            "Mar61"
+        ]
+    },
+    {
+        "user": "psztorc",
+        "reviewers": [
+            "psztorc",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "OrfeasLitos",
+        "reviewers": [
+            "JeremyRubin"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "dgpv",
+            "sipa",
+            "giacomocaironi",
+            "jonasnick",
+            "sanket1729"
+        ]
+    },
+    {
+        "user": "brandonblack",
+        "reviewers": [
+            "giacomocaironi",
+            "junderw",
+            "brandonblack",
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "Bhartman102890",
+        "reviewers": []
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": []
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": []
+    },
+    {
+        "user": "OttoAllmendinger",
+        "reviewers": []
+    },
+    {
+        "user": "junderw",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": [
+            "Chacaras74",
+            "JeremyRubin",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "MegoyTambayan",
+        "reviewers": [
+            "LeHoang88",
+            "0xB10C"
+        ]
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": []
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": []
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": []
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": [
+            "Tonylaxson"
+        ]
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": [
+            "Tonylaxson"
+        ]
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": []
+    },
+    {
+        "user": "pakarwebdesignku",
+        "reviewers": []
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": [
+            "jonatack",
+            "vicariousdrama"
+        ]
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": [
+            "jonatack",
+            "vicariousdrama"
+        ]
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": []
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": [
+            "vicariousdrama"
+        ]
+    },
+    {
+        "user": "giacomocaironi",
+        "reviewers": [
+            "junderw",
+            "sipa",
+            "jonasnick",
+            "giacomocaironi",
+            "MegoyTambayan"
+        ]
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": [
+            "free13922"
+        ]
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": []
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": []
+    },
+    {
+        "user": "coolaj86",
+        "reviewers": []
+    },
+    {
+        "user": "ghost",
+        "reviewers": []
+    },
+    {
+        "user": "katesalazar",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "tcharding",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "jaonoctus",
+        "reviewers": [
+            "MiguelMedeiros"
+        ]
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "gottook4blame",
+        "reviewers": []
+    },
+    {
+        "user": "paribu",
+        "reviewers": [
+            "mhkafadar",
+            "QUGL-98-06-15",
+            "Horlarhold",
+            "Kognitif"
+        ]
+    },
+    {
+        "user": "ghost",
+        "reviewers": [
+            "augustoproiete"
+        ]
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "tcharding",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "tcharding",
+        "reviewers": [
+            "Lcote71"
+        ]
+    },
+    {
+        "user": "rage-proof",
+        "reviewers": []
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "kdmukai",
+        "reviewers": []
+    },
+    {
+        "user": "dzidek197",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "achow101",
+            "michaelfolkson",
+            "KimJi55",
+            "sanket1729"
+        ]
+    },
+    {
+        "user": "RCasatta",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "sanket1729",
+        "reviewers": []
+    },
+    {
+        "user": "RandyMcMillan",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "NicolasDorier",
+            "achow101"
+        ]
+    },
+    {
+        "user": "guypergal",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "junderw",
+            "LeHoang88",
+            "achow101"
+        ]
+    },
+    {
+        "user": "tcharding",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "apoelstra",
+            "Tomek00177"
+        ]
+    },
+    {
+        "user": "vasild",
+        "reviewers": [
+            "vasild",
+            "jonatack",
+            "harding"
+        ]
+    },
+    {
+        "user": "Raulo",
+        "reviewers": [
+            "benthecarman",
+            "dr-orlovsky"
+        ]
+    },
+    {
+        "user": "AndreasGassmann",
+        "reviewers": []
+    },
+    {
+        "user": "tcharding",
+        "reviewers": []
+    },
+    {
+        "user": "peterkisfaludi",
+        "reviewers": []
+    },
+    {
+        "user": "ch1ru",
+        "reviewers": []
+    },
+    {
+        "user": "chirag64",
+        "reviewers": []
+    },
+    {
+        "user": "pkvk",
+        "reviewers": [
+            "jaysonmald35",
+            "pkvk",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "dgpv",
+        "reviewers": []
+    },
+    {
+        "user": "evanlinjin",
+        "reviewers": []
+    },
+    {
+        "user": "dgpv",
+        "reviewers": [
+            "Rspigler",
+            "dgpv"
+        ]
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "danpape",
+        "reviewers": [
+            "kimdhamilton"
+        ]
+    },
+    {
+        "user": "t-bast",
+        "reviewers": []
+    },
+    {
+        "user": "michaelfolkson",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "jbampton",
+        "reviewers": [
+            "murchandamus",
+            "525411",
+            "dr-orlovsky"
+        ]
+    },
+    {
+        "user": "jnewbery",
+        "reviewers": [
+            "dr-orlovsky",
+            "jnewbery",
+            "maflcko",
+            "nopara73",
+            "ajtowns",
+            "kallewoof",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "Sjors",
+        "reviewers": [
+            "achow101",
+            "Sjors"
+        ]
+    },
+    {
+        "user": "AndreasGassmann",
+        "reviewers": []
+    },
+    {
+        "user": "JaimeCaring",
+        "reviewers": [
+            "maflcko"
+        ]
+    },
+    {
+        "user": "cgilliard",
+        "reviewers": []
+    },
+    {
+        "user": "cgilliard",
+        "reviewers": []
+    },
+    {
+        "user": "cgilliard",
+        "reviewers": []
+    },
+    {
+        "user": "Crypt-iQ",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "cgilliard",
+        "reviewers": []
+    },
+    {
+        "user": "cgilliard",
+        "reviewers": [
+            "harding"
+        ]
+    },
+    {
+        "user": "cgilliard",
+        "reviewers": []
+    },
+    {
+        "user": "cgilliard",
+        "reviewers": [
+            "cgilliard",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "jonatack",
+            "benthecarman",
+            "jonasnick",
+            "JeremyRubin",
+            "ariard",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": []
+    },
+    {
+        "user": "fresheneesz",
+        "reviewers": []
+    },
+    {
+        "user": "Sjors",
+        "reviewers": [
+            "maflcko",
+            "jonatack",
+            "ajtowns",
+            "Sjors"
+        ]
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "hugohn",
+        "reviewers": [
+            "Rspigler",
+            "mflaxman",
+            "hugohn",
+            "bigspider",
+            "benma",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": [
+            "jonasnick",
+            "0racl3z",
+            "sipa"
+        ]
+    },
+    {
+        "user": "eMaringolo",
+        "reviewers": [
+            "prusnak"
+        ]
+    },
+    {
+        "user": "kiminuo",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "Rspigler",
+        "reviewers": [
+            "Rspigler",
+            "philipglazman",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "shesek",
+        "reviewers": []
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": []
+    },
+    {
+        "user": "8go",
+        "reviewers": []
+    },
+    {
+        "user": "ethankosakovsky",
+        "reviewers": []
+    },
+    {
+        "user": "Mentors4EDU",
+        "reviewers": [
+            "Mentors4EDU"
+        ]
+    },
+    {
+        "user": "8go",
+        "reviewers": []
+    },
+    {
+        "user": "molnard",
+        "reviewers": [
+            "LeHoang88"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "Sjors",
+            "flack",
+            "michaelfolkson",
+            "ajtowns",
+            "achow101"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "jonasnick",
+            "roconnor-blockstream",
+            "michaelfolkson",
+            "ajtowns",
+            "achow101",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "Matthiti",
+        "reviewers": [
+            "kanzure"
+        ]
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": [
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "user": "remyers",
+        "reviewers": []
+    },
+    {
+        "user": "sanket1729",
+        "reviewers": []
+    },
+    {
+        "user": "darosior",
+        "reviewers": [
+            "darosior",
+            "michaelfolkson"
+        ]
+    },
+    {
+        "user": "Fonta1n3",
+        "reviewers": [
+            "SomberNight",
+            "Hbutlercapone",
+            "ramsemune",
+            "Fonta1n3",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "SebastianFloKa",
+        "reviewers": [
+            "thomasklemm",
+            "nisc",
+            "SebastianFloKa",
+            "DivineDominion"
+        ]
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "jonasnick",
+            "darosior"
+        ]
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "darosior"
+        ]
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "SomberNight",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "benthecarman",
+            "jonasnick",
+            "ajtowns",
+            "dr-orlovsky"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "fburrull",
+        "reviewers": [
+            "Stevenans66"
+        ]
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "achow101",
+            "dgpv",
+            "sanket1729"
+        ]
+    },
+    {
+        "user": "omarshibli",
+        "reviewers": []
+    },
+    {
+        "user": "DigitalDerrickcs",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "andrewtoth"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "t-bast"
+        ]
+    },
+    {
+        "user": "darosior",
+        "reviewers": [
+            "darosior",
+            "sipa"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": [
+            "maflcko",
+            "sdaftuar",
+            "jnewbery",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "pinheadmz",
+        "reviewers": []
+    },
+    {
+        "user": "T3enale",
+        "reviewers": [
+            "T3enale"
+        ]
+    },
+    {
+        "user": "apoelstra",
+        "reviewers": [
+            "kallewoof",
+            "harding",
+            "apoelstra",
+            "kallerosenbaum",
+            "sanket1729"
+        ]
+    },
+    {
+        "user": "prusnak",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "benthecarman"
+        ]
+    },
+    {
+        "user": "koushiro",
+        "reviewers": [
+            "0racl3z"
+        ]
+    },
+    {
+        "user": "kiminuo",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "vasild",
+        "reviewers": [
+            "jonatack",
+            "jnewbery",
+            "hebasto",
+            "maflcko",
+            "vasild",
+            "harding"
+        ]
+    },
+    {
+        "user": "OrfeasLitos",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "Annasadra",
+        "reviewers": []
+    },
+    {
+        "user": "ethankosakovsky",
+        "reviewers": [
+            "Nasruddinkedah"
+        ]
+    },
+    {
+        "user": "Greg-Griffith",
+        "reviewers": []
+    },
+    {
+        "user": "fametrano",
+        "reviewers": []
+    },
+    {
+        "user": "KarolTrzeszczkowski",
+        "reviewers": []
+    },
+    {
+        "user": "fametrano",
+        "reviewers": []
+    },
+    {
+        "user": "multisignature",
+        "reviewers": []
+    },
+    {
+        "user": "multisignature",
+        "reviewers": []
+    },
+    {
+        "user": "Lilkevo",
+        "reviewers": [
+            "Elshaffah"
+        ]
+    },
+    {
+        "user": "silencer-Tsai",
+        "reviewers": [
+            "kristapsk"
+        ]
+    },
+    {
+        "user": "meherett",
+        "reviewers": [
+            "thereeroyz"
+        ]
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "rage-proof",
+        "reviewers": []
+    },
+    {
+        "user": "rikitau",
+        "reviewers": []
+    },
+    {
+        "user": "dgpv",
+        "reviewers": [
+            "Rspigler",
+            "dgpv"
+        ]
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": [
+            "ysangkok",
+            "narich"
+        ]
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "jonasnick",
+            "ajtowns"
+        ]
+    },
+    {
+        "user": "AdamISZ",
+        "reviewers": [
+            "kristapsk",
+            "benthecarman"
+        ]
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "jonasnick",
+            "rustyrussell",
+            "ProofOfKeags",
+            "dr-orlovsky"
+        ]
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "jonasnick",
+            "ProofOfKeags",
+            "darosior"
+        ]
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": []
+    },
+    {
+        "user": "hoganri",
+        "reviewers": []
+    },
+    {
+        "user": "hoganri",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "christianrolandso"
+        ]
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "michaelfolkson",
+            "ajtowns",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "haleemshal",
+            "Dizopizo",
+            "5twelve",
+            "michaelfolkson",
+            "vostrnad",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "maflcko",
+            "ajtowns",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "ghost",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "maflcko",
+            "dgpv",
+            "murchandamus",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "hebasto",
+        "reviewers": [
+            "jonatack",
+            "hebasto"
+        ]
+    },
+    {
+        "user": "Anderson-Juhasc",
+        "reviewers": []
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "jonatack",
+            "dr-orlovsky"
+        ]
+    },
+    {
+        "user": "Dkdaniz",
+        "reviewers": []
+    },
+    {
+        "user": "sabotag3x",
+        "reviewers": [
+            "scottwad"
+        ]
+    },
+    {
+        "user": "dergigi",
+        "reviewers": []
+    },
+    {
+        "user": "benthecarman",
+        "reviewers": []
+    },
+    {
+        "user": "hissingbitcat",
+        "reviewers": []
+    },
+    {
+        "user": "ghost",
+        "reviewers": []
+    },
+    {
+        "user": "stefantds",
+        "reviewers": []
+    },
+    {
+        "user": "Lucienest",
+        "reviewers": []
+    },
+    {
+        "user": "n1rna",
+        "reviewers": [
+            "benthecarman"
+        ]
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": []
+    },
+    {
+        "user": "dr-orlovsky",
+        "reviewers": [
+            "achow101"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "maflcko",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "joshklop",
+        "reviewers": []
+    },
+    {
+        "user": "Enegnei",
+        "reviewers": [
+            "schildbach",
+            "Enegnei"
+        ]
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "maflcko",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "apoelstra",
+        "reviewers": []
+    },
+    {
+        "user": "peterizzoo",
+        "reviewers": []
+    },
+    {
+        "user": "dgenr8",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": [
+            "benthecarman"
+        ]
+    },
+    {
+        "user": "Murahrasoki",
+        "reviewers": []
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": [
+            "maflcko",
+            "instagibbs",
+            "ajtowns",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "yahiheb",
+        "reviewers": [
+            "jonathancross"
+        ]
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": []
+    },
+    {
+        "user": "pacu",
+        "reviewers": []
+    },
+    {
+        "user": "vasild",
+        "reviewers": [
+            "vasild",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": []
+    },
+    {
+        "user": "yahiheb",
+        "reviewers": []
+    },
+    {
+        "user": "sanket1729",
+        "reviewers": [
+            "benthecarman"
+        ]
+    },
+    {
+        "user": "darosior",
+        "reviewers": []
+    },
+    {
+        "user": "jnewbery",
+        "reviewers": [
+            "jonatack",
+            "sipa",
+            "sdaftuar",
+            "jnewbery",
+            "maflcko",
+            "ariard"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "apoelstra",
+        "reviewers": [
+            "benthecarman",
+            "apoelstra",
+            "achow101"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "rustyrussell",
+        "reviewers": [
+            "niftynei"
+        ]
+    },
+    {
+        "user": "ZmnSCPxj",
+        "reviewers": []
+    },
+    {
+        "user": "rustyrussell",
+        "reviewers": [
+            "rustyrussell",
+            "achow101"
+        ]
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "jonasnick",
+            "ajtowns",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "jrawsthorne",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "jonatack",
+            "sipa",
+            "narula",
+            "maaku",
+            "instagibbs",
+            "maflcko",
+            "pinheadmz",
+            "ajtowns",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "kiminuo",
+        "reviewers": [
+            "yahiheb"
+        ]
+    },
+    {
+        "user": "roconnor-blockstream",
+        "reviewers": [
+            "harding"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "ajtowns",
+        "reviewers": [
+            "remyers",
+            "benthecarman",
+            "JeremyRubin",
+            "bucko13",
+            "harding",
+            "ajtowns"
+        ]
+    },
+    {
+        "user": "cr",
+        "reviewers": []
+    },
+    {
+        "user": "p2w34",
+        "reviewers": [
+            "p2w34",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "scgbckbone",
+        "reviewers": []
+    },
+    {
+        "user": "scgbckbone",
+        "reviewers": []
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": []
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "bitschmidty",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": [
+            "Sav233"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "Coding-Enthusiast",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": [
+            "AdamISZ",
+            "Kukks",
+            "RHavar",
+            "instagibbs",
+            "NicolasDorier"
+        ]
+    },
+    {
+        "user": "SGeetansh",
+        "reviewers": []
+    },
+    {
+        "user": "fametrano",
+        "reviewers": []
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": []
+    },
+    {
+        "user": "trendsetter1488",
+        "reviewers": []
+    },
+    {
+        "user": "theStack",
+        "reviewers": []
+    },
+    {
+        "user": "milczarekIT",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "fametrano",
+        "reviewers": []
+    },
+    {
+        "user": "ethankosakovsky",
+        "reviewers": [
+            "ethankosakovsky",
+            "junderw",
+            "doc-hex",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "kris124",
+        "reviewers": [
+            "kris124"
+        ]
+    },
+    {
+        "user": "aqoleg",
+        "reviewers": []
+    },
+    {
+        "user": "vasild",
+        "reviewers": [
+            "jonatack",
+            "dongcarl",
+            "vasild",
+            "troygiorshev",
+            "laanwj"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "klim0v",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "Kevingislason",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "naumenkogs",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "nopara73",
+        "reviewers": [
+            "schildbach",
+            "nopara73"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "jonasnick",
+            "real-or-random",
+            "LLFourn"
+        ]
+    },
+    {
+        "user": "ProofOfKeags",
+        "reviewers": []
+    },
+    {
+        "user": "aerosol",
+        "reviewers": []
+    },
+    {
+        "user": "visvirial",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "richardkiss",
+        "reviewers": []
+    },
+    {
+        "user": "jonasnick",
+        "reviewers": [
+            "real-or-random"
+        ]
+    },
+    {
+        "user": "Coding-Enthusiast",
+        "reviewers": []
+    },
+    {
+        "user": "RandyMcMillan",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "aerosol",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": [
+            "jonasnick"
+        ]
+    },
+    {
+        "user": "cclauss",
+        "reviewers": []
+    },
+    {
+        "user": "cclauss",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "Gabo139"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "junderw",
+            "sipa",
+            "benthecarman",
+            "TheCharlatan",
+            "elichai",
+            "maflcko",
+            "jimmysong"
+        ]
+    },
+    {
+        "user": "JeremyRubin",
+        "reviewers": []
+    },
+    {
+        "user": "Binh0103",
+        "reviewers": []
+    },
+    {
+        "user": "23Yc8z",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "dgpv",
+        "reviewers": []
+    },
+    {
+        "user": "benthecarman",
+        "reviewers": []
+    },
+    {
+        "user": "dgpv",
+        "reviewers": []
+    },
+    {
+        "user": "dgpv",
+        "reviewers": []
+    },
+    {
+        "user": "dgpv",
+        "reviewers": []
+    },
+    {
+        "user": "benthecarman",
+        "reviewers": []
+    },
+    {
+        "user": "osmar-c",
+        "reviewers": []
+    },
+    {
+        "user": "mjsamadi",
+        "reviewers": []
+    },
+    {
+        "user": "joerlop",
+        "reviewers": []
+    },
+    {
+        "user": "Empact",
+        "reviewers": []
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": []
+    },
+    {
+        "user": "narimanam",
+        "reviewers": []
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": []
+    },
+    {
+        "user": "cvengler",
+        "reviewers": [
+            "murchandamus",
+            "cvengler",
+            "maflcko",
+            "ryanofsky",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "naumenkogs",
+        "reviewers": [
+            "maflcko",
+            "naumenkogs",
+            "ysangkok",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "brain-zhang",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "rorp",
+        "reviewers": []
+    },
+    {
+        "user": "naumenkogs",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": []
+    },
+    {
+        "user": "vincenzopalazzo",
+        "reviewers": []
+    },
+    {
+        "user": "darosior",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "graingert",
+        "reviewers": [
+            "augustoproiete"
+        ]
+    },
+    {
+        "user": "pengpengliu",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "clarkmoody",
+        "reviewers": []
+    },
+    {
+        "user": "gakonst",
+        "reviewers": [
+            "maflcko",
+            "gakonst"
+        ]
+    },
+    {
+        "user": "4tochka",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "QuestofIranon",
+        "reviewers": []
+    },
+    {
+        "user": "SilentStep1204",
+        "reviewers": [
+            "sonnyray4200"
+        ]
+    },
+    {
+        "user": "SilentStep1204",
+        "reviewers": []
+    },
+    {
+        "user": "0xmountaintop",
+        "reviewers": []
+    },
+    {
+        "user": "yassun",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "kanzure",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "TheRook",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "0xB10C",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": [
+            "lazyfunn"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": [
+            "NicolasDorier",
+            "achow101"
+        ]
+    },
+    {
+        "user": "DanielWeigl",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "TheRook",
+        "reviewers": [
+            "maflcko"
+        ]
+    },
+    {
+        "user": "TheRook",
+        "reviewers": []
+    },
+    {
+        "user": "hebasto",
+        "reviewers": []
+    },
+    {
+        "user": "hebasto",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "kallewoof",
+            "jtimon",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "13964416433",
+        "reviewers": []
+    },
+    {
+        "user": "junderw",
+        "reviewers": []
+    },
+    {
+        "user": "junderw",
+        "reviewers": []
+    },
+    {
+        "user": "stevenroose",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "wigy-opensource-developer",
+        "reviewers": [
+            "wigy-opensource-developer",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "lukechilds",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": [
+            "CLEANSKY97"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": [
+            "afiiijooon",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "3sGgpQ8H",
+        "reviewers": [
+            "ok3141",
+            "tete-github"
+        ]
+    },
+    {
+        "user": "nkohen",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "fjahr",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "lukechilds",
+        "reviewers": [
+            "dades1350",
+            "jonatack"
+        ]
+    },
+    {
+        "user": "ddustin",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "sipa",
+            "5twelve",
+            "ddustin",
+            "apoelstra",
+            "ProofOfKeags"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "dominik666w",
+            "stepansnigirev",
+            "NicolasDorier",
+            "achow101"
+        ]
+    },
+    {
+        "user": "matthewleon",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "torkelrogstad",
+        "reviewers": []
+    },
+    {
+        "user": "dergigi",
+        "reviewers": []
+    },
+    {
+        "user": "ddustin",
+        "reviewers": []
+    },
+    {
+        "user": "ddustin",
+        "reviewers": []
+    },
+    {
+        "user": "dergigi",
+        "reviewers": [
+            "benthecarman"
+        ]
+    },
+    {
+        "user": "shanejonas",
+        "reviewers": []
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "simondev1",
+        "reviewers": [
+            "murchandamus",
+            "simondev1",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "matthewjablack",
+        "reviewers": [
+            "matthewjablack",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "bitschmidty",
+        "reviewers": []
+    },
+    {
+        "user": "torkelrogstad",
+        "reviewers": [
+            "MIKE1203"
+        ]
+    },
+    {
+        "user": "AlexITC",
+        "reviewers": [
+            "Namhvan"
+        ]
+    },
+    {
+        "user": "ghost",
+        "reviewers": [
+            "fogoat"
+        ]
+    },
+    {
+        "user": "bitcoinbrisbane",
+        "reviewers": []
+    },
+    {
+        "user": "laanwj",
+        "reviewers": [
+            "maflcko",
+            "dongcarl",
+            "laanwj"
+        ]
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": []
+    },
+    {
+        "user": "cgilliard",
+        "reviewers": [
+            "cgilliard",
+            "clarkmoody",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "lanhaoxiang",
+        "reviewers": []
+    },
+    {
+        "user": "clarkmoody",
+        "reviewers": []
+    },
+    {
+        "user": "clarkmoody",
+        "reviewers": []
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": [
+            "jimpo"
+        ]
+    },
+    {
+        "user": "ddustin",
+        "reviewers": []
+    },
+    {
+        "user": "DavidBurkett",
+        "reviewers": []
+    },
+    {
+        "user": "moneyball",
+        "reviewers": []
+    },
+    {
+        "user": "stevenroose",
+        "reviewers": [
+            "stevenroose",
+            "lismarys",
+            "rex4539",
+            "MrLouzao"
+        ]
+    },
+    {
+        "user": "filips123",
+        "reviewers": []
+    },
+    {
+        "user": "RHavar",
+        "reviewers": []
+    },
+    {
+        "user": "p2w34",
+        "reviewers": [
+            "tk27"
+        ]
+    },
+    {
+        "user": "p2w34",
+        "reviewers": []
+    },
+    {
+        "user": "AdamISZ",
+        "reviewers": []
+    },
+    {
+        "user": "petterhs",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "esengulov",
+        "reviewers": [
+            "jonathancross",
+            "TreyChimi5252"
+        ]
+    },
+    {
+        "user": "Chm",
+        "reviewers": []
+    },
+    {
+        "user": "jimmysong",
+        "reviewers": []
+    },
+    {
+        "user": "riordant",
+        "reviewers": [
+            "jonatack"
+        ]
+    },
+    {
+        "user": "harding",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "riordant",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "ghost",
+        "reviewers": []
+    },
+    {
+        "user": "ghost",
+        "reviewers": []
+    },
+    {
+        "user": "raucao",
+        "reviewers": []
+    },
+    {
+        "user": "eupn",
+        "reviewers": []
+    },
+    {
+        "user": "matthewjablack",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "officefish",
+        "reviewers": []
+    },
+    {
+        "user": "RHavar",
+        "reviewers": []
+    },
+    {
+        "user": "Coding-Enthusiast",
+        "reviewers": []
+    },
+    {
+        "user": "maguayo",
+        "reviewers": []
+    },
+    {
+        "user": "tuxcanfly",
+        "reviewers": [
+            "Roasbeef",
+            "tuxcanfly",
+            "jimpo"
+        ]
+    },
+    {
+        "user": "RHavar",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": []
+    },
+    {
+        "user": "impul",
+        "reviewers": [
+            "hossain5630",
+            "atom110436"
+        ]
+    },
+    {
+        "user": "RHavar",
+        "reviewers": [
+            "Gutoey",
+            "RHavar",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "kaidiren",
+        "reviewers": []
+    },
+    {
+        "user": "mmgen",
+        "reviewers": [
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "vikmeup",
+        "reviewers": [
+            "behzad1191"
+        ]
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "odarboe",
+            "jimpo",
+            "instagibbs",
+            "jl2012",
+            "kallerosenbaum",
+            "kallewoof",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "jeffrade",
+        "reviewers": []
+    },
+    {
+        "user": "rahimnejhad",
+        "reviewers": []
+    },
+    {
+        "user": "ghost",
+        "reviewers": []
+    },
+    {
+        "user": "DavidMStraub",
+        "reviewers": [
+            "rodasmith",
+            "SebastianFloKa"
+        ]
+    },
+    {
+        "user": "brenorb",
+        "reviewers": [
+            "promag",
+            "andr3nun3s",
+            "brenorb",
+            "mrbianchi"
+        ]
+    },
+    {
+        "user": "afk11",
+        "reviewers": [
+            "afk11",
+            "achow101"
+        ]
+    },
+    {
+        "user": "jimpo",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "straumat",
+        "reviewers": [
+            "straumat",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "straumat",
+        "reviewers": []
+    },
+    {
+        "user": "RCasatta",
+        "reviewers": [
+            "arsenyii",
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "mytwocentimes",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "gfanti",
+        "reviewers": []
+    },
+    {
+        "user": "janbraiins",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "elucidsoft",
+        "reviewers": []
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "Varunram",
+        "reviewers": []
+    },
+    {
+        "user": "technologiespro",
+        "reviewers": []
+    },
+    {
+        "user": "esneider",
+        "reviewers": []
+    },
+    {
+        "user": "gfanti",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "achow101",
+            "sipa"
+        ]
+    },
+    {
+        "user": "jamesob",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "jimpo",
+        "reviewers": []
+    },
+    {
+        "user": "eurdoch",
+        "reviewers": [
+            "Roasbeef"
+        ]
+    },
+    {
+        "user": "cornfeedhobo",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "Ahmadrazi9"
+        ]
+    },
+    {
+        "user": "yuntai",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "achow101",
+            "sipa"
+        ]
+    },
+    {
+        "user": "4tochka",
+        "reviewers": []
+    },
+    {
+        "user": "jamesob",
+        "reviewers": []
+    },
+    {
+        "user": "eurdoch",
+        "reviewers": []
+    },
+    {
+        "user": "dlwhitehurst",
+        "reviewers": [
+            "arsenyii"
+        ]
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "AtsukiTak",
+        "reviewers": []
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": [
+            "lontivero",
+            "Roasbeef",
+            "sipa",
+            "jimpo"
+        ]
+    },
+    {
+        "user": "dongri",
+        "reviewers": []
+    },
+    {
+        "user": "dongri",
+        "reviewers": []
+    },
+    {
+        "user": "erikarvstedt",
+        "reviewers": [
+            "tambnice",
+            "erikarvstedt",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "cdecker",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "fedsten",
+        "reviewers": []
+    },
+    {
+        "user": "shivaenigma",
+        "reviewers": []
+    },
+    {
+        "user": "nopara73",
+        "reviewers": [
+            "jonatack",
+            "ProofOfKeags"
+        ]
+    },
+    {
+        "user": "nopara73",
+        "reviewers": []
+    },
+    {
+        "user": "jimpo",
+        "reviewers": [
+            "aakselrod"
+        ]
+    },
+    {
+        "user": "bitcoinbrisbane",
+        "reviewers": [
+            "jonatack",
+            "murchandamus",
+            "benthecarman"
+        ]
+    },
+    {
+        "user": "Varunram",
+        "reviewers": [
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "prahaladbelavadi",
+        "reviewers": [
+            "davidlj95",
+            "ccebrecos"
+        ]
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "dcousens",
+            "sipa",
+            "afk11",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "skywinder",
+        "reviewers": [
+            "skywinder",
+            "prusnak",
+            "Vilaiuk"
+        ]
+    },
+    {
+        "user": "Sword-Smith",
+        "reviewers": []
+    },
+    {
+        "user": "harding",
+        "reviewers": [
+            "maflcko",
+            "harding"
+        ]
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "aakselrod",
+        "reviewers": [
+            "MattLongCT"
+        ]
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": []
+    },
+    {
+        "user": "Varunram",
+        "reviewers": []
+    },
+    {
+        "user": "stevenroose",
+        "reviewers": []
+    },
+    {
+        "user": "yobum",
+        "reviewers": []
+    },
+    {
+        "user": "Varunram",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": [
+            "jonathancross",
+            "MattLongCT",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "zaq1tomo",
+        "reviewers": []
+    },
+    {
+        "user": "zaq1tomo",
+        "reviewers": []
+    },
+    {
+        "user": "zaq1tomo",
+        "reviewers": []
+    },
+    {
+        "user": "zaq1tomo",
+        "reviewers": []
+    },
+    {
+        "user": "eMaringolo",
+        "reviewers": [
+            "jonathancross"
+        ]
+    },
+    {
+        "user": "Alegege",
+        "reviewers": [
+            "randolf"
+        ]
+    },
+    {
+        "user": "kuthullu",
+        "reviewers": [
+            "brenorb"
+        ]
+    },
+    {
+        "user": "Sword-Smith",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "eklitzke",
+        "reviewers": []
+    },
+    {
+        "user": "dangershony",
+        "reviewers": [
+            "randolf"
+        ]
+    },
+    {
+        "user": "4tochka",
+        "reviewers": []
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": []
+    },
+    {
+        "user": "helder-garcia",
+        "reviewers": [
+            "murchandamus",
+            "randolf"
+        ]
+    },
+    {
+        "user": "psztorc",
+        "reviewers": [
+            "psztorc",
+            "rex4539",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "psztorc",
+        "reviewers": [
+            "pennersr",
+            "psztorc",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "xeoncross",
+        "reviewers": []
+    },
+    {
+        "user": "randolf",
+        "reviewers": [
+            "jimmysong"
+        ]
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": []
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": []
+    },
+    {
+        "user": "mmgen",
+        "reviewers": []
+    },
+    {
+        "user": "jimpo",
+        "reviewers": []
+    },
+    {
+        "user": "russellpwirtz",
+        "reviewers": [
+            "randolf",
+            "maraoz"
+        ]
+    },
+    {
+        "user": "Bomper",
+        "reviewers": []
+    },
+    {
+        "user": "maaku",
+        "reviewers": []
+    },
+    {
+        "user": "maaku",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "maflcko"
+        ]
+    },
+    {
+        "user": "yuzushioh",
+        "reviewers": []
+    },
+    {
+        "user": "prusnak",
+        "reviewers": []
+    },
+    {
+        "user": "nym-zone",
+        "reviewers": []
+    },
+    {
+        "user": "perlancar",
+        "reviewers": [
+            "perlancar",
+            "heri16"
+        ]
+    },
+    {
+        "user": "prusnak",
+        "reviewers": [
+            "clarkmoody"
+        ]
+    },
+    {
+        "user": "cclauss",
+        "reviewers": []
+    },
+    {
+        "user": "jimmysong",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "gspasov",
+        "reviewers": []
+    },
+    {
+        "user": "BTCTaras",
+        "reviewers": [
+            "Lamtikhongem1989"
+        ]
+    },
+    {
+        "user": "moodmosaic",
+        "reviewers": []
+    },
+    {
+        "user": "jwilkins",
+        "reviewers": []
+    },
+    {
+        "user": "zylstra",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": [
+            "TheBlueMatt",
+            "jamesob",
+            "jimpo",
+            "Roasbeef",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "philsmd",
+        "reviewers": [
+            "dcousens",
+            "jonathancross",
+            "jonatack",
+            "murchandamus"
+        ]
+    },
+    {
+        "user": "SomberNight",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "omarshibli",
+        "reviewers": []
+    },
+    {
+        "user": "maaku",
+        "reviewers": []
+    },
+    {
+        "user": "rude9",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": []
+    },
+    {
+        "user": "flack",
+        "reviewers": []
+    },
+    {
+        "user": "omarshibli",
+        "reviewers": []
+    },
+    {
+        "user": "omarshibli",
+        "reviewers": []
+    },
+    {
+        "user": "lsaether",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "jonathancross",
+            "chefix7",
+            "5twelve",
+            "randolf"
+        ]
+    },
+    {
+        "user": "lsaether",
+        "reviewers": []
+    },
+    {
+        "user": "izelnakri",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": [
+            "jonasschnelli",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "danra",
+        "reviewers": []
+    },
+    {
+        "user": "danra",
+        "reviewers": []
+    },
+    {
+        "user": "danra",
+        "reviewers": []
+    },
+    {
+        "user": "starcharles",
+        "reviewers": []
+    },
+    {
+        "user": "mruddy",
+        "reviewers": [
+            "mruddy",
+            "sipa"
+        ]
+    },
+    {
+        "user": "omarshibli",
+        "reviewers": [
+            "Jatupol99",
+            "omarshibli",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": [
+            "randolf"
+        ]
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": [
+            "dcousens",
+            "sipa",
+            "achow101",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "alokmenghrajani",
+        "reviewers": []
+    },
+    {
+        "user": "CikeQiu",
+        "reviewers": []
+    },
+    {
+        "user": "meshcollider",
+        "reviewers": []
+    },
+    {
+        "user": "meshcollider",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "evoskuil",
+        "reviewers": []
+    },
+    {
+        "user": "greenaddress",
+        "reviewers": []
+    },
+    {
+        "user": "greenaddress",
+        "reviewers": []
+    },
+    {
+        "user": "greenaddress",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "junderw",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "gmaxwell"
+        ]
+    },
+    {
+        "user": "dittaeva",
+        "reviewers": []
+    },
+    {
+        "user": "evoskuil",
+        "reviewers": []
+    },
+    {
+        "user": "evoskuil",
+        "reviewers": []
+    },
+    {
+        "user": "CikeQiu",
+        "reviewers": []
+    },
+    {
+        "user": "kn0rhaan",
+        "reviewers": []
+    },
+    {
+        "user": "jameshilliard",
+        "reviewers": []
+    },
+    {
+        "user": "mmgen",
+        "reviewers": []
+    },
+    {
+        "user": "zander",
+        "reviewers": []
+    },
+    {
+        "user": "rolandgnm",
+        "reviewers": [
+            "randolf"
+        ]
+    },
+    {
+        "user": "veleslavs",
+        "reviewers": [
+            "clarkmoody",
+            "rex4539",
+            "jtimon",
+            "veleslavs",
+            "jonathancross",
+            "jonasschnelli",
+            "DanielWeigl",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "clarkmoody",
+        "reviewers": [
+            "jonathancross",
+            "clarkmoody"
+        ]
+    },
+    {
+        "user": "jkauffman1",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "shaolinfry",
+            "rustyrussell",
+            "kek-coin"
+        ]
+    },
+    {
+        "user": "jameshilliard",
+        "reviewers": []
+    },
+    {
+        "user": "jameshilliard",
+        "reviewers": []
+    },
+    {
+        "user": "jameshilliard",
+        "reviewers": [
+            "Christewart",
+            "jameshilliard"
+        ]
+    },
+    {
+        "user": "jameshilliard",
+        "reviewers": [
+            "Vaesper"
+        ]
+    },
+    {
+        "user": "jmprcx",
+        "reviewers": [
+            "mecampbellsoup"
+        ]
+    },
+    {
+        "user": "juwhankim",
+        "reviewers": []
+    },
+    {
+        "user": "Dorson",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "jameshilliard",
+        "reviewers": []
+    },
+    {
+        "user": "jameshilliard",
+        "reviewers": []
+    },
+    {
+        "user": "sanch0panza",
+        "reviewers": []
+    },
+    {
+        "user": "kallewoof",
+        "reviewers": []
+    },
+    {
+        "user": "vbmithr",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "sanch0panza",
+        "reviewers": []
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "Giszmo",
+        "reviewers": []
+    },
+    {
+        "user": "azuchi",
+        "reviewers": [
+            "Aa12345678900"
+        ]
+    },
+    {
+        "user": "comboy",
+        "reviewers": []
+    },
+    {
+        "user": "comboy",
+        "reviewers": [
+            "sipa"
+        ]
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": [
+            "shaolinfry",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "webmaster128"
+        ]
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "chfast",
+        "reviewers": []
+    },
+    {
+        "user": "wbnns",
+        "reviewers": [
+            "wbnns",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "blag",
+        "reviewers": []
+    },
+    {
+        "user": "negatratoron",
+        "reviewers": [
+            "MickSHunt"
+        ]
+    },
+    {
+        "user": "da2ce7",
+        "reviewers": [
+            "htoohtetaung",
+            "jonathancross"
+        ]
+    },
+    {
+        "user": "da2ce7",
+        "reviewers": [
+            "dooglus"
+        ]
+    },
+    {
+        "user": "da2ce7",
+        "reviewers": []
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "da2ce7",
+        "reviewers": [
+            "shaolinfry",
+            "mkwia",
+            "da2ce7",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "ghost",
+        "reviewers": []
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "da2ce7",
+        "reviewers": []
+    },
+    {
+        "user": "ebfull",
+        "reviewers": [
+            "daira"
+        ]
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "marzig76",
+        "reviewers": []
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": []
+    },
+    {
+        "user": "michaelcourcy",
+        "reviewers": []
+    },
+    {
+        "user": "shaolinfry",
+        "reviewers": [
+            "dhimmel",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "jgarzik",
+        "reviewers": [
+            "jameshilliard",
+            "AllanDoensen",
+            "dgenr8",
+            "zander",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "iancoleman",
+        "reviewers": []
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "tenakakhan",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "zizelevak",
+        "reviewers": []
+    },
+    {
+        "user": "azuchi",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "rodasmith",
+        "reviewers": []
+    },
+    {
+        "user": "tenakakhan",
+        "reviewers": []
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": [
+            "instagibbs",
+            "harding"
+        ]
+    },
+    {
+        "user": "Christewart",
+        "reviewers": [
+            "evoskuil",
+            "Christewart"
+        ]
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": [
+            "Johan198311"
+        ]
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "paveljanik",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": []
+    },
+    {
+        "user": "techguy613",
+        "reviewers": [
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": []
+    },
+    {
+        "user": "rubensayshi",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "techguy613",
+        "reviewers": []
+    },
+    {
+        "user": "zander",
+        "reviewers": []
+    },
+    {
+        "user": "Mirobit",
+        "reviewers": [
+            "Mirobit",
+            "jonathancross",
+            "prusnak",
+            "saleemrashid"
+        ]
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": []
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "richardkiss",
+        "reviewers": []
+    },
+    {
+        "user": "ryanofsky",
+        "reviewers": [
+            "sdaftuar",
+            "ryanofsky",
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "user": "iancoleman",
+        "reviewers": []
+    },
+    {
+        "user": "DanielWeigl",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": []
+    },
+    {
+        "user": "jnewbery",
+        "reviewers": [
+            "TheBlueMatt"
+        ]
+    },
+    {
+        "user": "DanielWeigl",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "laanwj",
+        "reviewers": []
+    },
+    {
+        "user": "DanielWeigl",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "jnewbery",
+        "reviewers": []
+    },
+    {
+        "user": "dangershony",
+        "reviewers": []
+    },
+    {
+        "user": "dangershony",
+        "reviewers": []
+    },
+    {
+        "user": "zander",
+        "reviewers": [
+            "hoffmabc"
+        ]
+    },
+    {
+        "user": "isghe",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "gmaxwell",
+        "reviewers": [
+            "maflcko",
+            "luke-jr",
+            "laanwj"
+        ]
+    },
+    {
+        "user": "zander",
+        "reviewers": [
+            "hoffmabc"
+        ]
+    },
+    {
+        "user": "jnewbery",
+        "reviewers": [
+            "jl2012",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "rebroad",
+        "reviewers": []
+    },
+    {
+        "user": "Bohdat",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "techguy613",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "greglaun",
+        "reviewers": []
+    },
+    {
+        "user": "bijeebuss",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "farazdagi",
+        "reviewers": [
+            "ValleZ",
+            "cryply"
+        ]
+    },
+    {
+        "user": "sreekanthgs",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "chjj",
+        "reviewers": []
+    },
+    {
+        "user": "ysangkok",
+        "reviewers": []
+    },
+    {
+        "user": "elias19r",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": [
+            "sipa",
+            "TheBlueMatt",
+            "btcdrak",
+            "instagibbs",
+            "luke-jr"
+        ]
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "Sjors",
+        "reviewers": []
+    },
+    {
+        "user": "laanwj",
+        "reviewers": []
+    },
+    {
+        "user": "SandroMachado",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "super3",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "kristovatlas",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "n1bor",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "mappum",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "chriswheeler",
+        "reviewers": []
+    },
+    {
+        "user": "chriswheeler",
+        "reviewers": []
+    },
+    {
+        "user": "DeftNerd",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "Christewart",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": []
+    },
+    {
+        "user": "stevenroose",
+        "reviewers": []
+    },
+    {
+        "user": "priestc",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "techguy613",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "WriteCodeEveryday",
+        "reviewers": []
+    },
+    {
+        "user": "dooglus",
+        "reviewers": []
+    },
+    {
+        "user": "dooglus",
+        "reviewers": []
+    },
+    {
+        "user": "achow101",
+        "reviewers": []
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "voisine",
+        "reviewers": []
+    },
+    {
+        "user": "kanzure",
+        "reviewers": []
+    },
+    {
+        "user": "kanzure",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "instagibbs",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "Jesion",
+        "reviewers": []
+    },
+    {
+        "user": "techguy613",
+        "reviewers": []
+    },
+    {
+        "user": "Jesion",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "priestc",
+        "reviewers": []
+    },
+    {
+        "user": "CryptoDJ",
+        "reviewers": []
+    },
+    {
+        "user": "dangershony",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "morcos",
+        "reviewers": []
+    },
+    {
+        "user": "morcos",
+        "reviewers": []
+    },
+    {
+        "user": "morcos",
+        "reviewers": []
+    },
+    {
+        "user": "jameshilliard",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": [
+            "murchandamus",
+            "5twelve"
+        ]
+    },
+    {
+        "user": "Sjors",
+        "reviewers": []
+    },
+    {
+        "user": "Sjors",
+        "reviewers": []
+    },
+    {
+        "user": "Sjors",
+        "reviewers": []
+    },
+    {
+        "user": "SandroMachado",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "paveljanik",
+        "reviewers": []
+    },
+    {
+        "user": "kanzure",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "gavinandresen",
+        "reviewers": []
+    },
+    {
+        "user": "gavinandresen",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "dangershony",
+        "reviewers": []
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "Roasbeef",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "prusnak",
+        "reviewers": []
+    },
+    {
+        "user": "toby",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "paoloaga",
+        "reviewers": []
+    },
+    {
+        "user": "paoloaga",
+        "reviewers": []
+    },
+    {
+        "user": "paoloaga",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "fanatid",
+        "reviewers": []
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "jgeewax",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": [
+            "LadyS8214"
+        ]
+    },
+    {
+        "user": "JornC",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "iamsamwood",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "andychase",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "MarcoPon",
+        "reviewers": []
+    },
+    {
+        "user": "gubatron",
+        "reviewers": []
+    },
+    {
+        "user": "gubatron",
+        "reviewers": []
+    },
+    {
+        "user": "drwasho",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "kanzure",
+        "reviewers": []
+    },
+    {
+        "user": "priestc",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "jgarzik",
+        "reviewers": []
+    },
+    {
+        "user": "jgarzik",
+        "reviewers": []
+    },
+    {
+        "user": "harding",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "kristovatlas",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "SamouraiDev",
+        "reviewers": []
+    },
+    {
+        "user": "andychase",
+        "reviewers": []
+    },
+    {
+        "user": "laanwj",
+        "reviewers": [
+            "farisei77"
+        ]
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "matiu",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "dionyziz",
+        "reviewers": []
+    },
+    {
+        "user": "xbtdev",
+        "reviewers": []
+    },
+    {
+        "user": "bitstein",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": [
+            "Wasstechn"
+        ]
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "6londe",
+        "reviewers": []
+    },
+    {
+        "user": "dionyziz",
+        "reviewers": []
+    },
+    {
+        "user": "jwilkins",
+        "reviewers": []
+    },
+    {
+        "user": "jtimon",
+        "reviewers": []
+    },
+    {
+        "user": "jgarzik",
+        "reviewers": []
+    },
+    {
+        "user": "jwilkins",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "infertux",
+        "reviewers": []
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": []
+    },
+    {
+        "user": "ghost",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "jonathancross",
+        "reviewers": []
+    },
+    {
+        "user": "cdecker",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "priestc",
+        "reviewers": []
+    },
+    {
+        "user": "sdaftuar",
+        "reviewers": []
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "zdexter",
+        "reviewers": []
+    },
+    {
+        "user": "maaku",
+        "reviewers": []
+    },
+    {
+        "user": "maaku",
+        "reviewers": []
+    },
+    {
+        "user": "maaku",
+        "reviewers": []
+    },
+    {
+        "user": "maaku",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "rustyrussell",
+        "reviewers": []
+    },
+    {
+        "user": "laanwj",
+        "reviewers": []
+    },
+    {
+        "user": "rustyrussell",
+        "reviewers": []
+    },
+    {
+        "user": "maaku",
+        "reviewers": []
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "MarcoPon",
+        "reviewers": []
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": []
+    },
+    {
+        "user": "rayrrr",
+        "reviewers": []
+    },
+    {
+        "user": "drwasho",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "maflcko",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "UpalChakraborty",
+        "reviewers": []
+    },
+    {
+        "user": "CodeShark",
+        "reviewers": []
+    },
+    {
+        "user": "UpalChakraborty",
+        "reviewers": []
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "UpalChakraborty",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "andychase",
+        "reviewers": []
+    },
+    {
+        "user": "humanely",
+        "reviewers": []
+    },
+    {
+        "user": "andychase",
+        "reviewers": []
+    },
+    {
+        "user": "TheBlueMatt",
+        "reviewers": []
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "jtimon",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "btcdrak",
+        "reviewers": []
+    },
+    {
+        "user": "kallerosenbaum",
+        "reviewers": []
+    },
+    {
+        "user": "gavinandresen",
+        "reviewers": []
+    },
+    {
+        "user": "droark",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "JeffreyBytes",
+        "reviewers": []
+    },
+    {
+        "user": "jgarzik",
+        "reviewers": []
+    },
+    {
+        "user": "maraoz",
+        "reviewers": []
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": [
+            "rex4539",
+            "kallewoof"
+        ]
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "dcousens",
+        "reviewers": []
+    },
+    {
+        "user": "mruddy",
+        "reviewers": []
+    },
+    {
+        "user": "ondra-novak",
+        "reviewers": []
+    },
+    {
+        "user": "Eylrid",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "gavinandresen",
+        "reviewers": []
+    },
+    {
+        "user": "tungpang2009",
+        "reviewers": []
+    },
+    {
+        "user": "laanwj",
+        "reviewers": []
+    },
+    {
+        "user": "mruddy",
+        "reviewers": []
+    },
+    {
+        "user": "justusranvier",
+        "reviewers": []
+    },
+    {
+        "user": "maaku",
+        "reviewers": []
+    },
+    {
+        "user": "kristovatlas",
+        "reviewers": []
+    },
+    {
+        "user": "todu",
+        "reviewers": []
+    },
+    {
+        "user": "tungpang2009",
+        "reviewers": []
+    },
+    {
+        "user": "amingilani",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "Kirvx",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "jl2012",
+        "reviewers": []
+    },
+    {
+        "user": "maraoz",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "voisine",
+        "reviewers": []
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "maraoz",
+        "reviewers": []
+    },
+    {
+        "user": "nathanph",
+        "reviewers": []
+    },
+    {
+        "user": "Kefkius",
+        "reviewers": []
+    },
+    {
+        "user": "matiu",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "droark",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "harding",
+        "reviewers": []
+    },
+    {
+        "user": "UdjinM6",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "xeniacx",
+        "reviewers": []
+    },
+    {
+        "user": "np",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "ethernomad",
+        "reviewers": []
+    },
+    {
+        "user": "bip39JP",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": []
+    },
+    {
+        "user": "realindiahotel",
+        "reviewers": []
+    },
+    {
+        "user": "aalness",
+        "reviewers": []
+    },
+    {
+        "user": "realindiahotel",
+        "reviewers": []
+    },
+    {
+        "user": "kaykurokawa",
+        "reviewers": []
+    },
+    {
+        "user": "wink",
+        "reviewers": []
+    },
+    {
+        "user": "wink",
+        "reviewers": []
+    },
+    {
+        "user": "jonasschnelli",
+        "reviewers": [
+            "MoseMills"
+        ]
+    },
+    {
+        "user": "luke-jr",
+        "reviewers": []
+    },
+    {
+        "user": "shea256",
+        "reviewers": []
+    },
+    {
+        "user": "evoskuil",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "shea256",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "bip39CN",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "Y75QMO",
+        "reviewers": []
+    },
+    {
+        "user": "ecdsa",
+        "reviewers": []
+    },
+    {
+        "user": "robjohnson189",
+        "reviewers": []
+    },
+    {
+        "user": "robjohnson189",
+        "reviewers": []
+    },
+    {
+        "user": "soroushjp",
+        "reviewers": []
+    },
+    {
+        "user": "vstoykovbg",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "derrend",
+        "reviewers": []
+    },
+    {
+        "user": "gurnec",
+        "reviewers": []
+    },
+    {
+        "user": "jprupp",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "prusnak",
+        "reviewers": []
+    },
+    {
+        "user": "Y75QMO",
+        "reviewers": []
+    },
+    {
+        "user": "apoelstra",
+        "reviewers": []
+    },
+    {
+        "user": "jurov",
+        "reviewers": []
+    },
+    {
+        "user": "jurov",
+        "reviewers": []
+    },
+    {
+        "user": "bitcoinsSG",
+        "reviewers": []
+    },
+    {
+        "user": "Perlover",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "slush0",
+        "reviewers": []
+    },
+    {
+        "user": "bip39JP",
+        "reviewers": []
+    },
+    {
+        "user": "davecgh",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "maraoz",
+        "reviewers": []
+    },
+    {
+        "user": "mikehearn",
+        "reviewers": []
+    },
+    {
+        "user": "voisine",
+        "reviewers": []
+    },
+    {
+        "user": "timthelion",
+        "reviewers": []
+    },
+    {
+        "user": "timthelion",
+        "reviewers": []
+    },
+    {
+        "user": "erasmospunk",
+        "reviewers": []
+    },
+    {
+        "user": "erasmospunk",
+        "reviewers": []
+    },
+    {
+        "user": "voisine",
+        "reviewers": []
+    },
+    {
+        "user": "coder5876",
+        "reviewers": []
+    },
+    {
+        "user": "wozz",
+        "reviewers": []
+    },
+    {
+        "user": "AndersBNielsen",
+        "reviewers": []
+    },
+    {
+        "user": "voisine",
+        "reviewers": []
+    },
+    {
+        "user": "RobbieClarken",
+        "reviewers": []
+    },
+    {
+        "user": "jprichardson",
+        "reviewers": []
+    },
+    {
+        "user": "gavinandresen",
+        "reviewers": []
+    },
+    {
+        "user": "gavinandresen",
+        "reviewers": []
+    },
+    {
+        "user": "BenjaminTuckerInstitute",
+        "reviewers": []
+    },
+    {
+        "user": "ricmoo",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "prusnak",
+        "reviewers": []
+    },
+    {
+        "user": "greenaddress",
+        "reviewers": []
+    },
+    {
+        "user": "harding",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "aalness",
+        "reviewers": []
+    },
+    {
+        "user": "Telepatheic",
+        "reviewers": []
+    },
+    {
+        "user": "NicolasDorier",
+        "reviewers": []
+    },
+    {
+        "user": "willcl-ark",
+        "reviewers": []
+    },
+    {
+        "user": "prusnak",
+        "reviewers": []
+    },
+    {
+        "user": "rnicoll",
+        "reviewers": []
+    },
+    {
+        "user": "rnicoll",
+        "reviewers": []
+    },
+    {
+        "user": "prusnak",
+        "reviewers": []
+    },
+    {
+        "user": "prusnak",
+        "reviewers": []
+    },
+    {
+        "user": "voisine",
+        "reviewers": []
+    },
+    {
+        "user": "magoo",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "voisine",
+        "reviewers": []
+    },
+    {
+        "user": "olalonde",
+        "reviewers": []
+    },
+    {
+        "user": "laanwj",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "harding",
+        "reviewers": []
+    },
+    {
+        "user": "topynate",
+        "reviewers": []
+    },
+    {
+        "user": "stevenroose",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "afk11",
+        "reviewers": []
+    },
+    {
+        "user": "johnhenry",
+        "reviewers": []
+    },
+    {
+        "user": "ethernomad",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "airbreather",
+        "reviewers": []
+    },
+    {
+        "user": "swansontec",
+        "reviewers": []
+    },
+    {
+        "user": "MidnightLightning",
+        "reviewers": []
+    },
+    {
+        "user": "cscott",
+        "reviewers": []
+    },
+    {
+        "user": "cscott",
+        "reviewers": []
+    },
+    {
+        "user": "cscott",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "fanquake",
+        "reviewers": []
+    },
+    {
+        "user": "benjiqq",
+        "reviewers": []
+    },
+    {
+        "user": "slush0",
+        "reviewers": [
+            "rkhadem4",
+            "kingcathy23",
+            "heksani",
+            "Jesjimenez"
+        ]
+    },
+    {
+        "user": "jmcorgan",
+        "reviewers": []
+    },
+    {
+        "user": "oleganza",
+        "reviewers": []
+    },
+    {
+        "user": "petertodd",
+        "reviewers": []
+    },
+    {
+        "user": "schildbach",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "matiu",
+        "reviewers": []
+    },
+    {
+        "user": "brotchie",
+        "reviewers": []
+    },
+    {
+        "user": "elidourado",
+        "reviewers": []
+    },
+    {
+        "user": "wemeetagain",
+        "reviewers": []
+    },
+    {
+        "user": "sarchar",
+        "reviewers": []
+    },
+    {
+        "user": "discretepackets",
+        "reviewers": []
+    },
+    {
+        "user": "benjiqq",
+        "reviewers": []
+    },
+    {
+        "user": "sipa",
+        "reviewers": []
+    },
+    {
+        "user": "prusnak",
+        "reviewers": []
+    },
+    {
+        "user": "wink",
+        "reviewers": []
+    },
+    {
+        "user": "laanwj",
+        "reviewers": [
+            "glitteryskye99"
+        ]
+    }
+]

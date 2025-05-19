@@ -1,0 +1,110 @@
+Number,Date,Title,Author,Status
+1,21/03/2020,CIP Process,"Frederic Johnson, Sebastien Guillemot, Matthias Benkort, Duncan Coutts, Michael Peyton Jones, Robert Phair",Active
+2,04/05/2020,Coin Selection Algorithms for Cardano,Jonathan Knowles,Active
+3,07/05/2020,Wallet Key Generation,"Matthias Benkort, Sebastien Guillemot",Active
+4,01/05/2019,Wallet Checksums,"Ruslan Dudin, Sebastien Guillemot",Proposed
+5,28/05/2020,Common Bech32 Prefixes,Matthias Benkort,Active
+6,20/07/2020,Stake Pool Extended Metadata,"Markus Gufler, Mike Fullman",Active
+7,11/08/2020,Curve Pledge Benefit,Shawn McMurdo,Proposed
+8,28/09/2020,Message Signing,Sebastien Guillemot,Active
+9,29/01/2021,Protocol Parameters (Shelley Era),Kevin Hammond,Active
+10,31/10/2020,Transaction Metadata Label Registry,Sebastien Guillemot,Active
+11,04/11/2020,Staking key chain for HD wallets,"Sebastien Guillemot, Matthias Benkort",Active
+12,07/11/2020,On-chain stake pool operator to delegates communication,"Marek Mahut, Sebastien Guillemot, Ján Hrnko",Proposed
+13,22/09/2020,Cardano URI Scheme,"Robert Phair, Sebastien Guillemot, Vicente Almonacid",Proposed
+14,01/02/2020,User-Facing Asset Fingerprint,"Matthias Benkort, Rodney Lorrimar",Active
+15,05/01/2020,Registration Transaction Metadata Format,"Sebastien Guillemot, Rinor Hoxha, Mikhail Zabaluev",Active
+16,21/12/2020,Cryptographic Key Serialisation Formats,Luke Nadur,Active
+17,02/04/2020,Cardano Delegation Portfolio,Matthias Benkort,Inactive (abandoned for lack of interest)
+18,18/03/2020,Multi-Stake-Keys Wallets,Matthias Benkort,Proposed
+19,25/03/2020,Cardano Addresses,Matthias Benkort,Active
+20,13/06/2021,Transaction message/comment metadata,"Martin Lang, Ola Ahlman, Andrew Westberg",Active
+21,15/06/2021,Transaction requirements for interoperability with hardware wallets,"Gabriel Kerekes, Rafael Korbas, Jan Mazak",Active
+22,21/06/2021,Pool operator verification,"Andrew Westberg, Martin Lang, Ola Ahlman",Active
+23,04/02/2021,Fair Min Fees,Shawn McMurdo,Proposed
+24,15/09/2020,Non-Centralizing Rankings,Shawn McMurdo,Proposed
+25,08/04/2021,Media Token Metadata Standard,"Alessandro Konrad, Smaug",Active
+26,10/08/2021,Cardano Off-Chain Metadata,"Matthias Benkort, Michael Peyton Jones, Polina Vinogradova",Active
+27,29/08/2021,CNFT Community Royalties Standard,"Huth S0lo, TheRealAdamDean",Active
+28,14/10/2021,Protocol Parameters (Alonzo Era),Kevin Hammond,Active
+29,17/08/2020,Phase-1 Monetary Scripts Serialization Formats,Matthias Benkort,Active
+30,29/04/2021,Cardano dApp-Wallet Web Bridge,rooooooooob,Active
+31,29/11/2021,Reference inputs,Michael Peyton Jones,Active
+32,29/11/2021,Inline datums,Michael Peyton Jones,Active
+33,29/11/2021,Reference scripts,Michael Peyton Jones,Active
+34,24/11/2021,Chain ID Registry,Sebastien Guillemot,Proposed
+35,09/02/2022,Changes to Plutus Core,Michael Peyton Jones,Active
+36,06/12/2021,Catalyst Registration Transaction Metadata Format (Updated),"Giacomo Pasini, Kevin Hammond, Mark Stopka",Proposed
+37,03/12/2021,Dynamic Saturation Based on Pledge,Casey Gibson,Proposed
+40,10/02/2022,Collateral Output,"Sebastien Guillemot, Jared Corduan, Andre Knispel",Active
+42,09/02/2022,New Plutus Builtin serialiseData,"Matthias Benkort, Sebastian Nagel",Active
+45,29/11/2022,Decentralized WebRTC dApp-Wallet Communication,"Fabian Bormann, Jaime Caso",Active
+49,27/04/2022,ECDSA and Schnorr signatures in Plutus Core,"Koz Ross, Michael Peyton-Jones, Iñigo Querejeta Azurmendi",Active
+50,04/04/2022,Pledge Leverage-Based Staking Rewards,Michael Liesenfelt,Proposed
+52,25/04/2022,Cardano audit best practice guidelines,Simon Thompson,Proposed
+54,18/05/2022,Cardano Smart NFTs,Kieran Simkin,Proposed
+55,19/05/2022,Protocol Parameters (Babbage Era),Jared Corduan,Active
+57,15/05/2022,Plutus Contract Blueprint,"KtorZ, scarmuega",Active
+58,27/05/2022,Plutus Bitwise Primitives,"Koz Ross, Maximilian König",Inactive (superseded by CIP-0121 and CIP-0122)
+59,09/06/2022,Terminology Surrounding Core Features,Jared Corduan,Active
+60,26/07/2022,Music Token Metadata,"Andrew Westberg, Ryan Jones, Justin Morgan, Ian Singer, Anthony Eizmendiz, Session Cruz, Jimmy Londo, Gudbrand Tokerud, Kevin St.Clair, Brandon Loyche, Andrew Donovan, The Finest LLC (DBA So Litty Records), Cristhian Escobar, Gabriel Stephan Talamantes",Active
+67,13/07/2022,Asset Name Label Registry,"Alessandro Konrad, Thomas Vellekoop",Proposed
+68,13/07/2022,Datum Metadata Standard,"Alessandro Konrad, Thomas Vellekoop",Active
+69,23/08/2022,Script Signature Unification,Maksymilian 'zygomeb' Brodowicz,Active
+71,11/10/2022,Non-Fungible Token (NFT) Proxy Voting Standard,Thaddeus Diamond,Proposed
+72,18/10/2022,Cardano dApp Registration & Discovery,"Bruno Martins, Mateusz Czeladka, Daniel Main",Proposed
+74,17/10/2022,Set minPoolCost to 0,Robin of Loxley,Proposed
+75,21/10/2022,Fair Stake Pool Rewards,Tobias Fancee,Proposed
+80,09/11/2022,Transaction Serialization Deprecation Cycle,Jared Corduan,Active
+82,03/01/2022,Improved Rewards Scheme Parameters,Tobias Fancee,Proposed
+83,08/12/2022,Encrypted Transaction message/comment metadata (Addendum to CIP-0020),"Martin Lang, Ola Ahlman, Andrew Westberg, Adam Dean",Active
+84,30/01/2023,Cardano Ledger Evolution,Jared Corduan,Active
+85,30/01/2023,Sums-of-products in Plutus Core,Michael Peyton Jones,Active
+86,01/11/2022,NFT Metadata Update Oracles,"Nicolas Ayotte, George Flerovsky, Samuel Williams, Nathaniel Lane",Proposed
+88,27/02/2023,Token Policy Registration,Adam Dean,Proposed
+89,21/02/2023,Distributed DApps & Beacon Tokens,"fallen-icarus, zhekson1",Active
+91,05/02/2023,Don't force Built-In functions,Niels Mündler,Proposed
+93,27/12/2022,Authenticated Web3 HTTP requests,Juan Salvador Magán Valero,Proposed
+94,21/03/2023,On-chain SPO polls,"Matthias Benkort, Markus Gufler",Active
+95,24/02/2022,Web-Wallet Bridge - Conway ledger era,Ryan Williams,Active
+99,20/06/2023,Proof of Onboarding,"Adam Dean, Carl, Alex Dochioiu",Active
+100,09/04/2023,Governance Metadata,Pi Lanningham,Proposed
+101,13/06/2023,Integration of keccak256 into Plutus,"Sergei Patrikeev, Iñigo Querejeta-Azurmendi",Proposed
+102,08/08/2023,Royalty Datum Metadata,Sam Delaney,Proposed
+103,03/09/2023,Web-Wallet Bridge - Bulk transaction signing,"Martín Schere, Ola Ahlman",Active
+104,03/09/2023,Web-Wallet Bridge - Account public key,"Ola Ahlman, Andrew Westberg",Proposed
+105,22/09/2023,Conway era Key Chains for HD Wallets,Ryan Williams,Active
+106,12/10/2023,Web-Wallet Bridge - Multisig wallets,Leo,Proposed
+107,22/09/2020,URI Scheme - Block and transaction objects,Pi Lanningham,Proposed
+108,23/11/2023,Governance Metadata - Governance Actions,Ryan Williams,Proposed
+109,05/10/2023,Modular Exponentiation Built-in for Plutus Core,"Kenneth MacKenzie, Michael Peyton Jones, Iñigo Querejeta-Azurmendi, Thomas Vellekoop",Proposed
+110,20/12/2023,Plutus v1 Script References,Pi Lanningham,Active
+112,08/01/2024,Observe Script Type,Philip DiSarro,Proposed
+114,25/01/2020,CBOR Tags Registry,Steven Johnson,Proposed
+115,19/01/2024,CBOR tag definition - ED25519-BIP32 Keys,Steven Johnson,Proposed
+116,22/02/2024,Standard JSON encoding for Domain Types,Vladimir Kalnitsky,Proposed
+117,22/01/2024,Explicit script return values,Michael Peyton Jones,Active
+119,07/02/2024,Governance metadata - DReps,Thomas Upfield,Proposed
+120,19/03/2024,Constitution specification,"Ryan Williams, Danielle Stanko",Proposed
+121,17/11/2023,Integer-ByteString conversions,"Koz Ross, Ilia Rodionov, Jeff Cheah",Active
+122,03/05/2024,Logical operations over BuiltinByteString,Koz Ross,Active
+123,16/05/2024,Bitwise operations over BuiltinByteString,Koz Ross,Active
+124,19/03/2023,Extend token metadata for translations,"Vito Melchionna, Aaron Schmid, Carolina Isler @LaPetiteADA",Proposed
+127,22/05/2024,ripemd-160 hashing in Plutus Core,Tomasz Rybarczy,Active
+128,01/02/2024,Preserving Order of Transaction Inputs,Jonathan Rodriguez,Proposed
+129,15/07/2024,Governance Identifiers,Ashish Prajapati,Proposed
+133,22/08/2024,Plutus support for Multi-Scalar Multiplication over BLS12-381,"Dmytro Kaidalov, Adam Smolarek, Thomas Vellekoop",Proposed
+134,23/08/2024,Cardano URIs - Address Representation,Steven Johnson,Proposed
+135,17/06/2024,Disaster Recovery Plan for Cardano networks,"Kevin Hammond, Sam Leathers, Alex Moser, Steve Wagendorp, Andrew Westberg, Nicholas Clarke",Active
+136,17/07/2024,Governance metadata - Constitutional Committee votes,"Ryan Williams, Eystein Magnus Hansen",Proposed
+137,02/08/2024,Decentralized Message Queue,"Jean-Philippe Raynaud, Arnaud Bailly, Marcin Szamotulski, Armando Santos, Neil Davies, Sebastian Nagel",Proposed
+138,18/09/2024,Plutus Core Builtin Type - `Array`,"Michael Peyton Jones, Ana Pantilie",Proposed
+140,15/08/2024,Ouroboros Peras - Faster Settlement,"Arnaud Bailly, Brian W. Bush, Sandro Coretti-Drayton, Yves Hauser, Hans Lahe",Proposed
+143,03/12/2024,Interoperable Programmable Tokens,Philip DiSarro,Inactive (incorporated into candidate CIP-0113)
+381,11/02/2022,Plutus support for Pairings over BLS12-381,Iñigo Querejeta-Azurmendi,Active
+1694,18/11/2022,A First Step Towards On-Chain Decentralized Governance,"Jared Corduan, Andre Knispel, Matthias Benkort, Kevin Hammond, Charles Hoskinson, Samuel Leathers",Active
+1852,28/10/2019,HD (Hierarchy for Deterministic) Wallets for Cardano,"Sebastien Guillemot, Matthias Benkort",Active
+1853,14/12/2020,HD (Hierarchy for Deterministic) Stake Pool Cold Keys for Cardano,Rafael Korbas,Proposed
+1854,23/02/2021,Multi-signatures HD Wallets,"Matthias Benkort, Pawel Jakubas",Active
+1855,02/06/2021,Forging policy keys for HD Wallets,"Samuel Leathers, John Lotoski, Michael Bishop, David Arnold",Proposed
+9999,14/10/2022,Cardano Problem Statements,"Matthias Benkort, Michael Peyton Jones",Active
